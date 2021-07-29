@@ -11,6 +11,9 @@ enableGitInfo: true
 # Needed for mermaid/katex shortcodes
 markup:
   goldmark:
+    parser:
+      attribute:
+        title: true
     renderer:
       unsafe: true
   tableOfContents:

@@ -1,4 +1,4 @@
 ---
-title: For Prospective Applicants
+title: "**For Prospective Applicants**"
 weight: 20
 ---
