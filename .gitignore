@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/hugo
-# Edit at https://www.toptal.com/developers/gitignore?templates=hugo
+
+# macOS metadata
+.DS_Store
 
 ### Hugo ###
 # Generated files by hugo
@@ -11,5 +12,3 @@ hugo_stats.json
 hugo.exe
 hugo.darwin
 hugo.linux
-
-# End of https://www.toptal.com/developers/gitignore/api/hugo
