@@ -7,6 +7,22 @@ This is a page to provide indications of everything that needs to be done before
 
 ## To be rewritten
 
+From registration page:
+
+```
+IMPORTANT PAYROLL INFORMATION
+
+Students who are NOT ALREADY on payroll will need to fill out the necessary forms at the Student Employment Office. [Their website](https://puwebp.princeton.edu/StudentEmployment/index.jsf) explains what you need to bring to their office to register. Read it BEFORE you come to campus. Hiring requires being on the university payroll.
+
+Indeed, you need to be registered in two places before you can be paid by the Department of Computer Science:
+
+1. You need to be registered with the Student Employment Office to be added to university payroll: They will check your eligibility to work, and collect the necessary tax forms. This is a necessary step for any job on campus, but must only be done once during your time at Princeton.
+
+2. Only once you are registered with the Student Employment Office, can you be added to the department's time collection payroll. This is a step we will do for you, once you have filed your paperwork with the University. Only when this step is complete are you allowed to begin work.
+```
+
+From Louis:
+
 ````
 This is to inform you that you have been added to the Payroll System as a Grader in Computer Science.
 
