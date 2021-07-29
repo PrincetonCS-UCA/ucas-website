@@ -22,7 +22,7 @@ undo specific changes, if they are later identified as malicious).
 
 Below we outline how to suggest a change for any existing page on the website
 to get you started. This is a good opportunity to get to know [GitHub](https://github.com)
-and _version control systems_, which is are really important tools.
+and _version control systems_, which are really important tools.
 
 ## First Step: Click "Edit this page"
 
