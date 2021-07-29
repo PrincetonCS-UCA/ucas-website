@@ -1,0 +1,4 @@
+
+{{ if (fileExists "static/custom.css") -}}
+<link rel="stylesheet" href="{{ "custom.css" | absURL }}"/>
+{{- end }}
