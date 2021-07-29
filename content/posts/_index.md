@@ -1,7 +1,7 @@
 ---
 menu:
-  after:
+  before:
     name: news
     weight: 5
-title: "<br/>Announcements"
+title: "Announcements<br/><br/>"
 ---
