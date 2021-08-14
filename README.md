@@ -1,7 +1,7 @@
-# Hugo + GitHub Pages + GitHub Actions = ❤️
+# Princeton COS UCA Program Website
 
-This repository is a self-contained template for how to deploy a
-Hugo static site, hosted on GitHub, and deployed to GitHub Pages hosting,
-using the continuous integration available through GitHub Actions.
+This website is for the Department of Computer Science's Undergraduate Course Assistant program.
 
+## Hugo + GitHub Pages + GitHub Actions = ❤️
 
+This website was created in 10 minutes from the [`jlumbroso/hugo-github-example` template](https://github.com/jlumbroso/hugo-github-example). It is a [Hugo](https://gohugo.io)-powered static site, hosted on [GitHub](https://github.com), and deployed to [GitHub Pages hosting](https://pages.github.com), using the continuous integration available through [GitHub Actions](https://actions.github.com) (see [`.github/workflows/gh-pages.yaml`](https://github.com/jlumbroso/utas-website)).
