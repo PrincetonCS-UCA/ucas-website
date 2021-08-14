@@ -1,6 +1,6 @@
 ---
 title: "Before Getting Paid..."
-weight: 30
+weight: 10
 ---
 
 ## Overview
@@ -12,6 +12,10 @@ Before getting paid by the Department of Computer Science, you need to be regist
 2. Only once you are registered with the Student Employment Office, can you be added to the department's time collection payroll. This is a step we will do for you, once you have filed your paperwork with the University and been hired in one of our jobs. Only when this step is complete are you allowed to begin work and declare your hours. **If you have not completed the first step, our financial administrator will not be able to select you to be added to our payroll.**
 
 Once these steps have been completed, you will be ready to find out [How to Declare Your Hours]({{< ref "/docs/employees/time-collection" >}}) to get paid.
+
+{{< hint info >}}
+You will typically do Step 1 as soon as possible; if the current procedure outlined by the Student Employment Office, you should aim to take care of the paperwork in your first week on campus. Step 2 can be accomplished as needed as you are hired.
+{{< /hint >}}
 
 ## Submitting the Student Employment Office Paperwork
 
