@@ -9,7 +9,9 @@ Before getting paid by the Department of Computer Science, you need to be regist
 
 1. You need to be registered with the [Student Employment Office](https://finaid.princeton.edu/student-employment) to be added to university payroll: They will check your eligibility to work, and collect the necessary tax forms. This is a necessary step for _any_ job on campus, but must only be done once during your time at Princeton.
 
-2. Only once you are registered with the Student Employment Office, can you be added to the department's time collection payroll. This is a step we will do for you, once you have filed your paperwork with the University. Only when this step is complete are you allowed to begin work and declare your hours. **If you have not completed the first step, our financial administrator will not be able to select you to be added to our payroll.**
+2. Only once you are registered with the Student Employment Office, can you be added to the department's time collection payroll. This is a step we will do for you, once you have filed your paperwork with the University and been hired in one of our jobs. Only when this step is complete are you allowed to begin work and declare your hours. **If you have not completed the first step, our financial administrator will not be able to select you to be added to our payroll.**
+
+Once these steps have been completed, you will be ready to find out [How to Declare Your Hours]({{< ref "/docs/employeed/time-collection" >}}) to get paid.
 
 ## Submitting the Student Employment Office Paperwork
 
