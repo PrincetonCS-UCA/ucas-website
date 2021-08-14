@@ -16,11 +16,12 @@ Before getting paid by the Department of Computer Science, you need to be regist
 Students who are not already on the payroll, can find instructions on [the necessary forms to complete at this section of the Student Employment Office website](https://finaid.princeton.edu/student-employment/information-undergraduates/prior-working). Since March 2020, the Student Employment Office has allowed these documents to be verified remotely, using video conference; it is unclear how long this practice will continue to be used. Previously, documents needed to be manually brought to the office for verification.
 
 {{< hint info >}}
-You will need to fill an [**I-9 form**](http://www.uscis.gov/files/form/i-9.pdf), the purpose of which is to verify that you are eligible to work under U.S. employment law. This will require you to show [some documents to prove your identity and your authorization to work in the U.S.](http://www.princeton.edu/pr/aid/pdf/1314/I-9-Documents.pdf).
-{{< /hint >}}
+As part of your hiring, you will need to fill to U.S. federal tax forms:
 
-{{< hint info >}}
-You will also need to fill a **W-4 form**, the purpose of which is to determine how much the University must withhold from your paycheck to prepay federal taxes. This amount is an approximation of the taxes you might owe, usually an over-approximation which explains why consistently [over 80% of U.S. tax-payers get a federal tax refund](https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-december-11-2020).
+- an [**I-9 form**](http://www.uscis.gov/files/form/i-9.pdf), the purpose of which is to verify that you are eligible to work under U.S. employment law. This will require you to show [some documents to prove your identity and your authorization to work in the U.S.](http://www.princeton.edu/pr/aid/pdf/1314/I-9-Documents.pdf);
+
+- a **W-4 form**, the purpose of which is to determine how much the University must withhold from your paycheck to prepay federal taxes. This amount is an approximation of the taxes you might owe, usually an over-approximation which explains why consistently [over 80% of U.S. tax-payers get a federal tax refund](https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-december-11-2020).
+
 {{< /hint >}}
 
 ## Getting Added to the Department's Payroll

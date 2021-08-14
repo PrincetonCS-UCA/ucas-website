@@ -7,7 +7,9 @@ Princeton University uses **JobX** to advertise and solicit applications for mos
 
 For most UCA jobs, the Department of Computer Science does its hiring through [TigerUHR](https://tigeruhr.io). However some jobs, in particular summer research internships, are advertised through JobX.
 
-**You cannot be added to any hourly job until you have completed your official employment paperwork, please make sure you follow all steps outlined in the [Before Getting Paid]({{< ref "/docs/applicants/payroll" >}}) page.**
+{{< hint danger >}}
+**You cannot be added to the payroll for an hourly job until you have completed your official employment paperwork. Please make sure you follow all steps outlined in the [Before Getting Paid]({{< ref "/docs/applicants/payroll" >}}) page.**
+{{< /hint >}}
 
 ## How to Get Help
 
