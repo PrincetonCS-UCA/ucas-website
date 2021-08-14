@@ -9,6 +9,12 @@ For most UCA jobs, the Department of Computer Science does its hiring through [T
 
 **You cannot be added to any hourly job until you have completed your official employment paperwork, please make sure you follow all steps outlined in the [Before Getting Paid]({{< ref "/docs/applicants/payroll" >}}) page.**
 
+## How to Get Help
+
+If you have any questions about getting added to payroll or declaring hours, you may contact [Louis Riehl](https://www.cs.princeton.edu/people/admins), who oversees the department's payroll for Undergraduate Course Assistants.
+
+If you belong to [the UCA Slack]({{< ref "/docs/employees/slack" >}}), you can also ask him questions in the [#payroll channel](https://app.slack.com/client/TU01C5RPG/C01PA7ZFL6N).
+
 ## Official Instructions
 
 The [Student Employees portal](https://princeton.studentemployment.ngwebsolutions.com/cmx_content.aspx?cpid=9) contains several useful resources, including:
@@ -17,7 +23,7 @@ The [Student Employees portal](https://princeton.studentemployment.ngwebsolution
 
 - [Quick Tips for Time Sheet Entry](https://princeton.studentemployment.ngwebsolutions.com/cimages/TimesheetX%20-%20Tips%20for%20Student%20Time%20Entry.pdf)
 
-## Step-by-Step
+## Step-by-Step Guide
 
 1. Go to [TigerHub](https://registrar.princeton.edu/tigerhub).
 
