@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://wiki.tigeruhr.io
+baseURL: https://ugradjobs.cs.princeton.edu
 title: Princeton COS Undergraduate Course Assistants Program
 theme: hugo-book
 
