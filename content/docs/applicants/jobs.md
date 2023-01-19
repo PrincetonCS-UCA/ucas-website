@@ -39,9 +39,11 @@ The [Intro COS Lab](https://introlab.cs.princeton.edu/), currently in Lewis 121 
 
 For more information about the job, the conditions for applying, and the pay rate, please see [this page about becoming an Intro Lab TA job](https://introlab.cs.princeton.edu/information-about-becoming-an-intro-lab-ta/).
 
+The Intro COS Lab uses the [LabQueue](https://www.labqueue.io/queues/intro-cs-lab/queue/) to manage the queue of students waiting for help.
+
 Read specific information about the job responsibilities for:
 
-- [the Intro Lab TA job](https://introlab.cs.princeton.edu/guide-for-intro-lab-tas/)
+- [the Intro Lab TA job](https://introlab.cs.princeton.edu/guide-for-intro-lab-tas/) (which [requires an interview if you are a first-time Intro Lab TA](https://ugradjobs.cs.princeton.edu/docs/applicants/interview/))
 - [the Interviewers job](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-interviewers/) (apply directly by contacting the Head Intro Lab TA)
 - [the Head Intro Lab TA job](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-head-team/)
 
