@@ -26,6 +26,6 @@ In chronological order, since 2013:
 - James Evans '16 (codePost)
 - Richard Freling '16 (codePost)
 - [Lance Goodridge ’17 \*19 (TigerUHR and LabQueueV3)](https://www.cs.princeton.edu/news/goodridges-legacy-helps-liberate-faculty-enable-students)
-- Aaron Lichtblau '22
+- Aaron Lichtblau '22 (LabScheduler)
 - Moin Mir '23 (subswap)
-- Jeremy Dapaah '24
+- Jeremy Dapaah '24 (QTrack)
