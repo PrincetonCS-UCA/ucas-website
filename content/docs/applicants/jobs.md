@@ -5,6 +5,10 @@ weight: 1
 
 This page provides a general description of the responsibilities of all the jobs that are available to UCAs in Princeton University's Department of Computer Science. It also provides a description of the different job categories.
 
+# NOTE: THIS PAGE IS BEING UPDATED FOR SPRING 2023
+
+This page currently contains only the COS 126/226 and Intro Lab jobs. It is being expanded for Spring 2023. Stay tuned!
+
 # General Job Categories
 
 The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $16/hr):
