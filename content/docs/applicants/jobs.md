@@ -39,7 +39,7 @@ These jobs are not always hiring every semester, so please check [TigerUHR](http
 
 _Supervised by Dr. Jérémie Lumbroso (Spring 2023) and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
 
-_Team communication: Slack (central COS UCA Slack: `#lab-announcements`, `#126-lab`, `#2xx-lab`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#lab-announcements`, `#126-lab`, `#2xx-lab`)_
 
 The [Intro COS Lab](https://introlab.cs.princeton.edu/), currently in Lewis 121 and 122, is a place where students taking introductory courses can go for help in debugging their programs. The Intro Lab TAs are those glorious individuals working on the front lines, providing that help. The lab is available to students taking COS 109, COS 126, 217, and 226. The Intro Lab TAs are coordinated by the Head Intro Lab TA (possibly with an Assistant), who is an undergraduate. Most of the shifts are on evenings or weekends, and they last 2 hours. Typically, a TA either has two shifts per week, or is a substitute TA.
 
@@ -59,7 +59,7 @@ Read specific information about the job responsibilities for:
 
 _Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack (central COS UCA Slack: `#126-grading`, `#126-grading-notifications`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`, `#126-grading-notifications`)_
 
 **Description:**
 
@@ -86,7 +86,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality, su
 
 _Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack (central COS UCA Slack: `#126-grading-managers`, `#grading-managers`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading-managers`, `#grading-managers`)_
 
 **Description:**
 
@@ -118,7 +118,7 @@ This position supervises the UCA COS 126/226 graders, checks their work, and is 
 
 _Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack (central COS UCA Slack: `#226-grading`, `#226-grading-notifications`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`, `#226-grading-notifications`)_
 
 This position grades the programming assignments in Java.
 
@@ -130,7 +130,7 @@ In addition, the requirements involve having taken COS 226 and obtained a B+ or 
 
 _Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack (central COS UCA Slack: `#226-grading-managers`, `#grading-managers`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-managers`, `#grading-managers`)_
 
 Same description as the COS 126 grading manager position (see above).
 
