@@ -3,6 +3,12 @@ title: How to Declare Your Hours
 weight: 20
 ---
 
+## Summary
+
+- Once you have [been added to the department's payroll]({{< ref "/docs/employees/payroll" >}}), you can declare the hours that you work in the TimesheetX platform and get paid every few weeks.
+
+## Overview: What are JobX and TimesheetX?
+
 Princeton University uses **JobX** to advertise and solicit applications for most student employment jobs on campus (recruiting both undergraduate and graduate students). These jobs are typically hourly jobs, and student employees declare their hours on **TimesheetX**. Below is information on how to use the latter to declare your hours for COS jobs.
 
 For most UCA jobs, the Department of Computer Science does its hiring through [TigerUHR](https://tigeruhr.io). However some jobs, in particular summer research internships, are advertised through JobX.

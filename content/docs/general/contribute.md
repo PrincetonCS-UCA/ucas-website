@@ -1,6 +1,6 @@
 ---
 title: "How to Contribute to this Site"
-weight: 20
+weight: 30
 ---
 
 # How to Contribute to this Site

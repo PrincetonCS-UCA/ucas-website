@@ -3,11 +3,19 @@ title: "Before Getting Paid..."
 weight: 10
 ---
 
+## Summary
+
+- Before being added to department payroll, you need to complete your tax paperwork (I-9 and W-2 forms) either at the Office of Student Employment, or online on JobX. This paperwork will only need to be filed once during your time at Princeton; for legal reasons, it can only be filed when you have a job offer.
+
+- Once your tax paperwork is filed, you can be added to the Department of Computer Science's payroll, and start declaring hours using the TimesheetX platform.
+
+- The most common issue that new hires face is that they do not complete their tax paperwork, and they cannot be added to TimesheetX. The best person to contact for any issues having to do with payroll is Louis Riehl.
+
 ## Overview
 
 Before getting paid by the Department of Computer Science, you need to be registered in **two** different places:
 
-1. You need to be registered with the [Student Employment Office](https://finaid.princeton.edu/student-employment) to be added to university payroll: They will check your eligibility to work, and collect the necessary tax forms. This is a necessary step for _any_ job on campus, but must only be done once during your time at Princeton.
+1. You need to be registered with the [Student Employment Office](https://finaid.princeton.edu/student-employment) to be added to University payroll: They will check your eligibility to work, and collect the necessary tax forms. This is a necessary step for _any_ job on campus, but must only be done once during your time at Princeton.
 
 2. Only once you are registered with the Student Employment Office, can you be added to the department's time collection payroll. This is a step we will do for you, once you have filed your paperwork with the University and been hired in one of our jobs. Only when this step is complete are you allowed to begin work and declare your hours. **If you have not completed the first step, our financial administrator will not be able to select you to be added to our payroll.**
 
