@@ -79,7 +79,7 @@ This position grades the programming assignments and programming exams, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality, supportive feedback to introductory CS students. A detailed rubric is included, and the work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency, and clarity according to the [COS 126 Style Guide](https://docs.google.com/document/d/1t_3faRPgonwt78eM7tthA_bsjbKy6kn22cLVv4S0Bn0/edit).
 
-**Responsibilities:**
+**Responsibilities (~4-5 hrs/week):**
 
 - Attend weekly grader meeting 1h/week (as of Fall 2022: Wednesdays 4:30-5:30pm) to review rubric and start grading synchronously
 
@@ -104,7 +104,7 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position supervises the UCA COS 126/226 graders, checks their work, and is responsible for the grading process. The position may also involve creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
 
-**Responsibilities:**
+**Responsibilities (~10-15 hrs/week):**
 
 - Overall commitment of between 5-10 hours/week, depending on talent and creativity of applicants
 
@@ -160,7 +160,7 @@ _Supervised by Dr. Dan Leyzberg (Spring 2023)_
 
 This position assists preceptors (who are faculty or graduate students) in precepts, by walking around the room and helping students with their questions as they complete the precept work (as of Fall 2022, these are activities on the Ed Lessons platform designed by Dr. Leyzberg).
 
-**Responsibilities:**
+**Responsibilities (~3 hrs/week) :**
 
 - Attend a weekly staff meeting 1h/week (meeting time decided at beginning of semester)
 
@@ -213,7 +213,7 @@ _Supervised by Dr. Iasonas Petras (Spring 2023)_
 
 The COS 240 Lab TA holds office hours where COS 240 students can ask questions on and discuss the course material and the course's assignments. "
 
-**Responsibilities:**
+**Responsibilities (~5 hrs/week):**
 
 - Hold 4 hours of office hours per week.
 
@@ -274,7 +274,7 @@ _Team communication: Email_
 
 The position is for helping grade problem sets (about one Pset every other week). In addition, if the applicant is interested, they can also hold weekly office hours for additional pay.
 
-**Responsibilities (~ 6-10 hrs/week):**
+**Responsibilities (~6-10 hrs/week):**
 
 - Attend grading meetings (about once in two weeks) to agree on grading rubrics.
 
@@ -304,7 +304,7 @@ UCAs who are interested in other tasks (such as helping answer questions on Ed, 
 
 Additionally 1-2 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Pedro ([`pparedes@princeton.edu`](mailto:pparedes@princeton.edu)) to discuss.
 
-**Responsibilities:**
+**Responsibilities (~3-4 hrs/week):**
 
 - Attend weekly in-person meeting Thursdays 4:30PM-5:30PM. These meetings will tee up grading for the most recently submitted assignment, and we will ask you to stay for the entire hour to grade assignments with other course staff in the room.
 
@@ -378,7 +378,7 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 Students will assist the class AI's in scoring programming assignments and speaker reflections based on a rubric. They will also be able to attend class and listen to the lectures and guest speakers in this new and highly sought-after class.
 
-**Responsibilities:**
+**Responsibilities (~ 10 hrs/week):**
 
 - Assist in the scoring of 2-3 programming assignments
 
