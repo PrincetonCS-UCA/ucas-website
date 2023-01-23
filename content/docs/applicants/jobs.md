@@ -1,5 +1,5 @@
 ---
-title: What Jobs & Why Do Them
+title: COS UCA Job Catalog
 weight: 1
 ---
 
