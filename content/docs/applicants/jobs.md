@@ -192,7 +192,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 
 **Responsibilities:**
 
-- Grade students' work and provide feedback for ~2-8 hours a week
+- Grade students' work and provide feedback for ~4-8 hours a week
 
 - Attend (and participate in) grading consistency meetings (most likely online) taking place on Thursdays 4:30PM-5:30PM
 
@@ -213,7 +213,7 @@ _Supervised by Dr. Iasonas Petras (Spring 2023)_
 
 The COS 240 Lab TA holds office hours where COS 240 students can ask questions on and discuss the course material and the course's assignments. "
 
-**Responsibilities (~5 hrs/week):**
+**Responsibilities (~6 hrs/week):**
 
 - Hold 4 hours of office hours per week.
 
