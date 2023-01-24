@@ -43,7 +43,7 @@ Intro COS Lab
 
 ## [Intro COS Lab TA Program](https://introlab.cs.princeton.edu/)
 
-_Supervised by Dr. Jérémie Lumbroso (Spring 2023) and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
+_Supervised by Prof. Jérémie Lumbroso (Spring 2023) and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#lab-announcements`, `#126-lab`, `#2xx-lab`)_
 
@@ -69,7 +69,7 @@ COS 126: Computer Science: An Interdisciplinary Approach
 
 ### Grader position
 
-_Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`, `#126-grading-notifications`)_
 
@@ -96,7 +96,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality, su
 
 ### Grading Manager position(+)
 
-_Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading-managers`, `#grading-managers`)_
 
@@ -134,7 +134,7 @@ COS 226: Algorithms & Data Structures
 
 ### Grader position
 
-_Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`, `#226-grading-notifications`)_
 
@@ -146,7 +146,7 @@ In addition, the requirements involve having taken COS 226 and obtained a B+ or 
 
 ### Grading Manager position(+)
 
-_Supervised by Dr. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-managers`, `#grading-managers`)_
 
@@ -154,11 +154,11 @@ Same description as the COS 126 grading manager position (see above).
 
 ### Precept Assistant position
 
-_Supervised by Dr. Dan Leyzberg (Spring 2023)_
+_Supervised by Prof. Dan Leyzberg (Spring 2023)_
 
 **Description:**
 
-This position assists preceptors (who are faculty or graduate students) in precepts, by walking around the room and helping students with their questions as they complete the precept work (as of Fall 2022, these are activities on the Ed Lessons platform designed by Dr. Leyzberg).
+This position assists preceptors (who are faculty or graduate students) in precepts, by walking around the room and helping students with their questions as they complete the precept work (as of Fall 2022, these are activities on the Ed Lessons platform designed by Prof. Leyzberg).
 
 **Responsibilities (~3 hrs/week) :**
 
@@ -182,7 +182,7 @@ COS 240: Reasoning About Computation
 
 ### Grader position
 
-_Supervised by Dr. Iasonas Petras (Spring 2023)_
+_Supervised by Prof. Iasonas Petras (Spring 2023)_
 
 _Team communication: Email_
 
@@ -190,7 +190,7 @@ _Team communication: Email_
 
 The COS 240 grader grades COS 240 students' work and provides feedback.
 
-**Responsibilities:**
+**Responsibilities (~6-10 hrs/week):**
 
 - Grade (asynchronously) students' work and provide feedback for ~4-8 hours a week (on weeks when grading takes place, which is more or less every 2 weeks).
 
@@ -207,7 +207,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 
 ### Lab TA position
 
-_Supervised by Dr. Iasonas Petras (Spring 2023)_
+_Supervised by Prof. Iasonas Petras (Spring 2023)_
 
 **Description:**
 
@@ -223,6 +223,46 @@ The COS 240 Lab TA holds office hours where COS 240 students can ask questions o
 
 - Having taken COS 240 and performed well
 - Must have satisfactorily answered the supplemental survey
+
+<!--
+*****************************
+COS 324
+*****************************
+-->
+
+## COS 324: Introduction to Machine Learning
+
+_Supervised by Prof. Ruth Fong and Prof. Jia Deng (Spring 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-tas`)_
+
+**Description:**
+
+This position is a joint grader and office hour position.
+
+For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem (or part of a problem) a week according to a rubric.
+
+For office hours, you will host a weekly 2-hour office hours (either in-person or virtual, we try to offer roughly 50%-50% options) primarily for helping studying get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final.
+
+**Responsibilities (~ 5-10 hrs/week, depending on whether there is grading in a given week):**
+
+- Attend and actively participate in 1-hour staff meeting on Zoom each week (Mon 4:30-5:30pm for Spring 2023)
+
+- Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
+
+- Host 2-hour office hour block each week
+
+- Grade asynchronously one problem/sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2023)
+
+**Requirements:**
+
+- Having taken COS 429 and gotten an A- or better
+
+- Must have prior experience as a UCA (in any course)
+
+- Strong written communication skills (for grading)
+
+- Strong oral communication and relational skills (for facilitating office hours)
 
 <!--
 ************************
@@ -292,7 +332,7 @@ COS 445: Economics and Computation
 
 ## [COS 445: Economics and Computation](https://www.princetoncourses.com/course/1234012095)
 
-_Supervised by Prof. Matt Weinberg and Pedro Paredes (Spring 2023)_
+_Supervised by Prof. Matt Weinberg and Prof. Pedro Paredes (Spring 2023)_
 
 _Team communication: Email + Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#445-tas`)_
 
@@ -370,7 +410,7 @@ COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
 ## COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
-_Supervised by Dr. Rob Fish and Professor J. P. Singh (Spring 2023)_
+_Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
 
