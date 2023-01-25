@@ -190,9 +190,9 @@ _Team communication: Email_
 
 The COS 240 grader grades COS 240 students' work and provides feedback.
 
-**Responsibilities (~6-10 hrs/week):**
+**Responsibilities:**
 
-- Grade (asynchronously) students' work and provide feedback for ~4-8 hours a week (on weeks when grading takes place, which is more or less every 2 weeks).
+- Grade (asynchronously) students' work and provide feedback for ~4-7 hours a week (on weeks when grading takes place, which is more or less every 2 weeks).
 
 - Attend (and participate in) grading consistency meetings (most likely online) taking place on Thursdays 4:30PM-5:30PM
 
