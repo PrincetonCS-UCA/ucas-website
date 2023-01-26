@@ -7,7 +7,7 @@ This page provides a general description of the responsibilities of all the jobs
 
 # General Job Categories
 
-The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $16/hr):
+The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $17/hr):
 
 - **Lab TAs** who help students in undergraduate-staffed office hours
 - **Graders** who grade assignments and (in some courses) exams
