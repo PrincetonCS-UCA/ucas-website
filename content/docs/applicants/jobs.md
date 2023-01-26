@@ -569,7 +569,9 @@ The Department of Computer Science offers "IW seminars" for its majors, in which
 
 Generally, the faculty member is responsible for the overall theme of the seminar, and the UCA(s) is/are responsible for the logistics of the seminar. The UCA(s) is/are expected to be available to answer questions from students, to help students with their projects, and often to provide feedback during the group meeting time.
 
-The meeting times as well as the specific themes of each seminars are updated every term on [the IW seminar page of the Department of Computer Science](https://www.cs.princeton.edu/ugrad/independent-work/independent-work-seminars).
+The **meeting times** as well as **the specific themes of each seminars** are updated every term on [the IW seminar page of the Department of Computer Science](https://www.cs.princeton.edu/ugrad/independent-work/independent-work-seminars).
+
+➡️ **Please note that a UCA for a seminar is expected to be able to make the class meeting time for the seminar. It is your responsibility to check that you are available for the IW seminar for which you apply to be a UCA.**
 
 <!--
 ***********
