@@ -574,34 +574,32 @@ The **meeting times** as well as **the specific themes of each seminars** are up
 ➡️ **Please note that a UCA for a seminar is expected to be able to make the class meeting time for the seminar. It is your responsibility to check that you are available for the IW seminar for which you apply to be a UCA.**
 
 <!--
-***********
-Huacheng Yu
-***********
+*********
+Suma Bhat
+*********
 -->
 
-## Prof. Huacheng Yu
+## Prof. Suma Bhat
 
-See [academic website](https://www.cs.princeton.edu/~hy2/).
+See [academic website](https://publish.illinois.edu/sumapbhat/).
 
-_Team communication: Email_
+_Team communication: Course Slack_
 
 **Description:**
 
-UCAs participate in in-class discussions, give quick feedbacks to the student presentations in class and project proposal and mid-term reports, and hold office hours.
+This position primarily assists students in the seminar course.
+
+A UCA attends (most of) the weekly seminars, listens to the students' project updates and holds office hours.
 
 **Responsibilities (~3 hrs/week):**
 
-- Attend weekly class meetings (80 minutes)
+- Attend the weekly seminar (Spring 2023: Fridays 11AM-12:20PM) and listens to the students' project updates and action items
 
-- Hold a 1-hr office hour every week
-
-- Attend TA meetings before "grading" the proposal and mid-term report
+- Hold office hours for ~3 hours/week for students to stop by around key deadlines (beginning of semester, midpoint checkpoint) and clarify conceptual questions and troubleshooting implementations
 
 **Requirements:**
 
-- Must be COS or ORFE/MAT majors
-
-- Must have taken a COS 4xx (and gotten an A- or better) or a 5xx-level theory course
+- Must have been an UCA for an IW seminar or COS 333
 
 <!--
 **********
@@ -636,6 +634,36 @@ This position holds office hours to help answer students' questions on using ML 
 - Good programming skills with Python
 
 - Good verbal and written communication skills
+
+<!--
+***********
+Huacheng Yu
+***********
+-->
+
+## Prof. Huacheng Yu
+
+See [academic website](https://www.cs.princeton.edu/~hy2/).
+
+_Team communication: Email_
+
+**Description:**
+
+UCAs participate in in-class discussions, give quick feedbacks to the student presentations in class and project proposal and mid-term reports, and hold office hours.
+
+**Responsibilities (~3 hrs/week):**
+
+- Attend weekly class meetings (80 minutes)
+
+- Hold a 1-hr office hour every week
+
+- Attend TA meetings before "grading" the proposal and mid-term report
+
+**Requirements:**
+
+- Must be COS or ORFE/MAT majors
+
+- Must have taken a COS 4xx (and gotten an A- or better) or a 5xx-level theory course
 
 <!--
 
