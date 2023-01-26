@@ -141,7 +141,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
+_Team communication: Slack_
 
 **Description:**
 
