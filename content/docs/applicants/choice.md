@@ -5,7 +5,7 @@ weight: 2
 
 Every semester, the Department of Computer Science processes about over 500 applications, for more than 250 positions (some UCAs work in several positions). We are very grateful for the interest in our courses, and we are committed to providing **a fair and transparent process for all applicants**.
 
-Our promise to you is to ensure that our process is free from bias and provides every student an opportunity to work in an interesting, résumé-building job.
+Our promise to you is to ensure that our process is free from bias and provides every student an opportunity to work in an interesting, résumé-building job, as expected of us by [the official guidance set forth by the Office of the Dean of the College](https://odoc.princeton.edu/policy-undergraduate-course-assistants).
 
 # Lifecycle of a UCA Application
 
