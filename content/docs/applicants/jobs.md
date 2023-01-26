@@ -5,10 +5,6 @@ weight: 1
 
 This page provides a general description of the responsibilities of all the jobs that are available to UCAs in Princeton University's Department of Computer Science. It also provides a description of the different job categories.
 
-# NOTE: THIS PAGE IS BEING UPDATED FOR SPRING 2023
-
-This page currently contains only the COS 126/226 and Intro Lab jobs, as well as a select number of upper-level courses. It is being expanded for Spring 2023. Stay tuned!
-
 # General Job Categories
 
 The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $16/hr):
@@ -17,7 +13,9 @@ The department employs undergraduates to assist with many COS courses. The jobs 
 - **Graders** who grade assignments and (in some courses) exams
 - **In-class TAs** who help students in the classroom (these positions are called _facilitators_ or _precept assistants_)
 
-Some courses also hire a higher-level position (paid $20/hr):
+Some [Independent Work (IW) seminars](#iw-seminar-jobs) also hires 1-2 UCAs to do a combination of all three jobs (assisting in class to provide feedback to student presenting their projects, grading projects, and providing office hours for students to get help with their projects).
+
+Finally, some courses also hire a higher-level position (paid $20/hr):
 
 - **Managers** who coordinate and supervise the work of other UCAs (typically managers have already worked in the course in a previous semester)
 
@@ -41,7 +39,7 @@ Intro COS Lab
 *************
 --->
 
-## [Intro COS Lab TA Program](https://introlab.cs.princeton.edu/)
+## Intro COS Lab TA Program
 
 _Supervised by Prof. Jérémie Lumbroso (Spring 2023) and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
 
@@ -65,7 +63,9 @@ COS 126: Computer Science: An Interdisciplinary Approach
 ********************************************************
 --->
 
-## [COS 126: Computer Science: An Interdisciplinary Approach](https://www.princetoncourses.com/course/1234002051)
+## COS 126: Computer Science: An Interdisciplinary Approach
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002051)
 
 ### Grader position
 
@@ -90,8 +90,11 @@ Graders work through [codePost](https://codepost.io) to provide high-quality, su
 **Requirements:**
 
 - Having taken COS 126 (B+ or better typically, though exceptions are made)
+
 - Score of 3 or higher on the supplemental application quiz (evaluated objectively using a rubric)
+
 - Strong empathetic skills
+
 - Good written communication skills
 
 ### Grading Manager position(+)
@@ -121,8 +124,38 @@ This position supervises the UCA COS 126/226 graders, checks their work, and is 
 **Requirements:**
 
 - Having been a COS 126/226 grader for at least one semester, ideally two
+
 - Having a strong track record of grading (e.g. high quality, timely, and consistent grading)
+
 - Being able to communicate effectively with the graders
+
+<!--
+********************************************
+COS 217: Introduction to Programming Systems
+********************************************
+-->
+
+## COS 217: Introduction to Programming Systems
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002053)
+
+_Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Spring 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
+
+**Description:**
+
+The COS 217 grader evaluates COS 217 assignment transcripts and code to grade and provide high-quality, supportive feedback on students' submissions. Grading is done via codePost using primarily pre-defined rubric notes and deductions.
+
+**Responsibilities (~6-10 hours/week):**
+
+- Attend weekly grader meeting ~1 hour per week (Spring 2023: Thursdays 4:30-~5:30pm). During weeks an assignment is due, this meeting will refresh your memory of that assignment, describe common errors, and review the rubric and codePost items to prepare for grading. During weeks between assignment due dates, this meeting will serve as a grading session to do some synchronous grading and get questions answered.
+
+- Grade 8-15 submissions a synchronously. Typically this accounts for 4-8 hours per week, though some assignments may grade faster or slower than others.
+
+**Requirements:**
+
+- Having taken COS 217 and gotten an A- or better (B+ will be considered)
 
 <!--
 *************************************
@@ -130,7 +163,9 @@ COS 226: Algorithms & Data Structures
 *************************************
 --->
 
-## [COS 226: Algorithms & Data Structures](https://www.princetoncourses.com/course/1234002054)
+## COS 226: Algorithms & Data Structures
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002054)
 
 ### Grader position
 
@@ -156,21 +191,31 @@ Same description as the COS 126 grading manager position (see above).
 
 _Supervised by Prof. Dan Leyzberg (Spring 2023)_
 
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-managers`, `#grading-managers`)_
+
 **Description:**
 
-This position assists preceptors (who are faculty or graduate students) in precepts, by walking around the room and helping students with their questions as they complete the precept work (as of Fall 2022, these are activities on the Ed Lessons platform designed by Prof. Leyzberg).
+Working alongside a graduate student or faculty preceptor, precept assistants are responsible for helping students understand the solutions to a predefined set of multiple choice questions and coding exercises (on the Ed Lessons platform). Precept assistants will visit with students working on these exercises and be available to answer questions or explain the course material.
 
-**Responsibilities (~3 hrs/week) :**
+An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and, is able to explain the course material in a variety of ways. If you can do this, while, also, highlighting the real-world impacts and inherent beauty of data structures and algorithms, you'd no doubt make an excellent precept assistant.
 
-- Attend a weekly staff meeting 1h/week (meeting time decided at beginning of semester)
+**Responsibilities (~3-6 hrs/week) :**
 
-- Prepare the precept exercises each week ~30min/week
+- Prepare by reviewing upcoming precept exercises and assignments before class (1.5h/week)
 
-- Attend and assist in a precept 1h/week
+- Attend one precept per week and answer students' questions (1.5h/week)
+
+- Optionally, attend a (paid) planning/socializing meeting for precept assistants (1h/week)
+
+- Optionally, hold office hours to help students with quizzes and assignments (2h/week)
 
 **Requirements:**
 
 - Having taken COS 226
+
+- Being able to communicate effectively with a diverse group of students
+
+- Being able to describe the real-world impacts of data structures and algorithms
 
 <!--
 ************************************
@@ -178,7 +223,9 @@ COS 240: Reasoning About Computation
 ************************************
 --->
 
-## [COS 240: Reasoning About Computation](https://www.princetoncourses.com/course/1234016239)
+## COS 240: Reasoning About Computation
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234016239)
 
 ### Grader position
 
@@ -203,6 +250,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 **Requirements:**
 
 - Having taken COS 240 and performed well
+
 - Must have satisfactorily answered the supplemental survey
 
 ### Lab TA position
@@ -222,15 +270,18 @@ The COS 240 Lab TA holds office hours where COS 240 students can ask questions o
 **Requirements:**
 
 - Having taken COS 240 and performed well
+
 - Must have satisfactorily answered the supplemental survey
 
 <!--
-*****************************
-COS 324
-*****************************
+*****************************************
+COS 324: Introduction to Machine Learning
+*****************************************
 -->
 
 ## COS 324: Introduction to Machine Learning
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
 _Supervised by Prof. Ruth Fong and Prof. Jia Deng (Spring 2023)_
 
@@ -265,12 +316,80 @@ For office hours, you will host a weekly 2-hour office hours (either in-person o
 - Strong oral communication and relational skills (for facilitating office hours)
 
 <!--
+****************************************
+COS 333: Advanced Programming Techniques
+****************************************
+-->
+
+## COS 333: Advanced Programming Techniques
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002065)
+
+_Supervised by Prof. Bob Dondero (Spring 2023)_
+
+_Team communication: Email, and staff mailing list [cos333instructors@lists.cs.princeton.edu](mailto:cos333instructors@lists.cs.princeton.edu)_
+
+**Description:**
+
+A COS 333 UCA works with a graduate student TA to grade some semester-long projects.
+
+**Responsibilities:**
+
+_These responsibilities refer to "Reading Period" and "Dean's Date" as defined in the [Registrar's Office's academic calendar](https://registrar.princeton.edu/academic-calendar-and-deadlines)._
+
+- Each UCA will participate in a ~2 hour Zoom pre-grading meeting with the lead instructor and graduate student TAs. During that meeting they will discuss the project grading rubrics. That meeting will occur sometime during Reading Period.
+
+- After Dean's Date each UCA will grade 4-to-6 projects, approximately one per day. Some slippage of that schedule will be fine. The grading will be mostly asynchronous, but could involve some synchronous interaction with the members of the teams whose projects are being graded. An UCA will devote ~5 hours to grading each project.
+
+- Finally, each UCA will participate in a final ~4 hour Zoom meeting with the lead instructor and graduate student TAs. During that meeting they will finalize the project grades. That meeting will occur shortly before the day when course letter grades are due at the Registrar's Office.
+
+**Requirements:**
+
+- Having taken COS 333 and gotten an A- or better
+
+<!--
+*********************************************
+COS 343: Algorithms for Computational Biology
+*********************************************
+-->
+
+## COS 343: Algorithms for Computational Biology
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014445)
+
+_Supervised by Prof. Ben Raphael (Spring 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#343-tas`)_
+
+**Description:**
+
+The primary responsibility of this position is to grade 5 homework assignments, midterm, and final exam. HW assignments consist of written exercises and short programming exercises. The written exercises are graded for correctness and clarity using a detailed rubric that will be provided. Programming exercises are graded for correctness, but not for quality of code.
+
+UCAs who are interested in other tasks such as helping answer questions on Ed, holding office hours to answer student questions, or contributing to the development/debugging of new assignments are welcome to do so, and will be paid for time spent on these activities.
+
+**Responsibilities (~ 5-8 hrs/week):**
+
+- Attend bi-weekly in-person staff meeting (<1hr)
+
+- Consistently meet grading deadlines
+
+**Requirements:**
+
+- Must be COS or ORFE/MAT majors (other majors acceptable with relevant experience)
+
+- Must have taken COS 226 with a grade of B+ or better
+
+- Must be interested in course topics (computational biology)
+
+<!--
 ************************
 COS 429: Computer Vision
 ************************
 --->
 
-## [COS 429: Computer Vision](https://www.princetoncourses.com/course/1234009123)
+## COS 429: Computer Vision
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234009123)
 
 _Supervised by Prof. Olga Russakovsky (Spring 2023)_
 
@@ -285,12 +404,16 @@ _All UCAs will be expected to assist with grading of assignments and exams._
 Beyond that, we would welcome help with:
 
 - UCA-run office hours
+
 - UCA support to help guide the final projects
+
 - UCA support with debugging any new assignments
+
 - UCA support with grading the poster session and/or the final project reports
+
 - UCA support with the two exam review sessions
 
-**Responsibilities:**
+**Responsibilities (~5-10 hrs/week, depending on whether there is grading in a given week):**
 
 There are 4 assignments and 2 exams. These will be due approximately every 2 weeks and need to be _graded within a week_. UCAs will be expected to be available to turn the grading around within about 5 days, and to work closely with the grad TA responsible for each assignment.
 
@@ -304,7 +427,9 @@ COS 433: Cryptography
 *********************
 --->
 
-## [COS 433: Cryptography](https://www.princetoncourses.com/course/1234009125)
+## COS 433: Cryptography
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234009125)
 
 _Supervised by Prof. Zeev Dvir (Spring 2023)_
 
@@ -330,7 +455,9 @@ COS 445: Economics and Computation
 **********************************
 --->
 
-## [COS 445: Economics and Computation](https://www.princetoncourses.com/course/1234012095)
+## COS 445: Economics and Computation
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234012095)
 
 _Supervised by Prof. Matt Weinberg and Prof. Pedro Paredes (Spring 2023)_
 
@@ -380,7 +507,9 @@ COS 461: Computer Networks
 **************************
 --->
 
-## [COS 461: Computer Networks](https://www.princetoncourses.com/course/1234002078)
+## COS 461: Computer Networks
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002078)
 
 _Supervised by Prof. Kyle Jamieson (Spring 2023)_
 
@@ -410,6 +539,8 @@ COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
 ## COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
+⚠️ **This course is brand new and has never been taught before.**
+
 _Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
@@ -418,7 +549,7 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 Students will assist the class AI's in scoring programming assignments and speaker reflections based on a rubric. They will also be able to attend class and listen to the lectures and guest speakers in this new and highly sought-after class.
 
-**Responsibilities (~ 10 hrs/week):**
+**Responsibilities (~10 hrs/week):**
 
 - Assist in the scoring of 2-3 programming assignments
 
@@ -432,7 +563,77 @@ Students will assist the class AI's in scoring programming assignments and speak
 
 - Any applicant will be interviewed by the course staff prior to hire
 
+# IW Seminar Jobs
+
+The Department of Computer Science offers "IW seminars" for its majors, in which a faculty advises a group of 8-10 students each on their own project around a theme of the faculty's choosing.
+
+Generally, the faculty member is responsible for the overall theme of the seminar, and the UCA(s) is/are responsible for the logistics of the seminar. The UCA(s) is/are expected to be available to answer questions from students, to help students with their projects, and often to provide feedback during the group meeting time.
+
+The meeting times as well as the specific themes of each seminars are updated every term on [the IW seminar page of the Department of Computer Science](https://www.cs.princeton.edu/ugrad/independent-work/independent-work-seminars).
+
+<!--
+***********
+Huacheng Yu
+***********
 -->
+
+## Prof. Huacheng Yu
+
+See [academic website](https://www.cs.princeton.edu/~hy2/).
+
+_Team communication: Email_
+
+**Description:**
+
+UCAs participate in in-class discussions, give quick feedbacks to the student presentations in class and project proposal and mid-term reports, and hold office hours.
+
+**Responsibilities (~3 hrs/week):**
+
+- Attend weekly class meetings (80 minutes)
+
+- Hold a 1-hr office hour every week
+
+- Attend TA meetings before "grading" the proposal and mid-term report
+
+**Requirements:**
+
+- Must be COS or ORFE/MAT majors
+
+- Must have taken a COS 4xx (and gotten an A- or better) or a 5xx-level theory course
+
+<!--
+**********
+Xiaoyan Li
+**********
+-->
+
+## Prof. Xiaoyan Li
+
+See [academic website](https://www.cs.princeton.edu/people/profile/xiaoyan).
+
+_Team communication: Email_
+
+**Description:**
+
+This position holds office hours to help answer students' questions on using ML packages or coding with Python. The UCAs are also expected to help organize students' project presentation in class and check their weekly progress.
+
+**Responsibilities (~7 hrs/week):**
+
+- Attend weekly class meeting ~1.5h/week or 3h/week (Spring 2023: Fridays 11AM-12:20PM or 1:30PM-2:50PM)
+
+- Hold office hours 1h or 2h/week
+
+- Read students' weekly progress report 2h or 3h/week
+
+**Requirements:**
+
+- Passing an interview with Prof. Xiaoyan Li
+
+- Having completed an IW in machine learning or data science
+
+- Good programming skills with Python
+
+- Good verbal and written communication skills
 
 <!--
 
