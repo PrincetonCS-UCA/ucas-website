@@ -565,6 +565,48 @@ Students will assist the class AI's in scoring programming assignments and speak
 
 - Any applicant will be interviewed by the course staff prior to hire
 
+<!--
+*****************************************
+COS 484: Natural Language Processing
+*****************************************
+-->
+
+## COS 484: Natural Language Processing
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234015210).
+
+_Supervised by Prof. Danqi Chen (Spring 2023)_
+
+_Team communication: Course Slack_<!--Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#484-tas`)_-->
+
+**Description:**
+
+This position is a joint grader and office hour position.
+
+For grading, you will be part of the team that grades our assignments: there are 4 + 1 assignments throughout the semester (including one warm-up), and each assignment has a written component, and a programming component based on Colab. Typically, you will grade one problem (or part of a problem) a week according to a rubric.
+
+For office hours, you will host a weekly 1-hour office hours primarily for helping studying get unstuck on our assignments, or provide prep support before our midterm, or provide guidance on their final project.
+
+**Responsibilities (~ 5-10 hrs/week, depending on whether there is grading in a given week):**
+
+- Attend and actively participate in 30-min staff meeting each week (time and location TBD)
+
+- Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
+
+- Host 1-hour office hour block each week
+
+- Grade asynchronously one problem/sub-problem (~5-8 hours for each assignment; again there are 4+1 assignments in total) for the entire class.
+
+- Responsible for regrade requests after the grades are released (0-3 hours for each assignment; really depends on how many issues we may have).
+
+**Requirements:**
+
+- Having taken COS 484 and gotten an A- or better
+
+- Ideally have prior experience as a UCA (in any course)
+
+- Strong written communication skills (for grading)
+
 # IW Seminar Jobs
 
 The Department of Computer Science offers "IW seminars" for its majors, in which a faculty advises a group of 8-10 students each on their own project around a theme of the faculty's choosing.
