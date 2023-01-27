@@ -307,13 +307,15 @@ For office hours, you will host a weekly 2-hour office hours (either in-person o
 
 **Requirements:**
 
-- Having taken COS 429 and gotten an A- or better
-
-- Must have prior experience as a UCA (in any course)
+- Having taken COS 324 and received a B+ or better
 
 - Strong written communication skills (for grading)
 
 - Strong oral communication and relational skills (for facilitating office hours)
+
+**Preferred:**
+
+- Prior experience as a UCA (in any course)
 
 <!--
 ****************************************
