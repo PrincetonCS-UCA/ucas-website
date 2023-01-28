@@ -595,11 +595,11 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 - Host 1-hour office hour block each week
 
-- Grade asynchronously one problem/sub-problem (~3-6 hours for each assignment; there are 4+1 assignments in total throughout the semester) for the entire class.
+- Grade asynchronously one problem/sub-problem (~4-6 hours for each assignment; there are 4+1 assignments in total throughout the semester) for the entire class.
 
 - Responsible for regrade requests after the grades are released (0-3 hours for each assignment; really depends on how many issues we may have).
 
-- Help with answer questions on Ed together together with graduate TAs
+- Help with answer questions on Ed together with graduate TAs
 
 **Requirements:**
 
