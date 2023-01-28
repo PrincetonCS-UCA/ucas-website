@@ -585,19 +585,21 @@ This position is a joint grader and office hour position.
 
 For grading, you will be part of the team that grades our assignments: there are 4 + 1 assignments throughout the semester (including one warm-up), and each assignment has a written component, and a programming component based on Colab. Typically, you will grade one problem (or part of a problem) a week according to a rubric.
 
-For office hours, you will host a weekly 1-hour office hours primarily for helping studying get unstuck on our assignments, or provide prep support before our midterm, or provide guidance on their final project.
+For office hours, you will host a weekly 1-hour office hours primarily for helping studying get unstuck on our assignments, or provide prep support before midterm, or provide guidance on their final project.
 
-**Responsibilities (~ 5-10 hrs/week, depending on whether there is grading in a given week):**
+**Responsibilities (~4-8 hrs/week, depending on whether there is grading in a given week):**
 
 - Attend and actively participate in 30-min staff meeting each week (time and location TBD)
 
-- Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
+- Prep for hosting office hours each week (0.5~2 hours; this really depends on your familiarity of the course materials. For the weeks that have an assignment due, you are expected to do the assignment yourself and it will take longer)
 
 - Host 1-hour office hour block each week
 
-- Grade asynchronously one problem/sub-problem (~5-8 hours for each assignment; again there are 4+1 assignments in total) for the entire class.
+- Grade asynchronously one problem/sub-problem (~3-6 hours for each assignment; there are 4+1 assignments in total throughout the semester) for the entire class.
 
 - Responsible for regrade requests after the grades are released (0-3 hours for each assignment; really depends on how many issues we may have).
+
+- Help with answer questions on Ed together together with graduate TAs
 
 **Requirements:**
 
@@ -606,6 +608,8 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 - Ideally have prior experience as a UCA (in any course)
 
 - Strong written communication skills (for grading)
+
+- Strong oral communication and relational skills (for facilitating office hours)
 
 # IW Seminar Jobs
 
