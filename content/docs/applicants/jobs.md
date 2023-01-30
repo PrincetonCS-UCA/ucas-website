@@ -611,6 +611,51 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 - Strong oral communication and relational skills (for facilitating office hours)
 
+# External Courses Jobs
+
+Occasionally, the Department of Computer Science will hire UCAs for courses outside of the COS department. These positions are listed below, and may not recruit every semester. Please check the TigerUHR application for confirmation.
+
+<!--
+***************************************************
+EGR 154: Foundations of Engineering: Linear Systems
+***************************************************
+-->
+
+## EGR 154: Foundations of Engineering: Linear Systems
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014473).
+
+_Supervised by Prof. Bernard Chazelle and Dev Dabke (Spring 2023)_
+
+_Team communication: Email_
+
+**Description:**
+
+UCAs, working under the direction of the instructor and head TA will do one of the following three tasks (based on their preference): helping craft homework problems, grading, and facilitating help sessions.
+
+**Responsibilities (~3-5 hrs/week):**
+
+- UCAs work from the second week of classes to the last day of classes. UCAs will not have to work during midterm week, spring break, or after Dean's Date.
+
+- UCAs can work in person or entirely remotely depending on their preference.
+
+- UCAs will work about 3 hours per week and not more than 5 hours.
+
+- There is a weekly 30-minute meeting via Zoom (based on everyone's availability)
+
+- UCAs can pick from among three different tasks depending on their preference:
+  1. Grading, which happens remotely every Friday via Gradescope with a rubric provided by the head TA. **Assignments are submitted on Thursday and we always return grades within 24 hours.** UCAs will not be responsible for grading the midterm exam or final exam.
+  2. Facilitating help sessions, which are on Monday and Wednesday from 4:30PM-7:30PM in COS 301. UCAs can help with all or part of one or both of these help sessions.
+  3. Working with the head TA to create the homework, which must be done by each Wednesday, so we can post the assignment on Thursdays.
+
+**Requirements:**
+
+- Must have taken EGR 154 and gotten an A, or have taken MAT 202/217 and having gotten a B+ or higher
+
+- Must be reliable and consistent
+
+- Must be communicative via email, and respond to emails within a few hours
+
 # IW Seminar Jobs
 
 The Department of Computer Science offers "IW seminars" for its majors, in which a faculty advises a group of 8-10 students each on their own project around a theme of the faculty's choosing.
