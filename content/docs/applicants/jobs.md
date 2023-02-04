@@ -541,11 +541,11 @@ COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
 ## COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
-⚠️ **This course is brand new and has never been taught before.**
+⚠️ **This course is brand new and has never been taught before, except [as a pilot class](https://www.princetoncourses.com/course/1224002084).**
 
 _Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#471-ucas`)_
 
 **Description:**
 
