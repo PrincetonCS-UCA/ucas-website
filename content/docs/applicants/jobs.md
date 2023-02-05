@@ -589,7 +589,7 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 **Responsibilities (~4-8 hrs/week, depending on whether there is grading in a given week):**
 
-- Attend and actively participate in 30-min staff meeting each week (time and location TBD)
+- Attend and actively participate in 30-min staff meeting each week (Thursday 4:30-5pm in COS 401)
 
 - Prep for hosting office hours each week (0.5~2 hours; this really depends on your familiarity of the course materials. For the weeks that have an assignment due, you are expected to do the assignment yourself and it will take longer)
 
