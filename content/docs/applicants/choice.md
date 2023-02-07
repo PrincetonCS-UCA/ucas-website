@@ -37,6 +37,8 @@ For each UCA job, you can indicate that STRONG, WEAK or NO interest.
 
 There are a few rules to consider:
 
+- Staffing the [Intro COS Lab program](https://introlab.cs.princeton.edu) is the highest priority, as it serves a very large population of non-major students, and support the introductory curriculum of the department (COS 126, 217, 226 and occasionally COS 109). For this reason, if you apply, are interviewed and offered a job of Intro Lab TA, **it will override your preferences**, you will be assigned to it and cannot turn it down; on the flip side, this means if you are unsure whether you might get a UCA job, applying to the Intro COS Lab increases your chances significantly.
+
 - You may be found suitable for multiple jobs, and **you will be hired first in the highest priority jobs** for which you have expressed a STRONG preference. If you turn down an offer for your highest priority job AND you had expressed a STRONG preference for this job, we will not offer you a position in another course and you will not be offered an UCA job for this campaign.
 
 - You may accept positions for multiple courses, up to your discretion. However it is very important that **you do not turn down a job you have already accepted**; failure to abide by these terms may result in a mark in your record.
