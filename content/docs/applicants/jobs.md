@@ -155,6 +155,60 @@ An ideal candidate is someone who can: Connect with a wide variety of students, 
 
 - Being able to communicate effectively with a diverse group of students
 
+**Schedules (updated for Spring 2023):**
+
+Before applying to this position, please confirm you are available for at least some of the following precepts:
+
+| Precept      | Schedule                 | Location   | Preceptor           |
+| ------------ | ------------------------ | ---------- | ------------------- |
+| Precept P01  | Mon/Wed, 11:00am-11:50am | Friend 009 | Kathryn Wantlin     |
+| Precept P10  | Mon/Wed, 11:00am-12:20pm | Friend 109 | Darby Haller        |
+| Precept P02  | Mon/Wed, 12:30pm-1:20pm  | Friend 009 | Andrea Wynn         |
+| Precept P02A | Mon/Wed, 12:30pm-1:20p   | Friend 109 | Malinda Huang       |
+| Precept P03  | Mon/Wed, 1:30pm–2:20pm   | Friend 009 | Prachi Sinha        |
+| Precept P11  | Mon/Wed, 1:30pm–2:50pm   | Friend 109 | Seanna Zhang        |
+| Precept P04  | Mon/Wed, 2:30pm–3:20pm   | Friend 009 | Tinotenda Chinamora |
+| Precept P12  | Mon/Wed, 3:00pm–4:20pm   | Friend 109 | Mikako Inaba        |
+| Precept P05  | Mon/Wed, 3:30pm–4:20pm   | Friend 009 | Charlie Smith       |
+| Precept P13  | Mon/Wed, 4:30pm–5:50pm   | Friend 109 | Max Tchouambe       |
+| Precept P06  | Mon/Wed, 7:30pm–8:20pm   | Friend 009 | Alfredo Velasco     |
+| Precept P14  | Tue/Thu, 8:30am–9:50am   | Friend 109 | Anja Kalaba         |
+| Precept P07  | Tue/Thu, 9:00am–9:50am   | Friend 009 | Nanqinqin Li        |
+| Precept P08  | Tue/Thu, 10:00am-10:50am | Friend 009 | Yuhan Zheng         |
+| Precept P08A | Tue/Thu, 10:00am-10:50am | Friend 109 | Ben Strekha         |
+
+<!--
+From (Ruth Fong): https://bit.ly/126AssistantsS22
+
+### COS126 Precept Assistant
+
+**Description:**
+
+The precept assistant (PA) works under the direction of a COS 126 preceptor.  The PA is an undergraduate student who has taken COS126 previously and is excited to help current COS126 students learn the course material during precept. During precept, students will spend the majority of their time working on various exercises, typically in pairs. Your primary role as a precept assistant is to support students as they work on these exercises. You'll visit with each group of students, sit with them for at least a few minutes, and interject when doing so would save them time or deepen their understanding of the material (more often than not, this is not needed).
+
+Your role is distinct from that of the preceptor, which, in addition to also assisting during exercises, includes the following responsibilities: taking attendance, making announcements, teaching instructor-led material during precept, pacing precept, communicating with students outside of precept, among other things. That said, depending on your preceptor and their teaching style, you may have an opportunity to share in some of their responsibilities.
+
+**Responsibilities (~5 hrs/week) :**
+
+- Before each precept, you should do the following:
+  - Do the precept exercises yourself
+  - Attend periodic debriefing meetings (to be scheduled)
+  - Participate actively and promptly on our Slack channel
+
+- During precept, you should do the following:
+  - Show up on time to precept
+  - Once students start working on the precept’s exercises, visit and observe each group of students for a few minutes at a time, assisting them when needed
+
+**Time Commitment:**
+
+You should allocate at least about five (5) hours a week for this position:
+
+- 1 hour  - preparation
+- 2+ hours for precept
+  - e.g.,2 hrs for 1 50-min precept that meets twice a week, 3 hrs for 1 80-min precept, 4 hrs for 2 50-min precepts, etc.
+
+-->
+
 <!--
 ********************************************
 COS 217: Introduction to Programming Systems
