@@ -101,7 +101,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality, su
 
 _Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading-managers`, `#grading-managers`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading-leaders`, `#grading-leaders`)_
 
 **Description:**
 
@@ -129,6 +129,32 @@ This position supervises the UCA COS 126/226 graders, checks their work, and is 
 
 - Being able to communicate effectively with the graders
 
+### Precept Assistant position
+
+_Supervised by Prof. Alan Kaplan (Spring 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
+
+**Description:**
+
+Working alongside a graduate student or faculty preceptor, precept assistants are responsible for helping students understand the solutions to a set of active learning exercises (e.g., Java programming exercises, worksheets). Precept assistants will help students working on these exercises and be available to answer questions or explain the course material.
+
+An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and explain the course material in a variety of ways. If you can do this, while being enthusiastic and patient, you’d no doubt make an excellent precept assistant.
+
+**Responsibilities (~2-4 hrs/week) :**
+
+- Prepare by reviewing upcoming precept exercises before class (1h/week)
+
+- Attend two precepts per week and answer students’ questions (2-3h/week)
+
+- Work under the direction of a preceptor
+
+**Requirements:**
+
+- Having taken COS 126
+
+- Being able to communicate effectively with a diverse group of students
+
 <!--
 ********************************************
 COS 217: Introduction to Programming Systems
@@ -141,7 +167,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Spring 2023)_
 
-_Team communication: Slack_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#217-grading`)_
 
 **Description:**
 
@@ -183,7 +209,7 @@ In addition, the requirements involve having taken COS 226 and obtained a B+ or 
 
 _Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-managers`, `#grading-managers`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-leaders`, `#grading-leaders`)_
 
 Same description as the COS 126 grading manager position (see above).
 
@@ -191,7 +217,7 @@ Same description as the COS 126 grading manager position (see above).
 
 _Supervised by Prof. Dan Leyzberg (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-managers`, `#grading-managers`)_
+_Team communication: Slack_
 
 **Description:**
 
@@ -285,7 +311,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Ruth Fong and Prof. Jia Deng (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-tas`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
 
 **Description:**
 
@@ -361,7 +387,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Ben Raphael (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#343-tas`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#343-grading`)_
 
 **Description:**
 
@@ -395,7 +421,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Olga Russakovsky (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-uca`)_
 
 **Description:**
 
@@ -463,7 +489,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Matt Weinberg and Prof. Pedro Paredes (Spring 2023)_
 
-_Team communication: Email + Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#445-tas`)_
+_Team communication: Email + Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#445-grading` and `#445-grading-subchannel-1` through `#445-grading-subchannel-4`)_
 
 **Description:**
 
@@ -545,7 +571,7 @@ COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
 _Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#471-ucas`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#471-uca`)_
 
 **Description:**
 
