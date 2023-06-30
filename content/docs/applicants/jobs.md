@@ -219,7 +219,7 @@ COS 217: Introduction to Programming Systems
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002053)
 
-_Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Spring 2023)_
+_Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#217-grading`)_
 
