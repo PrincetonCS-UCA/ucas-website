@@ -249,7 +249,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. TBD... (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`, `#226-grading-notifications`)_
 
