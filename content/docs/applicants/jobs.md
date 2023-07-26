@@ -235,7 +235,7 @@ The COS 217 grader evaluates COS 217 assignment transcripts and code to grade an
 
 **Requirements:**
 
-- Having taken COS 217 and gotten an A- or better (B+ will be considered)
+- Having taken COS 217 and earned an A- or better (Lower grades will be considered in some cases.)
 
 <!--
 *************************************
