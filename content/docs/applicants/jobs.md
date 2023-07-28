@@ -41,7 +41,7 @@ Intro COS Lab
 
 ## Intro COS Lab TA Program
 
-_Supervised by Prof. Jérémie Lumbroso (Spring 2023) and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
+_Supervised by UCA hiring coordinators and [the Head Lab TA Team](https://ugradjobs.cs.princeton.edu/docs/general/past-ucas/)._
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#lab-announcements`, `#126-lab`, `#2xx-lab`)_
 
