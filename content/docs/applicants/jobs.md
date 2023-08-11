@@ -371,7 +371,7 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position is a joint grader and office hour position.
 
-For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-problem most weeks according to a rubric as well as handle regrade requests for your problem. Depending on the number of UCAs on the course, you may not be assigned grading every week (though you should be prepared to do so).
+For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-problem most weeks according to a rubric as well as handle regrade requests for your problem. Depending on the number of UCAs on the course, you may not be assigned grading every week (though you should be prepared to grade each week).
 
 For office hours, you will host a weekly 2-hour office hours (either in-person or virtual, we try to offer roughly 50%-50% options) primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final.
 
