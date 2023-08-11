@@ -363,7 +363,7 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Ruth Fong and Prof. Jia Deng (Spring 2023)_
+_Supervised by Prof. Ruth Fong, Prof. Vikram Ramaswamy, and Prof. Jia Deng (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
 
@@ -371,19 +371,19 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position is a joint grader and office hour position.
 
-For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem (or part of a problem) a week according to a rubric.
+For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-problem most weeks according to a rubric as well as handle regrade requests for your problem. Depending on the number of UCAs on the course, you may not be assigned grading every week (though you should be prepared to do so).
 
-For office hours, you will host a weekly 2-hour office hours (either in-person or virtual, we try to offer roughly 50%-50% options) primarily for helping studying get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final.
+For office hours, you will host a weekly 2-hour office hours (either in-person or virtual, we try to offer roughly 50%-50% options) primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final.
 
-**Responsibilities (~ 5-10 hrs/week, depending on whether there is grading in a given week):**
+**Responsibilities (~5-10 hrs/week, depending on whether you're assigned grading in a given week):**
 
-- Attend and actively participate in 1-hour staff meeting on Zoom each week (Mon 4:30-5:30pm for Spring 2023)
+- Attend and actively participate in 1-hour staff meeting each week (Mon 4:30-5:30pm for Fall 2023, most weeks on Zoom, ~1/month in-person)
 
 - Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
 
 - Host 2-hour office hour block each week
 
-- Grade asynchronously one problem/sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2023)
+- Grade asynchronously one problem or sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Fall 2023)
 
 **Requirements:**
 
