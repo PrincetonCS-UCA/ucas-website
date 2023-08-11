@@ -309,7 +309,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Iasonas Petras (Spring 2023)_
+_Supervised by Prof. Iasonas Petras (Fall 2023)_
 
 _Team communication: Email_
 
@@ -335,7 +335,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 
 ### Lab TA position
 
-_Supervised by Prof. Iasonas Petras (Spring 2023)_
+_Supervised by Prof. Iasonas Petras (Fall 2023)_
 
 **Description:**
 
