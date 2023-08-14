@@ -353,6 +353,36 @@ The COS 240 Lab TA holds office hours where COS 240 students can ask questions o
 
 - Must have satisfactorily answered the supplemental survey
 
+
+<!--
+*****************************************
+COS 302: Mathematics for Numerical Computing and Machine Learning
+*****************************************
+-->
+
+## COS 302: Mathematics for Numerical Computing and Machine Learning
+
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=015411).
+
+_Supervised by Prof. Ryan Adams (Fall 2023)_
+
+_Team communication: a course staff Slack channel_
+
+**Description:**
+This position grades assignments and exams.  In both cases, submissions will be done through Gradescope.  Generally there are two kinds of problems on the assignments: conceptual math problems, and practical work in Python.  The Python is submitted as a colab notebook.  Graders are expected to provide helpful and fair feedback that encourages understanding.
+
+**Responsibilities (~5 hrs/week:)**
+
+- Graders are expected to be reasonably responsive after assignment submission in order to determine who will grade what problems and to ask for help as necessary.  My goal is to provide grades and feedback within a week.
+
+
+**Requirements:**
+
+- Familiarity with the material
+
+
+
+
 <!--
 *****************************************
 COS 324: Introduction to Machine Learning
