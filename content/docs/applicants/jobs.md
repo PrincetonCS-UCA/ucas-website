@@ -410,7 +410,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Andrew Appel (Fall 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
+_Team communication: a course Slack _
 
 **Description:**
 The "COS 326 UCA" position includes grading homeworks, holding in-person office hours (typically focused on homeworks), and answering questions on Ed.
@@ -499,6 +499,41 @@ UCAs who are interested in other tasks such as helping answer questions on Ed, h
 - Must have taken COS 226 with a grade of B+ or better
 
 - Must be interested in course topics (computational biology)
+
+
+<!--
+*****************************************
+PSY/COS 360: Computational Models of Cognition
+*****************************************
+-->
+
+## PSY/COS 360: Computational Models of Cognition
+
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=015203).
+
+_Supervised by Prof. Tom Griffiths (Fall 2023)_
+
+_Team communication: a course Slack _
+
+**Description:**
+This position is for a grader who will help with grading of problem sets involving programming problems and written answers. The programming problems are in Python. An auto-grader will be used, and you will interpret ambiguous cases flagged by the auto-grader and provide feedback on the code. You will also help to test problem sets and develop questions.
+
+**Responsibilities (~10 hrs/week:)**
+
+- Attend weekly meeting (1 h/week) to coordinate on grading and course goals for the week
+- Read rubric for grading assigned problems
+- Test solve assigned homework problems
+- Grade asynchronously for about 6-8h/week, flexible timing
+
+
+**Requirements:**
+
+- Must pass an interview, Prefer students with experience in ML, e.g. COS 324 
+
+
+
+
+
 
 <!--
 ************************
