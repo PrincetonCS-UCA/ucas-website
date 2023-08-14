@@ -774,6 +774,22 @@ A UCA attends (most of) the weekly seminars, listens to the students' project up
 
 - Must have been an UCA for an IW seminar or COS 333
 
+
+<!--
+**********
+Chistiane Fellbaum
+**********
+-->
+
+## Prof. Chistiane Fellbaum
+
+See [academic website](https://www.cs.princeton.edu/people/profile/fellbaum).
+
+_Team communication: Email_
+
+**Description:**
+
+
 <!--
 **********
 Xiaoyan Li
