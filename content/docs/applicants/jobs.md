@@ -397,6 +397,43 @@ For office hours, you will host a weekly 2-hour office hours (either in-person o
 
 - Prior experience as a UCA (in any course)
 
+
+<!--
+*****************************************
+COS 326: Functional Programming
+*****************************************
+-->
+
+## COS 326: Functional Programming
+
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012069).
+
+_Supervised by Prof. Andrew Appel (Fall 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
+
+**Description:**
+The "COS 326 UCA" position includes grading homeworks, holding in-person office hours (typically focused on homeworks), and answering questions on Ed.
+
+**Responsibilities (~6 hrs/week:)**
+
+- You should regularly monitor the COS326 slack where the course staff (including UCAs) will communicate.  
+
+- Grading is asynchronous and on-line; there are 7 homeworks and for each one theres a 2-3 day window in which it ought to be graded.  Since you've taken the course, you have a pretty clear idea what those homeworks are.
+
+- If you are assigned certain days/times to cover Ed, you should monitor Ed from time do time during those hours.  
+
+- If you are assigned in-person office hours, you should be there and be helpful.
+
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default), Must pass an interview 
+
+
+
+
+
 <!--
 ****************************************
 COS 333: Advanced Programming Techniques
