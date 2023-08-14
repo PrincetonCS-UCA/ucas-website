@@ -788,7 +788,18 @@ See [academic website](https://www.cs.princeton.edu/people/profile/fellbaum).
 _Team communication: Email_
 
 **Description:**
+This position requires assisting seminar participants in conjunction with the instructor.
+The UCA should attend some of the weekly seminars, specific dates to be agreed upon with the instructor. The UCA is expected to familiarize themselves with the students’ projects and to hold office hours addressing the students’ questions. 
 
+
+**Responsibilities (Approximately 5-6 hours/week):**
+- Attend approximately half of the weekly seminar meeting (Fridays 11AM-12:20PM) , give feedback in class, and review the students’ project updates and action items presented there.
+- Hold office hours for ~3 hours/week for students to stop by esp. around key deadlines (beginning and end of semester, midpoint checkpoint) and clarify conceptual questions,  troubleshoot technical problems.
+- Approximately 5-6 hours/week. There'll be less in the middle of the semester and more at the beginning and the very end.
+
+**Requirements:**
+
+- Some familiarity with NLP and ML.
 
 <!--
 **********
