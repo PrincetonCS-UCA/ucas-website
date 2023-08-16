@@ -267,35 +267,6 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 Same description as the COS 126 grading manager position (see above).
 
-### Precept Assistant position
-
-_Supervised by Prof. Dan Leyzberg (Spring 2023)_
-
-_Team communication: Slack_
-
-**Description:**
-
-Working alongside a graduate student or faculty preceptor, precept assistants are responsible for helping students understand the solutions to a predefined set of multiple choice questions and coding exercises (on the Ed Lessons platform). Precept assistants will visit with students working on these exercises and be available to answer questions or explain the course material.
-
-An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and, is able to explain the course material in a variety of ways. If you can do this, while, also, highlighting the real-world impacts and inherent beauty of data structures and algorithms, you'd no doubt make an excellent precept assistant.
-
-**Responsibilities (~3-6 hrs/week) :**
-
-- Prepare by reviewing upcoming precept exercises and assignments before class (1.5h/week)
-
-- Attend one precept per week and answer students' questions (1.5h/week)
-
-- Optionally, attend a (paid) planning/socializing meeting for precept assistants (1h/week)
-
-- Optionally, hold office hours to help students with quizzes and assignments (2h/week)
-
-**Requirements:**
-
-- Having taken COS 226
-
-- Being able to communicate effectively with a diverse group of students
-
-- Being able to describe the real-world impacts of data structures and algorithms
 
 <!--
 ************************************
