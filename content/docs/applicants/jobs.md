@@ -57,6 +57,47 @@ Read specific information about the job responsibilities for:
 - [the Interviewers job](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-interviewers/) (apply directly by contacting the Head Intro Lab TA)
 - [the Head Intro Lab TA job](https://introlab.cs.princeton.edu/responsibilities-of-the-intro-cos-lab-head-team/)
 
+
+
+<!--
+********************************************
+COS 109: Computers in Our World
+********************************************
+-->
+
+## COS 217: Computers in Our World
+
+For description and past ratings, see course page on [Princeton Courses](https://www.cs.princeton.edu/courses/archive/fall23/cos109/)
+
+_Supervised by Prof. Brian Kernighan i (Fall 2023)_
+
+_Team communication: Email
+
+**Description:**
+
+Assist students in understanding problem sets and completing labs
+
+
+**Responsibilities (-10 hours/week):**
+
+
+- Assist in the scoring of 5 assignments spread out over the term
+
+- Assist in the scoring of lecture or guest speaker reflections or book reports
+
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default),
+- Must have prior experience as a UCA (in this course),
+- Must be COS majors,
+- Must be specific applicant(s) that have contacted Prof. Brian Kernighan 
+
+
+
+
+
+
 <!--
 ********************************************************
 COS 126: Computer Science: An Interdisciplinary Approach
