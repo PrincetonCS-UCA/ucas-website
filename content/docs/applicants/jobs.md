@@ -65,7 +65,7 @@ COS 109: Computers in Our World
 ********************************************
 -->
 
-## COS 217: Computers in Our World
+## COS 109: Computers in Our World
 
 For description and past ratings, see course page on [Princeton Courses](https://www.cs.princeton.edu/courses/archive/fall23/cos109/)
 
@@ -78,7 +78,7 @@ _Team communication: Email
 Assist students in understanding problem sets and completing labs
 
 
-**Responsibilities (-10 hours/week):**
+**Responsibilities (6-8 hours/week):**
 
 
 - Assist in the scoring of 5 assignments spread out over the term
