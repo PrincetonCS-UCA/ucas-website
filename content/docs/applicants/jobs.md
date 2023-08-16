@@ -239,17 +239,17 @@ The COS 217 grader evaluates COS 217 assignment transcripts and code to grade an
 
 <!--
 *************************************
-COS 226: Algorithms & Data Structures
+COS 226: Algorithms and Data Structures
 *************************************
 --->
 
-## COS 226: Algorithms & Data Structures
+## COS 226: Algorithms and Data Structures
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002054)
 
 ### Grader position
 
-_Supervised by Prof. TBD... (Fall 2023)_
+_Supervised by Prof. Pedro Paredes (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`, `#226-grading-notifications`)_
 
@@ -257,11 +257,11 @@ This position grades the programming assignments in Java.
 
 Same description as the COS 126 grader position (see above), except this position involves code that is more complex, and with the need to understand errors in the runtime or memory efficiency of the code.
 
-In addition, the requirements involve having taken COS 226 and obtained a B+ or better (and also preferable COS 126, though not necessarily).
+In addition, the requirements involve having taken COS 226 and obtained a B+ or better.
 
 ### Grading Manager position(+)
 
-_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Pedro Paredes (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-leaders`, `#grading-leaders`)_
 
