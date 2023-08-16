@@ -656,6 +656,43 @@ Additionally 1-2 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_
 
 If you apply for this position, we will assume you are generally available 4:30PM-5:30PM Thursdays for an in-person meeting. Exceptions are possible, but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Pedro ([`pparedes@princeton.edu`](mailto:pparedes@princeton.edu)) with your situation **before applying for this position**.
 
+
+<!--
+*****************************************************************
+COS 448: Innovating Across Technology, Business, and Marketplaces
+*****************************************************************
+-->
+
+## COS 448: Innovating Across Technology, Business, and Marketplaces
+
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=011558).
+
+_Supervised by Prof. Robert Fish (Fall 2023)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+Students will assist the class AI’s in scoring assignments and speaker reflections based on a rubric. They will also be able to attend class and listen to the lectures and guest speakers in this new and highly sought-after class.
+.
+
+**Responsibilities (6~10 hrs/week:)**
+
+- Assist in the scoring of 5 assignments spread out over the term
+
+- Assist in the scoring of lecture or guest speaker reflections or book reports
+
+**Requirements:**
+
+- Must be interested in the course subject matter
+
+- Good written communication analysis skills, must be better than ChatGPT.
+
+- Any applicant will be interviewed by the course staff prior to hire and we would like to see a writing sample.
+
+
+
+
+
 <!--
 **************************
 COS 461: Computer Networks
