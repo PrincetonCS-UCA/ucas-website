@@ -110,7 +110,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
+_Supervised by Prof. Donna Gabai (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`, `#126-grading-notifications`)_
 
@@ -118,15 +118,15 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position grades the programming assignments and programming exams, in Java.
 
-Graders work through [codePost](https://codepost.io) to provide high-quality, supportive feedback to introductory CS students. A detailed rubric is included, and the work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency, and clarity according to the [COS 126 Style Guide](https://docs.google.com/document/d/1t_3faRPgonwt78eM7tthA_bsjbKy6kn22cLVv4S0Bn0/edit).
+Graders work through [codePost](https://codepost.io) to provide high-quality, supportive feedback to introductory CS students. A detailed rubric is included, and the work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
 **Responsibilities (~4-5 hrs/week):**
 
-- Attend weekly grader meeting 1h/week (as of Fall 2022: Wednesdays 4:30-5:30pm) to review rubric and start grading synchronously
+- Attend weekly grader meeting 2-3h/week (as of Fall 2023: Tuesdays 4:30-7pm) to review rubric and start grading synchronously.
 
-- Read the grader brief that is posted every week; communicate promptly when you are not able to grade on any given week
+- Grade late and remaining assignments asynchronously, about 1h/week.
 
-- Grade asynchronously about 3-6h/week, about 8-15 submissions, flexible (as of Fall 2022, grading due at Friday 4:30pm every week)
+- Enjoy the food that's provided in the meetings :)
 
 **Requirements:**
 
@@ -138,41 +138,9 @@ Graders work through [codePost](https://codepost.io) to provide high-quality, su
 
 - Good written communication skills
 
-### Grading Manager position(+)
-
-_Supervised by Prof. Jérémie Lumbroso (Spring 2023)_
-
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading-leaders`, `#grading-leaders`)_
-
-**Description:**
-
-This position supervises the UCA COS 126/226 graders, checks their work, and is responsible for the grading process. The position may also involve creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
-
-**Responsibilities (~10-15 hrs/week):**
-
-- Overall commitment of between 5-10 hours/week, depending on talent and creativity of applicants
-
-- Attend weekly grader meeting 1h/week (as of Fall 2022: Wednesdays 4:30-5:30pm) to help train graders and oversee the grading process
-
-- Answer questions from graders on Slack, create new rubric items when necessary
-
-- Grade challenging, late or left-over submissions (or delegate to other graders)
-
-- Regularly audit a subset of graders to ensure understanding of the COS 126 Style Guide and the assignment/exam rubric
-
-- Occasionally, grading managers (depending on their interests, creativity and talent) may be asked to create new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs)
-
-**Requirements:**
-
-- Having been a COS 126/226 grader for at least one semester, ideally two
-
-- Having a strong track record of grading (e.g. high quality, timely, and consistent grading)
-
-- Being able to communicate effectively with the graders
-
 ### Precept Assistant position
 
-_Supervised by Prof. Alan Kaplan (Spring 2023)_
+_Supervised by Prof. Sebastian Caldas (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
@@ -181,6 +149,8 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 Working alongside a graduate student or faculty preceptor, precept assistants are responsible for helping students understand the solutions to a set of active learning exercises (e.g., Java programming exercises, worksheets). Precept assistants will help students working on these exercises and be available to answer questions or explain the course material.
 
 An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and explain the course material in a variety of ways. If you can do this, while being enthusiastic and patient, you’d no doubt make an excellent precept assistant.
+
+A precept assistant may also be hired as a grader or a as COS Lab TA.
 
 **Responsibilities (~2-4 hrs/week) :**
 
@@ -200,23 +170,27 @@ An ideal candidate is someone who can: Connect with a wide variety of students, 
 
 Before applying to this position, please confirm you are available for at least some of the following precepts:
 
-| Precept      | Schedule                 | Location   | Preceptor           |
-| ------------ | ------------------------ | ---------- | ------------------- |
-| Precept P01  | Mon/Wed, 11:00am-11:50am | Friend 009 | Kathryn Wantlin     |
-| Precept P10  | Mon/Wed, 11:00am-12:20pm | Friend 109 | Darby Haller        |
-| Precept P02  | Mon/Wed, 12:30pm-1:20pm  | Friend 009 | Andrea Wynn         |
-| Precept P02A | Mon/Wed, 12:30pm-1:20p   | Friend 109 | Malinda Huang       |
-| Precept P03  | Mon/Wed, 1:30pm–2:20pm   | Friend 009 | Prachi Sinha        |
-| Precept P11  | Mon/Wed, 1:30pm–2:50pm   | Friend 109 | Seanna Zhang        |
-| Precept P04  | Mon/Wed, 2:30pm–3:20pm   | Friend 009 | Tinotenda Chinamora |
-| Precept P12  | Mon/Wed, 3:00pm–4:20pm   | Friend 109 | Mikako Inaba        |
-| Precept P05  | Mon/Wed, 3:30pm–4:20pm   | Friend 009 | Charlie Smith       |
-| Precept P13  | Mon/Wed, 4:30pm–5:50pm   | Friend 109 | Max Tchouambe       |
-| Precept P06  | Mon/Wed, 7:30pm–8:20pm   | Friend 009 | Alfredo Velasco     |
-| Precept P14  | Tue/Thu, 8:30am–9:50am   | Friend 109 | Anja Kalaba         |
-| Precept P07  | Tue/Thu, 9:00am–9:50am   | Friend 009 | Nanqinqin Li        |
-| Precept P08  | Tue/Thu, 10:00am-10:50am | Friend 009 | Yuhan Zheng         |
-| Precept P08A | Tue/Thu, 10:00am-10:50am | Friend 109 | Ben Strekha         |
+| Section         | Days/Time                      |
+| --------------- | -------------------------------|
+|Precept P01      |  Mon/Wed, 11:00am-11:50am      |
+|Precept P10      |  Mon/Wed, 11:00am-12:20pm      |
+|Precept P02      |  Mon/Wed, 12:30pm-1:20pm       |
+|Precept P02A     |  Mon/Wed, 12:30pm-1:20p        |
+|Precept P03      |  Mon/Wed, 1:30pm–2:20pm        |
+|Precept P03A     |  Mon/Wed, 1:30pm–2:20pm        |
+|Precept P11      |  Mon/Wed, 1:30pm–2:50pm        |
+|Precept P04      |  Mon/Wed, 2:30pm–3:20pm        |
+|Precept P12      |  Mon/Wed, 3:00pm–4:20pm        |
+|Precept P12A     |  Mon/Wed, 3:00pm–4:20pm        |
+|Precept P05      |  Mon/Wed, 3:30pm–4:20pm        |
+|Precept P13      |  Mon/Wed, 4:30pm–5:50pm        |
+|Precept P13A     |  Mon/Wed, 4:30pm–5:50pm        |
+|Precept P15      |  Tue/Thu, 8:30am–9:50am        |
+|Precept P07      |  Tue/Thu, 9:00am–9:50am        |
+|Precept P08      |  Tue/Thu, 10:00am-10:50am      |
+|Precept P08A     |  Tue/Thu, 10:00am-10:50am      |
+|Precept P14      |  Tue/Thu, 7:30pm–8:50pm        |
+|Precept P16      |  Tue/Thu, 11:00am-12:20pm      |
 
 <!--
 From (Ruth Fong): https://bit.ly/126AssistantsS22
