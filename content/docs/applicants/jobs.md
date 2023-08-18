@@ -272,7 +272,7 @@ This position grades the programming assignments in Java.
 
 Same description as the COS 126 grader position (see above), except this position involves code that is more complex, and with the need to understand errors in the running time or memory efficiency of the code.
 
-In addition, applications should have taken COS 226 and earned a grade of B+ or better.
+In addition, applicants should have taken COS 226 and earned a grade of B+ or better.
 
 <!--
 ************************************
