@@ -573,6 +573,37 @@ This position is for a grader who will help with grading of problem sets involvi
 - Must pass an interview, Prefer students with experience in ML, e.g. COS 324 
 
 
+<!--
+*****************************************************************
+COS 426: Computer Graphics
+*****************************************************************
+-->
+
+## COS 426 Computer Graphics
+
+For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/fall23/cos426).
+
+_Supervised by Prof. Adam Finkelstein (Fall 2023)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
+.
+
+**Responsibilities (10 hrs/week:)**
+
+- Attend a weekly staff meeting to plan the week.
+- Solve this year's version of the assignments, which will differ a bit from those of previous years.
+- Hold office hours.
+- Help answer questions on Ed.
+- Help the grading team.
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default),
+- Must pass an interview
+
 
 
 
@@ -696,6 +727,7 @@ Additionally 1-2 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_
 - Must be available for a weekly 4:30PM-5:30PM staff meeting on Thursdays, in-person.
 
 If you apply for this position, we will assume you are generally available 4:30PM-5:30PM Thursdays for an in-person meeting. Exceptions are possible, but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Pedro ([`pparedes@princeton.edu`](mailto:pparedes@princeton.edu)) with your situation **before applying for this position**.
+
 
 
 <!--
