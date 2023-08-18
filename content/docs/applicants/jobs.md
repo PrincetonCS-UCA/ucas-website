@@ -270,18 +270,9 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position grades the programming assignments in Java.
 
-Same description as the COS 126 grader position (see above), except this position involves code that is more complex, and with the need to understand errors in the runtime or memory efficiency of the code.
+Same description as the COS 126 grader position (see above), except this position involves code that is more complex, and with the need to understand errors in the running time or memory efficiency of the code.
 
-In addition, the requirements involve having taken COS 226 and obtained a B+ or better.
-
-### Grading Manager position(+)
-
-_Supervised by Prof. Pedro Paredes (Fall 2023)_
-
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading-leaders`, `#grading-leaders`)_
-
-Same description as the COS 126 grading manager position (see above).
-
+In addition, applications should have taken COS 226 and earned a grade of B+ or better.
 
 <!--
 ************************************
