@@ -112,7 +112,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Donna Gabai (Fall 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`, `#126-grading-notifications`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
 **Description:**
 
@@ -266,7 +266,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Pedro Paredes (Fall 2023)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`, `#226-grading-notifications`)_
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
 This position grades the programming assignments in Java.
 
