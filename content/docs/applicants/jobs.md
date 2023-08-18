@@ -69,7 +69,7 @@ COS 109: Computers in Our World
 
 For description and past ratings, see course page on [Princeton Courses](https://www.cs.princeton.edu/courses/archive/fall23/cos109/)
 
-_Supervised by Prof. Brian Kernighan i (Fall 2023)_
+_Supervised by Prof. Brian Kernighan (Fall 2023)_
 
 _Team communication: Email
 
@@ -234,7 +234,7 @@ COS 217: Introduction to Programming Systems
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002053)
 
-_Supervised by Prof. Christopher Moretti and Prof. Donna Gabai (Fall 2023)_
+_Supervised by Prof. Christopher Moretti (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#217-grading`)_
 
@@ -244,13 +244,13 @@ The COS 217 grader evaluates COS 217 assignment transcripts and code to grade an
 
 **Responsibilities (~6-10 hours/week):**
 
-- Attend weekly grader meeting ~1 hour per week (Spring 2023: Thursdays 4:30-~5:30pm). During weeks an assignment is due, this meeting will refresh your memory of that assignment, describe common errors, and review the rubric and codePost items to prepare for grading. During weeks between assignment due dates, this meeting will serve as a grading session to do some synchronous grading and get questions answered.
+- Attend weekly grader meeting ~1 hour per week (Fall 2023: likely to be Thursdays 4:30-~5:30pm). During weeks an assignment is due, this meeting will refresh your memory of that assignment, describe common errors, and review the rubric and codePost items to prepare for grading. During weeks between assignment due dates, this meeting will serve as a grading session to do some synchronous grading and get questions answered.
 
 - Grade 8-15 submissions a synchronously. Typically this accounts for 4-8 hours per week, though some assignments may grade faster or slower than others.
 
 **Requirements:**
 
-- Having taken COS 217 and earned an A- or better (Lower grades will be considered in some cases.)
+- Having taken COS 217 and earned an A- or better. (Lower grades will be considered on a case-by-case basis.)
 
 <!--
 *************************************
