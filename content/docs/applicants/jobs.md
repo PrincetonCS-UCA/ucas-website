@@ -274,6 +274,38 @@ Same description as the COS 126 grader position (see above), except this positio
 
 In addition, applicants should have taken COS 226 and earned a grade of B+ or better.
 
+### Grading Manager position
+
+_Supervised by Prof. Pedro Paredes (Fall 2023)_
+
+_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
+
+**Description:**
+
+This position supervises the UCA COS 226 graders, checks their work, and is responsible for the grading process. The position may also involve creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
+
+**Responsibilities (~10-15 hrs/week):**
+
+- Overall commitment of between 5-10 hours/week, depending on talent and creativity of applicants
+
+- Attend weekly grader meeting 2-3h/week (as of Fall 2023: Tuesdays 4:30-7pm) to help train graders and oversee the grading process
+
+- Answer questions from graders on Slack, create new rubric items when necessary
+
+- Grade challenging, late or left-over submissions (or delegate to other graders)
+
+- Regularly audit a subset of graders to ensure understanding of the assignment/exam rubrics
+
+- Occasionally, grading managers (depending on their interests, creativity and talent) may be asked to create new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs)
+
+**Requirements:**
+
+- Having been a COS 226 grader for at least one semester, ideally two
+
+- Having a strong track record of grading (e.g. high quality, timely, and consistent grading)
+
+- Being able to communicate effectively with the graders
+
 <!--
 ************************************
 COS 240: Reasoning About Computation
