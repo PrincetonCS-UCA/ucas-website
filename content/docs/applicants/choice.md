@@ -15,12 +15,8 @@ Every job listed on TigerUHR should have a corresponding sub-section in our [UCA
 
 For every job, the catalog provides you with:
 
-- A link to [Princeton Courses](https://www.princetoncourses.com), an aggregator of course data, in which you will be able to see a course description, as well as, for the last few semesters, the instructors involved in this course, and the course evaluations and ratings. This is important to understand the environment in which you will have to work.
-
-  - A course with systematically high evaluations is probably both well-managed and run by faculty who are good managers.
-
-  - A course with low evaluations may often be very rewarding, as they are the courses that would most benefit from UCAs, and in which UCAs have the greatest impact and opportunity for growth. However, it is important to understand that these courses are often run by faculty who are not experienced managers, and who may not be able to provide you with the support you need.
-
+- A link to [Princeton Courses](https://www.princetoncourses.com), in which you will be able to see a course description.
+  
 - The description of the job, which will provide you an overview of how the job fits into the course.
 
 - The responsibilities of the job, are an itemized list of the specific tasks you will be asked to do, helping set your expectations.
