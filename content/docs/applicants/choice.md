@@ -15,7 +15,7 @@ Every job listed on TigerUHR should have a corresponding sub-section in our [UCA
 
 For every job, the catalog provides you with:
 
-- A link to [Princeton Courses](https://www.princetoncourses.com), in which you will be able to see a course description.
+- A link to the course, in which you will be able to see the course description.
   
 - The description of the job, which will provide you an overview of how the job fits into the course.
 
