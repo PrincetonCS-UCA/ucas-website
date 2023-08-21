@@ -150,7 +150,7 @@ Working alongside a graduate student or faculty preceptor, precept assistants ar
 
 An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and explain the course material in a variety of ways. If you can do this, while being enthusiastic and patient, you’d no doubt make an excellent precept assistant.
 
-A precept assistant may also be hired as a grader or a as COS Lab TA.
+A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Responsibilities (~2-4 hrs/week) :**
 
