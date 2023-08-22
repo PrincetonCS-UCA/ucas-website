@@ -981,6 +981,38 @@ The UCA should attend some of the weekly seminars, specific dates to be agreed u
 
 - Some familiarity with NLP and ML.
 
+
+<!--
+**********
+Felix Heide
+**********
+-->
+
+## Prof. Felix Heide
+
+See [academic website](https://www.cs.princeton.edu/people/profile/fheide).
+
+_Team communication: A course Slack_
+
+**Description:**
+This position supports training job running and bringup of the base IW codebase on research clusters.
+
+
+**Responsibilities (Approximately 5 hours/week):**
+- Attend weekly sync up meetings.
+
+- Support in environment bringup and testing of base code structure for IW projects.
+
+- Aid in IW code architecture bringup. 
+
+
+**Requirements:**
+
+- Must have prior experience as a UCA (in any course),
+- Must be COS majors,
+- Strong communication skills.
+
+
 <!--
 **********
 Xiaoyan Li
