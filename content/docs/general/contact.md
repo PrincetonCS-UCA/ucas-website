@@ -15,4 +15,6 @@ We strive to meticulously follow [**the official guidance policy set forth by t
 
 If you have any question, concern, feedback about any part of the process, please email the COS UCA hiring coordinators (Xiaoyan Li: xiaoyan@cs.princeton.edu, and Christopher Moretti: cmoretti@cs.princeton.edu).
 
-<! -- commented out old feedback form: [please submit it to our anonymous form](https://forms.gle/eRJsRcUtKcuFeAvE6) -->
+<!-- 
+##commented out old feedback form: [please submit it to our anonymous form](https://forms.gle/eRJsRcUtKcuFeAvE6) 
+-->
