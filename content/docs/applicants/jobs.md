@@ -571,6 +571,37 @@ This position is for a grader who will help with grading of problem sets involvi
 
 
 <!--
+*****************************************
+COS 375: Computer Architecture and Organization
+*****************************************
+-->
+
+## COS 375: Computer Architecture and Organization
+
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=009084).
+
+_Supervised by Prof. David August (Fall 2023)_
+
+_Team communication: a course Slack _
+
+**Description:**
+This position involves helping students with the course and grading the programming assignments.
+
+**Responsibilities (Flexible 4~10 hrs/week:)**
+
+- Once a week office hours or on request, and
+- grade a few times over the semester.
+
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default),
+- Strong performance having taken COS/ECE375.
+- Must pass an interview 
+
+
+
+<!--
 *****************************************************************
 COS 426: Computer Graphics
 *****************************************************************
