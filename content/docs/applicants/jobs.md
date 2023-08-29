@@ -1044,6 +1044,37 @@ This position supports training job running and bringup of the base IW codebase 
 - Strong communication skills.
 
 
+
+<!--
+**********
+Robert Fish
+**********
+-->
+
+## Prof. Robert Fish
+
+See [academic website](https://www.cs.princeton.edu/courses/archive/fall22/cosIW04/).
+
+_Team communication: Email_
+
+**Description:**
+This position provides near peer support for students in IW seminar, particularly those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
+
+
+**Responsibilities (Approximately 6-10 hours/week):**
+- Come to seminar
+- Have office hours at convenient times and be flexible about meeting students
+- Able to check a GitHub or similar repo
+- Willing to help with programming issues
+  
+
+**Requirements:**
+
+- Must pass an interview,
+- Should have completed an IW project before
+
+
+
 <!--
 **********
 Xiaoyan Li
