@@ -714,17 +714,17 @@ COS 445: Economics and Computation
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234012095)
 
-_Supervised by Prof. Matt Weinberg and Prof. Pedro Paredes (Spring 2023)_
+_Supervised by Prof. Matt Weinberg and Dr. Marcel Dall'Agnol (Spring 2024)_
 
 _Team communication: Email + Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#445-grading` and `#445-grading-subchannel-1` through `#445-grading-subchannel-4`)_
 
 **Description:**
 
-UCAs for COS 445 are primarily responsible for grading (PSets, midterm, and final). That is, every UCA must grade assignments, and it is perfectly acceptable for a UCA to only grade assignments.
+UCAs for COS 445 are primarily responsible for grading (PSets, midterm, and final). That is, every UCA must grade assignments, and it is common for most UCAs to only grade assignments.
 
-UCAs who are interested in other tasks (such as helping answer questions on Ed, providing advice on course policy, etc.) are welcome to do so (and be paid to do so).
+UCAs who are interested in other tasks (such as helping answer questions on Ed, providing advice on course policy, etc.) are definitely welcome to do so (and be paid to do so, and appreciated for doing so), but the primary need is grading.
 
-Additionally 1-2 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Pedro ([`pparedes@princeton.edu`](mailto:pparedes@princeton.edu)) to discuss.
+Additionally 1-3 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Marcel ([`dallagnol@cs.princeton.edu`](mailto:dallagnol@cs.princeton.edu)) to discuss.
 
 **Responsibilities (~3-4 hrs/week):**
 
@@ -732,29 +732,29 @@ Additionally 1-2 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_
 
   **Note:**
 
-  - We will always be as efficient as possible with these meetings (e.g. we won't force you to show up if you've already finished grading, and we won't force you to come in-person if you've previously attended a tee-off meeting and just need to sporadically ask questions, etc.). However, we do ask that you think of in-person attendance every week as the default, and block this time off on your calendar.
+  - We will always be as efficient as possible with these meetings (e.g. we won't force you to show up if you've already finished grading). However, we do ask that you think of in-person attendance every week as the default, and block this time off on your calendar.
 
-  - Many weeks, Matt and/or Pedro will take a subset of interested staff out for bubble tea at 5:30PM.
+  - Many weeks, Matt and/or Marcel will take a subset of interested staff out for bubble tea at 5:30PM.
 
 - Grade asynchronously ~6 hours every 2 weeks. PSets are due every other Monday. Grading tees off on Thursday, and is due 10 days later on Monday. Because the next cycle starts soon after, we do need to be sticklers about deadlines.
 
-- Be available for ~6-8 hours (total) of grading the final on May 18/19. You do not need to change your travel plans to be on-campus to grade the final. If you have travel plans that prohibit you from grading (even remotely) during this period, this is OK, but please let Matt/Pedro know in advance.
+- Be available for ~6-8 hours (total) of grading the final on May 16/17 (the two days right after the university take-home final deadline). If you're on-campus, we'll ask that you grade in-person (and provide food/bubble tea). If you're off-campus (which is completely fine), we'll ask that you grade remotely. If your travel plans prevent you from grading (even remotely) during this period, please let Matt/Marcel know this in advance (but you do not need to change your travel plans to be available).
 
 - There will be no staff meeting during Spring Break, and it is entirely feasible to complete your responsibilities without working at all over Spring Break. However, some UCAs prefer to grade the midterm over Spring Break, and we will have an optional remote tee-off meeting for those who want to do so.
 
-- Be prepared to give actual feedback on written PSet submissions to help students improve. We will try our best to make this as efficient as possible, but you should be prepared that any assignment that doesn't receive full credit does typically require you to write something specific to that submission.
+- Be prepared to give actual feedback on written PSet submissions to help students improve. We will try our best to make this as efficient as possible, but you should be prepared that any assignment that doesn't receive full credit does typically require you to write something specific to that submission (copy/pasting comments across solutions historically leads to confusion by the students and results in appeals that we have to resolve anyway).
 
-- _[For Strategy Design Czars only]_ There is a codebase for strategy designs on github that, afaik, is complete, bug-free, etc. However, every SD still requires an initialization (TigerFile submission needs to be set up for every SD, sample files need to be uploaded for students, files need to be downloaded from TigerFile), and a run (some submissions have bugs and will crash the execution, you'll need to figure out which ones and edit/remove them, etc.). You will also be responsible for answering any questions about the coding portion of the SDs (because Matt/Pedro may not know the answer). This requires more independence than a typical UCA role, because this has always been designed/maintained by UCAs (there is a detailed SD czar onboarding document, and last year's czar is an ECE MSE student who offered to be accessible with questions).
+- _[For Strategy Design Czars only]_ There is a codebase for strategy designs on github that, afaik, is complete, bug-free, etc. However, every SD still requires an initialization (TigerFile submission needs to be set up for every SD, sample files need to be uploaded for students, files need to be downloaded from TigerFile), and a run (some submissions have bugs and will crash the execution, you'll need to figure out which ones and edit/remove them, etc.). You will also be responsible for answering any questions about the coding portion of the SDs (because Matt/Marcel may not know the answer). This requires more independence than a typical UCA role, because this has always been designed/maintained by UCAs (there is a detailed SD czar onboarding document, and previous years' czars are often happy to answer quick questions).
 
-- _[For Strategy Design Czars only]_ You are free to do more interesting things with the SD codebase, if that interests you. For example, you are free to add more 'check submitted files' test cases so that there's fewer buggy submissions, write more efficient code, write new 'staff solutions', or develop any new infrastructure that you think would be beneficial. But this is entirely optional—your 'responsibility' is just to make sure that SD files are uploaded in a timely fashion, and grades are computed in a timely fashion as well."
+- _[For Strategy Design Czars only]_ You are free to do more interesting things with the SD codebase, if that interests you. For example, you are free to add more 'check submitted files' test cases so that there's fewer buggy submissions, write more efficient code, write new 'staff solutions', or develop any new infrastructure that you think would be beneficial. But this is entirely optional--your 'responsibility' is just to make sure that SD files are uploaded in a timely fashion, and grades are computed in a timely fashion as well.
 
 **Requirements:**
 
-- Having taken COS 445 and gotten an B+ or better
+- Must have taken COS 445 and gotten an A- or better. (If you have taken COS 445 and are interested in being a UCA, but did not earn an A- or better, feel free to reach out to Matt and/or Marcel to discuss).
 
 - Must be available for a weekly 4:30PM-5:30PM staff meeting on Thursdays, in-person.
 
-If you apply for this position, we will assume you are generally available 4:30PM-5:30PM Thursdays for an in-person meeting. Exceptions are possible, but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Pedro ([`pparedes@princeton.edu`](mailto:pparedes@princeton.edu)) with your situation **before applying for this position**.
+If you apply for this position, we will assume that you'll block off every Thursday 4:30PM-5:30PM for an in-person meeting. Exceptions are possible (and we understand there will be sporadic absences), but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Marcel ([`dallagnol@cs.princeton.edu`](mailto:dallagnol@cs.princeton.edu)) with your situation **before applying for this position**.
 
 
 
