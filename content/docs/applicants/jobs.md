@@ -1110,6 +1110,48 @@ This position holds office hours to help answer students' questions on using ML 
 - Good verbal and written communication skills
 
 <!--
+**********
+Mae Milano
+**********
+-->
+
+## Prof. Mae Milano
+
+See [academic website](https://www.cs.princeton.edu/~mpmilano).
+
+_Team communication: Slack_
+
+**Description:**
+
+This position supports the course infrastructure and assists students in using it. 
+
+The course infrastructure consists of virtual machines and services hosted by Amazon, Microsoft, and Google.  The purpose of this course is to gain experience using and configuring distributed systems. Experience with kubernetes, S3, EC2, Azure, or any other cloud-hosted services and cloud providers will be helpful. TAs will ensure virtual services remain available, help configure them correctly for the course, and help students effectively use these resources. 
+
+**Responsibilities (~8 hrs/week):**
+
+ - Attend weekly 30min/week sync-up meeting to check on status of course infrastructure and assign action items
+
+ - Take direct responsibility for a particular cloud service or vendor 
+
+ - Configure networking and services on virtual machines
+
+ - hold 2-4 hours / week of office hours for students attempting to use these services
+
+ - communicate availability and summarize expected progress with cloud-specific tasks
+
+ - monitor course email and slack
+
+ - monitor assigned cloud services
+
+**Requirements:**
+
+ - experience using linux-based systems
+
+ - comfort on the command line
+
+ - familiarity with at least one cloud service
+
+<!--
 ***********
 Huacheng Yu
 ***********
