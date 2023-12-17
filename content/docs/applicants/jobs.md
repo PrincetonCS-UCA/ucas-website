@@ -916,7 +916,7 @@ EGR 154: Foundations of Engineering: Linear Systems
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014473).
 
-_Supervised by Prof. Bernard Chazelle and Dev Dabke (Spring 2023)_
+_Supervised by Prof. Bernard Chazelle and Kritkorn Karntikoon (Spring 2024)_
 
 _Team communication: Email_
 
