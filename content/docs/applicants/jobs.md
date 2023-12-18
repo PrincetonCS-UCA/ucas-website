@@ -110,7 +110,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Donna Gabai (Fall 2023)_
+_Supervised by Prof. Sebastian Caldas (Fall 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
@@ -118,19 +118,17 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position grades the programming assignments and programming exams, in Java.
 
-Graders work through [codePost](https://codepost.io) to provide high-quality, supportive feedback to introductory CS students. A detailed rubric is included, and the work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
+Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
 **Responsibilities (~4-5 hrs/week):**
 
-- Attend weekly grader meeting 2-3h/week (as of Fall 2023: Tuesdays 4:30-7pm) to review rubric and start grading synchronously.
+- Attend weekly grader meeting (2-3h/week) to review the rubric and start grading synchronously. <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
 
-- Grade late and remaining assignments asynchronously, about 1h/week.
-
-- Enjoy the food that's provided in the meetings :)
+- Grade late and remaining assignments asynchronously (~1h/week).
 
 **Requirements:**
 
-- Having taken COS 126 (B+ or better typically, though exceptions are made)
+- Having taken COS 126 (B+ or better typically)
 
 - Score of 3 or higher on the supplemental application quiz (evaluated objectively using a rubric)
 
@@ -146,9 +144,9 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 **Description:**
 
-Working alongside a graduate student or faculty preceptor, precept assistants are responsible for helping students understand the solutions to a set of active learning exercises (e.g., Java programming exercises, worksheets). Precept assistants will help students working on these exercises and be available to answer questions or explain the course material.
+Precept assistants are responsible for helping students understand the solutions to a set of active learning exercises during precept (e.g., Java programming exercises, worksheets). You will work alongside a graduate student or faculty preceptor to help students work on these exercises and will answer questions regarding the course material.
 
-An ideal candidate is someone who can: Connect with a wide variety of students, encourage them to ask questions, and explain the course material in a variety of ways. If you can do this, while being enthusiastic and patient, you’d no doubt make an excellent precept assistant.
+A great precept assistant is enthusiastic and patient. They can connect with a wide variety of students, encouraging them to ask questions while explaining the course material in a variety of ways.
 
 A precept assistant may also be hired as a grader or as a COS Lab TA.
 
@@ -168,8 +166,9 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Schedules (updated for Spring 2023):**
 
-Before applying to this position, please confirm you are available for at least some of the following precepts:
-
+Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126.
+ 
+<!--
 | Section         | Days/Time                      |
 | --------------- | -------------------------------|
 |Precept P01      |  Mon/Wed, 11:00am-11:50am      |
@@ -191,6 +190,7 @@ Before applying to this position, please confirm you are available for at least 
 |Precept P08A     |  Tue/Thu, 10:00am-10:50am      |
 |Precept P14      |  Tue/Thu, 7:30pm–8:50pm        |
 |Precept P16      |  Tue/Thu, 11:00am-12:20pm      |
+-->
 
 <!--
 From (Ruth Fong): https://bit.ly/126AssistantsS22
