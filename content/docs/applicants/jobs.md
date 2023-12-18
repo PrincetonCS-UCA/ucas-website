@@ -600,6 +600,41 @@ This position involves helping students with the course and grading the programm
 - Must pass an interview 
 
 
+<!--
+*****************************************************************
+COS 423: Theory of Algorithms
+*****************************************************************
+-->
+
+## COS 423 Theory of Algorithms
+
+For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/spring2024/cos423/).
+
+_Supervised by Supervised by Prof. Robert Tarjan (Spring 2024)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
+.
+
+**Responsibilities (10 hrs/week:)**
+
+- Attend a weekly staff meeting to plan the week.
+- Solve this year's version of the assignments, which will differ a bit from those of previous years.
+- Hold office hours.
+- Help answer questions on Ed.
+- Help the grading team.
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default),
+- Must pass an interview
+
+
+
+
+
 
 <!--
 *****************************************************************
