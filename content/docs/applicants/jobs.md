@@ -646,7 +646,7 @@ COS 429: Computer Vision
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234009123)
 
-_Supervised by Prof. Olga Russakovsky (Spring 2023)_
+_Supervised by Prof. Felix Heide and Prof. Vikram Ramaswamy_ (Spring 2024)
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-uca`)_
 
