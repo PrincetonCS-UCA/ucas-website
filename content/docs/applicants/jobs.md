@@ -603,6 +603,71 @@ This position involves helping students with the course and grading the programm
 
 <!--
 *****************************************************************
+COS 418: Distributed Systems
+*****************************************************************
+-->
+
+## COS 418 Distributed Systems
+
+For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/spring2024/cos418/).
+
+_Supervised by Supervised by Prof. Michael J. Freedman and Wyatt Lloyd (Spring 2024)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+As a LabTA for COS 418 you will provide students with support working on our challenging programming assignments.
+
+
+**Responsibilities (~5.25 hrs/week:)**
+
+- 4 hours of office hours per week, typically in 2 separate 2-hour chunks
+- 1 hour of answering questions on EdStem per week (in a defined 1-hour window)
+- course staff meeting to initially discuss responsibilities and later to discuss office hours for 1 hour roughly once a month
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default)
+
+
+<!--
+*****************************************************************
+COS 423: Theory of Algorithms
+*****************************************************************
+-->
+
+## COS 423 Theory of Algorithms
+
+For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/spring2024/cos423/).
+
+_Supervised by Supervised by Prof. Robert Tarjan (Spring 2024)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
+.
+
+**Responsibilities (10 hrs/week:)**
+
+- Attend a weekly staff meeting to plan the week.
+- Solve this year's version of the assignments, which will differ a bit from those of previous years.
+- Hold office hours.
+- Help answer questions on Ed.
+- Help the grading team.
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default),
+- Must pass an interview
+
+
+
+
+
+
+<!--
+*****************************************************************
 COS 426: Computer Graphics
 *****************************************************************
 -->
@@ -956,6 +1021,40 @@ Generally, the faculty member is responsible for the overall theme of the semina
 The **meeting times** as well as **the specific themes of each seminars** are updated every term on [the IW seminar page of the Department of Computer Science](https://www.cs.princeton.edu/ugrad/independent-work/independent-work-seminars).
 
 ➡️ **Please note that a UCA for a seminar is expected to be able to make the class meeting time for the seminar. It is your responsibility to check that you are available for the IW seminar for which you apply to be a UCA.**
+
+
+<!--
+*********
+Ryan Adams
+*********
+-->
+
+## Prof. Ryan Adams
+
+See [academic website](https://www.cs.princeton.edu/~rpa/).
+
+_Team communication: Course Slack_
+
+**Description:**
+
+This position is to provide support for students taking the IW seminar. UCAs will be expected to attend some of the weekly class meetings, hold office hours, and provide support for students on, e.g., Slack.  The primary aim will be to offer guidance, conceptual help, and troubleshooting.
+
+**Responsibilities (~5-6 hrs/week):**
+
+- Attend the weekly class meeting at a frequency jointly determined with the instructor.
+
+- Hold 2 hours of office hours a week, with extra before significant deadlines.
+
+- Be responsive on Slack to issues raised by students in the class.
+
+**Requirements:**
+
+- Must pass an interview,
+- Must have previously completed an IW.
+
+
+
+
 
 <!--
 *********
