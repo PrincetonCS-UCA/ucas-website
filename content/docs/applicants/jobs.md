@@ -600,6 +600,36 @@ This position involves helping students with the course and grading the programm
 - Must pass an interview 
 
 
+
+<!--
+*****************************************************************
+COS 418: Distributed Systems
+*****************************************************************
+-->
+
+## COS 418 Distributed Systems
+
+For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/spring2024/cos418/).
+
+_Supervised by Supervised by Prof. Michael J. Freedman and Wyatt Lloyd (Spring 2024)_
+
+_Team communication: centralized Slack if available _
+
+**Description:**
+As a LabTA for COS 418 you will provide students with support working on our challenging programming assignments.
+
+
+**Responsibilities (~5.25 hrs/week:)**
+
+- 4 hours of office hours per week, typically in 2 separate 2-hour chunks
+- 1 hour of answering questions on EdStem per week (in a defined 1-hour window)
+- course staff meeting to initially discuss responsibilities and later to discuss office hours for 1 hour roughly once a month
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default)
+
+
 <!--
 *****************************************************************
 COS 423: Theory of Algorithms
