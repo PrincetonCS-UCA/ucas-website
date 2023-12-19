@@ -1022,6 +1022,40 @@ The **meeting times** as well as **the specific themes of each seminars** are up
 
 ➡️ **Please note that a UCA for a seminar is expected to be able to make the class meeting time for the seminar. It is your responsibility to check that you are available for the IW seminar for which you apply to be a UCA.**
 
+
+<!--
+*********
+Ryan Adams
+*********
+-->
+
+## Prof. Ryan Adams
+
+See [academic website](https://www.cs.princeton.edu/~rpa/).
+
+_Team communication: Course Slack_
+
+**Description:**
+
+This position is to provide support for students taking the IW seminar. UCAs will be expected to attend some of the weekly class meetings, hold office hours, and provide support for students on, e.g., Slack.  The primary aim will be to offer guidance, conceptual help, and troubleshooting.
+
+**Responsibilities (~5-6 hrs/week):**
+
+- Attend the weekly class meeting at a frequency jointly determined with the instructor.
+
+- Hold 2 hours of office hours a week, with extra before significant deadlines.
+
+- Be responsive on Slack to issues raised by students in the class.
+
+**Requirements:**
+
+- Must pass an interview,
+- Must have previously completed an IW.
+
+
+
+
+
 <!--
 *********
 Suma Bhat
