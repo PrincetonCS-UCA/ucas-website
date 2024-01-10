@@ -795,6 +795,37 @@ The position is for helping grade problem sets (about one Pset every other week)
 
 - Having a strong mathematical background.
 
+
+<!--
+*********************
+COS 435: Introduction to Reinforcement Learning
+*********************
+--->
+
+## COS 435: Introduction to Reinforcement Learning
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/016868)
+
+_Supervised by Prof. Benjamin Eyesenbach and Mengdi Wang (Spring 2024)_
+
+_Team communication: A course Slack
+
+**Description:**
+
+This position grades written and coding assignments. The coding assignments will be written in Python + PyTorch. You will work together with the graduate TAs to come up with a rubric for grading each problem. If time permits and if interested, you're welcome to also help out in writing and testing assignments
+
+**Responsibilities (10 hrs/week):**
+
+- We aim to have all assignments graded within 24 hrs of submission. This means that you'll have to block out some hours in the day after the submission for grading.
+* Clear communication (i.e., staying on top of Slack messages from the rest of the course staff, letting us know if you're unable to grade for some week)
+* You won't be expected to join the weekly staff meetings (though are welcome to if interested).
+
+**Requirements:**
+
+- An "A" in COS 324 (or equivalent). Some experience with RL.
+
+
+
 <!--
 **********************************
 COS 445: Economics and Computation
