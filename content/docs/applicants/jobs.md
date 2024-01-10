@@ -428,7 +428,7 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Ruth Fong, Prof. Vikram Ramaswamy, and Prof. Jia Deng (Fall 2023)_
+_Supervised by Prof. Sanjeev Arora and Prof. Elad Hazon (Spring 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
 
@@ -806,7 +806,7 @@ COS 435: Introduction to Reinforcement Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/016868)
 
-_Supervised by Prof. Benjamin Eyesenbach and Mengdi Wang (Spring 2024)_
+_Supervised by Prof. Benjamin Eyesenbach and Prof. Mengdi Wang (Spring 2024)_
 
 _Team communication: A course Slack
 
@@ -956,7 +956,7 @@ COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
 
 ⚠️ **This course is brand new and has never been taught before, except [as a pilot class](https://www.princetoncourses.com/course/1224002084).**
 
-_Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2023)_
+_Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#471-uca`)_
 
@@ -988,7 +988,7 @@ COS 484: Natural Language Processing
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234015210).
 
-_Supervised by Prof. Danqi Chen (Spring 2023)_
+_Supervised by Prof. Karthik Narasimhan (Spring 2024)_
 
 _Team communication: Course Slack_<!--Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#484-tas`)_-->
 
