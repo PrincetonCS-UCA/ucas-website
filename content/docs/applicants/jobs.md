@@ -948,13 +948,11 @@ This position supports and grades the programming assignments for COS 461 (see [
 
 <!--
 *******************************************************************
-COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
+COS 471: Blockchains, Decentralized Trust, and Their Applications
 *******************************************************************
 -->
 
-## COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
-
-⚠️ **This course is brand new and has never been taught before, except [as a pilot class](https://www.princetoncourses.com/course/1224002084).**
+## COS 471: Blockchains, Decentralized Trust, and Their Applications
 
 _Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2024)_
 
@@ -1209,12 +1207,12 @@ Robert Fish
 
 ## Prof. Robert Fish
 
-See [academic website](https://www.cs.princeton.edu/courses/archive/fall22/cosIW04/).
+See [academic websites](https://www.cs.princeton.edu/courses/archive/fall23/cosIW04/ https://www.cs.princeton.edu/courses/archive/spring24/cosIW03/)
 
 _Team communication: Email_
 
 **Description:**
-This position provides near peer support for students in IW seminar, particularly those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
+This position provides near-peer support for students in an IW seminar, particularly those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
 
 
 **Responsibilities (Approximately 6-10 hours/week):**
