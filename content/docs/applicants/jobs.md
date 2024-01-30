@@ -948,13 +948,11 @@ This position supports and grades the programming assignments for COS 461 (see [
 
 <!--
 *******************************************************************
-COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
+COS 471: Blockchains, Decentralized Trust, and Their Applications
 *******************************************************************
 -->
 
-## COS 471: Web3: Blockchains, Cryptocurrencies, and. Decentralization
-
-⚠️ **This course is brand new and has never been taught before, except [as a pilot class](https://www.princetoncourses.com/course/1224002084).**
+## COS 471: Blockchains, Decentralized Trust, and Their Applications
 
 _Supervised by Prof. Rob Fish and Prof. J. P. Singh (Spring 2024)_
 
@@ -962,13 +960,15 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 **Description:**
 
-Students will assist the class AI's in scoring programming assignments and speaker reflections based on a rubric. They will also be able to attend class and listen to the lectures and guest speakers in this new and highly sought-after class.
+Students will assist the class AI's in scoring programming assignments and speaker assignments based on a rubric. They will also be able to attend class and listen to the lectures and distinguished guest speakers in this class.
 
-**Responsibilities (~10 hrs/week):**
+**Responsibilities (~6-10 hrs/week):**
 
 - Assist in the scoring of 2-3 programming assignments
 
-- Assist in the scoring of lecture or guest speaker reflections
+- Assist in the scoring of lecture or guest speaker-based assignments
+
+- Assist in the scoring of projects
 
 **Requirements:**
 
@@ -1209,12 +1209,12 @@ Robert Fish
 
 ## Prof. Robert Fish
 
-See [academic website](https://www.cs.princeton.edu/courses/archive/fall22/cosIW04/).
+See [academic website](https://www.cs.princeton.edu/courses/archive/fall23/cosIW04/ https://www.cs.princeton.edu/courses/archive/spring24/cosIW03).
 
 _Team communication: Email_
 
 **Description:**
-This position provides near peer support for students in IW seminar, particularly those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
+This position provides near-peer support for students in IW seminar, particularly those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
 
 
 **Responsibilities (Approximately 6-10 hours/week):**
