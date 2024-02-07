@@ -71,7 +71,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Brian Kernighan (Fall 2023)_
 
-_Team communication: Email
+_Team communication: Email_
 
 **Description:**
 
@@ -428,7 +428,7 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Sanjeev Arora and Prof. Elad Hazon (Spring 2024)_
+_Supervised by Prof. Sanjeev Arora and Prof. Elad Hazan (Spring 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
 
@@ -475,7 +475,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Andrew Appel (Fall 2023)_
 
-_Team communication: a course Slack _
+_Team communication: a course Slack_
 
 **Description:**
 The "COS 326 UCA" position includes grading homeworks, holding in-person office hours (typically focused on homeworks), and answering questions on Ed.
@@ -578,7 +578,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Tom Griffiths (Fall 2023)_
 
-_Team communication: a course Slack _
+_Team communication: a course Slack_
 
 **Description:**
 This position is for a grader who will help with grading of problem sets involving programming problems and written answers. The programming problems are in Python. An auto-grader will be used, and you will interpret ambiguous cases flagged by the auto-grader and provide feedback on the code. You will also help to test problem sets and develop questions.
@@ -608,7 +608,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. David August (Fall 2023)_
 
-_Team communication: a course Slack _
+_Team communication: a course Slack_
 
 **Description:**
 This position involves helping students with the course and grading the programming assignments.
@@ -639,7 +639,7 @@ For description and past ratings, see course page on [Princeton Courses](http://
 
 _Supervised by Supervised by Prof. Michael J. Freedman and Wyatt Lloyd (Spring 2024)_
 
-_Team communication: centralized Slack if available _
+_Team communication: centralized Slack_
 
 **Description:**
 As a LabTA for COS 418 you will provide students with support working on our challenging programming assignments.
@@ -668,7 +668,7 @@ For description and past ratings, see course page on [Princeton Courses](http://
 
 _Supervised by Supervised by Prof. Robert Tarjan (Spring 2024)_
 
-_Team communication: centralized Slack if available _
+_Team communication: centralized Slack if available_
 
 **Description:**
 In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
@@ -704,7 +704,7 @@ For description and past ratings, see course page on [Princeton Courses](http://
 
 _Supervised by Prof. Adam Finkelstein (Fall 2023)_
 
-_Team communication: centralized Slack if available _
+_Team communication: centralized Slack if available_
 
 **Description:**
 In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
@@ -808,7 +808,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Benjamin Eyesenbach and Prof. Mengdi Wang (Spring 2024)_
 
-_Team communication: A course Slack
+_Team communication: A course Slack_
 
 **Description:**
 
@@ -892,7 +892,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Robert Fish (Fall 2023)_
 
-_Team communication: centralized Slack if available _
+_Team communication: centralized Slack (TBD)_
 
 **Description:**
 Students will assist the class AI’s in scoring assignments and speaker reflections based on a rubric. They will also be able to attend class and listen to the lectures and guest speakers in this new and highly sought-after class.
