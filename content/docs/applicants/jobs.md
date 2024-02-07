@@ -639,7 +639,7 @@ For description and past ratings, see course page on [Princeton Courses](http://
 
 _Supervised by Supervised by Prof. Michael J. Freedman and Wyatt Lloyd (Spring 2024)_
 
-_Team communication: centralized Slack_
+_Team communication: a course Slack_
 
 **Description:**
 As a LabTA for COS 418 you will provide students with support working on our challenging programming assignments.
@@ -668,7 +668,7 @@ For description and past ratings, see course page on [Princeton Courses](http://
 
 _Supervised by Supervised by Prof. Robert Tarjan (Spring 2024)_
 
-_Team communication: centralized Slack if available_
+_Team communication: TBA_
 
 **Description:**
 In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
@@ -739,7 +739,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Felix Heide and Prof. Vikram Ramaswamy_ (Spring 2024)
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-uca`)_
+_Team communication: a course Slack_
 
 **Description:**
 
@@ -838,7 +838,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Matt Weinberg and Dr. Marcel Dall'Agnol (Spring 2024)_
 
-_Team communication: Email + Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#445-grading` and `#445-grading-subchannel-1` through `#445-grading-subchannel-4`)_
+_Team communication: Email + a course Slack_
 
 **Description:**
 
