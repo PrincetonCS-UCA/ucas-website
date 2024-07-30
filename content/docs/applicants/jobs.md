@@ -1249,7 +1249,7 @@ This position holds office hours to help answer students' questions on using ML 
 
 **Responsibilities (~7 hrs/week):**
 
-- Attend weekly class meeting ~1.5h/week or 3h/week (Fall 2023: Wednesdays 1PM-2:50PM or 3:00PM-4:20PM)
+- Attend weekly class meeting ~1.5h/week or 3h/week (Fall 2024: Wednesdays 11AM-12:20PM or 3:00PM-4:20PM)
 
 - Hold office hours 1h or 2h/week
 
