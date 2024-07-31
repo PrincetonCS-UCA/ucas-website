@@ -3,9 +3,10 @@ title: How/When to Apply
 weight: 20
 ---
 
-This is a page to explain how/when to apply. To be written.
+The deparement will send all COS undergraduate students an email with instructions for UCA application about
+2 weeks before the start of the semester.
 
-Applications are submitted on the [TigerUHR](https://tigeruhr.io/register/) registration page.
+Applications are submitted on the [TigerUHR](https://tigeruhr.cs.princeton.edu/register/) registration page.
 
 ## Transcript Information
 
