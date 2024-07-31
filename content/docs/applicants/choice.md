@@ -50,4 +50,6 @@ After that point, the responsibility will be to the faculty supervisor to follow
 
 If you have been hired for a job, but have not been onboarded, please contact us.
 
+## When you are not hired
+
 If all positions have been filled, we will send out an email to all applicants who are **not hired** for any position for this term.
