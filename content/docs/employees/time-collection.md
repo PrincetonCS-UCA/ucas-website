@@ -19,9 +19,9 @@ For most UCA jobs, the Department of Computer Science does its hiring through [T
 
 ## How to Get Help
 
-If you have any questions about getting added to payroll or declaring hours, you may contact [Louis Riehl](https://www.cs.princeton.edu/people/admins), who oversees the department's payroll for Undergraduate Course Assistants.
+If you have any questions about getting added to payroll or declaring hours, you may contact [Elizabeth Wang](https://www.cs.princeton.edu/people/admins), who oversees the department's payroll for Undergraduate Course Assistants.
 
-If you belong to [the UCA Slack]({{< ref "/docs/employees/slack" >}}), you can also ask him questions in the [#payroll channel](https://app.slack.com/client/TU01C5RPG/C01PA7ZFL6N).
+If you belong to [the UCA Slack]({{< ref "/docs/employees/slack" >}}), you can also ask her questions in the [#payroll channel](https://app.slack.com/client/TU01C5RPG/C01PA7ZFL6N).
 
 ## Official Instructions
 
