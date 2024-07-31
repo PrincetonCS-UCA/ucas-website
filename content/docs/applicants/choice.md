@@ -43,8 +43,11 @@ These rules are intended to provide stability for the faculty and to ensure that
 
 ## When you are hired
 
-Once you have been hired, you will receive an email from the Department of Computer Science introducing you to your faculty supervisor.
+Once you **have been hired** for a position, you will receive an email from the faculty supervisor for that position around the beginnin of the second week of the semester.
+(You can also log into TigerUHR to check the status of your application.)
 
 After that point, the responsibility will be to the faculty supervisor to follow up with you and get you on-boarded.
 
 If you have been hired for a job, but have not been onboarded, please contact us.
+
+If all positions have been filled, we will send out an email to all applicants who are **not hired** for any position for this term.
