@@ -42,7 +42,7 @@ As part of your hiring, you will need to fill to U.S. federal tax forms:
 
 You need to complete your Student Employment Office Paperwork as soon as possible ideally, before being hired by the department.
 
-You have or will apply for a job with the department on [TigerUHR](https://tigeruhr.io). Once you have been hired into a job, you will be added to queue that will notify our financial assistant, Louis Riehl, to add you to the department payroll for the corresponding job.
+You have or will apply for a job with the department on [TigerUHR](https://tigeruhr.io). Once you have been hired into a job, you will be added to queue that will notify our financial assistant, Elizabeth Wang, to add you to the department payroll for the corresponding job.
 
 If you have not filed the necessary paperwork, you will not be available to be added to the department's payroll, and an email will be sent to you to let you know that you need to file paperwork before we can take further action.
 
