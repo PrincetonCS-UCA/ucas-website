@@ -67,9 +67,9 @@ COS 109: Computers in Our World
 
 ## COS 109: Computers in Our World
 
-For description and past ratings, see course page on [Princeton Courses](https://www.cs.princeton.edu/courses/archive/fall23/cos109/)
+For description and past ratings, see course page on [Princeton Courses](https://www.cs.princeton.edu/courses/archive/fall24/cos109/)
 
-_Supervised by Prof. Brian Kernighan (Fall 2023)_
+_Supervised by Prof. Brian Kernighan (Fall 2024)_
 
 _Team communication: Email_
 
@@ -77,24 +77,17 @@ _Team communication: Email_
 
 Assist students in understanding problem sets and completing labs
 
-
 **Responsibilities (6-8 hours/week):**
 
+- Weekly office hours to assist with problem sets and lab exercises, some in person and some in Zoom, usually the afternoon and/or evening before the assignment is due.
 
-- Assist in the scoring of 5 assignments spread out over the term
-
-- Assist in the scoring of lecture or guest speaker reflections or book reports
-
+- Provide feedback to the instructor on drafts of labs and problem sets before they are posted.
 
 **Requirements:**
 
-- Must have taken the class and gotten B+ (by default),
-- Must have prior experience as a UCA (in this course),
-- Must be COS majors,
-- Must be specific applicant(s) that have contacted Prof. Brian Kernighan 
+- Must have considerable patience and a good understanding of basic material
 
-
-
+- Must be able to attend essentially all lectures (MW 1:30-2:50) 
 
 
 
