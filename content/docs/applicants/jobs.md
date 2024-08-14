@@ -160,9 +160,9 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Requirements:**
 
-- Having taken COS 126
+- Having taken COS 126 (B+ or better typically)
 
-- Being able to communicate effectively with a diverse group of students
+- Being able to effectively assist and communicate with a diverse group of students
 
 **Schedules (updated for Fall 2024):**
 
