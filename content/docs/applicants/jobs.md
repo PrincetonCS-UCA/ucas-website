@@ -110,7 +110,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Sebastian Caldas (Spring 2024)_
+_Supervised by Prof. Alan Kaplan (Fall 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
@@ -122,9 +122,9 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Responsibilities (~4-5 hrs/week):**
 
-- Attend weekly grader meeting (2-3h/week) to review the rubric and start grading synchronously. <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and start grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester. <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
 
-- Grade late and remaining assignments asynchronously (~1h/week).
+- Grade late and remaining assignments asynchronously as needed (max ~1h/week).
 
 **Requirements:**
 
@@ -138,7 +138,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 ### Precept Assistant position
 
-_Supervised by Prof. Sebastian Caldas (Spring 2024)_
+_Supervised by Prof. Ruth Fong (Fall 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
@@ -166,7 +166,7 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 **Schedules (updated for Spring 2023):**
 
-Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=002051).
+Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002051).
  
 <!--
 | Section         | Days/Time                      |
