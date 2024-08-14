@@ -122,7 +122,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Responsibilities (~3-5 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and start grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (2.5 hrs/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and start grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
 
 - Grade late and remaining assignments asynchronously as needed (max ~1h/week).
 
