@@ -120,9 +120,9 @@ This position grades the programming assignments and programming exams, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
-**Responsibilities (~4-5 hrs/week):**
+**Responsibilities (~3-5 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and start grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester. <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and start grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (2.5 hrs/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
 
 - Grade late and remaining assignments asynchronously as needed (max ~1h/week).
 
@@ -150,7 +150,7 @@ A great precept assistant is enthusiastic and patient. They can connect with a w
 
 A precept assistant may also be hired as a grader or as a COS Lab TA.
 
-**Responsibilities (~2-4 hrs/week) :**
+**Responsibilities (~3-4 hrs/week) :**
 
 - Prepare by reviewing upcoming precept exercises before class (1h/week)
 
@@ -164,7 +164,7 @@ A precept assistant may also be hired as a grader or as a COS Lab TA.
 
 - Being able to communicate effectively with a diverse group of students
 
-**Schedules (updated for Spring 2023):**
+**Schedules (updated for Fall 2024):**
 
 Before applying to this position, please confirm you are available for one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002051).
  
