@@ -232,9 +232,9 @@ COS 217: Introduction to Programming Systems
 
 ## COS 217: Introduction to Programming Systems
 
-For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002053)
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1252002053)
 
-_Supervised by Prof. Christopher Moretti (Spring 2024)_
+_Supervised by Prof. Christopher Moretti (Fall 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#217-grading`)_
 
