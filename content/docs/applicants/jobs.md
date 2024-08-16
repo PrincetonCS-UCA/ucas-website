@@ -1172,6 +1172,7 @@ This position is to provide support for students taking the IW seminar. UCAs wil
 
 **Requirements:**
 
+- Passing an interview with Prof. Benjamin Eysenbach
 - The most important responsibility of the UCA will be helping students debug RL algorithms and associated infrastructure (e.g., Slurm, WandB). Thus, the UCA must have previously taken an applied RL course (e.g., COS 435) or have a comparable amount of experience in RL.
 
 
