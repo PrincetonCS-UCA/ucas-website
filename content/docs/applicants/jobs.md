@@ -1144,6 +1144,42 @@ A UCA attends (most of) the weekly seminars, listens to the students' project up
 - Must have been an UCA for an IW seminar or COS 333
 
 
+
+<!--
+**********
+Benjamin Eysenbach
+**********
+-->
+
+## Prof. Benjamin Eysenbach
+
+See [academic website](https://www.cs.princeton.edu/people/profile/eysenbach).
+
+_Team communication: Centralized Slack_
+
+**Description:**
+
+This position is to provide support for students taking the IW seminar. UCAs will be expected to attend some of the weekly class meetings, hold office hours, and provide support for students on, e.g., Slack. The primary aim will be to offer guidance, conceptual help, and troubleshooting.
+
+**Responsibilities (~5-6 hrs/week):**
+
+
+- Attend the weekly class meeting (1.5 hr / week)
+
+- Hold 2 -- 4 hours of office hours a week.
+
+- Be responsive on Slack to issues raised by students in the class.
+
+**Requirements:**
+
+- The most important responsibility of the UCA will be helping students debug RL algorithms and associated infrastructure (e.g., Slurm, WandB). Thus, the UCA must have previously taken an applied RL course (e.g., COS 435) or have a comparable amount of experience in RL.
+
+
+
+
+
+
+
 <!--
 **********
 Chistiane Fellbaum
