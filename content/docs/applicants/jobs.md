@@ -702,28 +702,28 @@ COS 426: Computer Graphics
 
 ## COS 426 Computer Graphics
 
-For description and past ratings, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/fall23/cos426).
+For description, see [course page](http://www.cs.princeton.edu/courses/archive/fall23/cos426).
 
 _Supervised by Prof. Adam Finkelstein (Fall 2023)_
 
-_Team communication: centralized Slack if available_
+_Team communication: primarily through course-specific Slack workspace, supplemented by one weekly group meeting_
 
 **Description:**
-In this course, UTAs help students complete their coursework. They hold office hours, help in precept, answer questions on Ed, and participate in the grading team.
-.
+In this course, UTAs help students complete their coursework.
 
-**Responsibilities (10 hrs/week:)**
+**Responsibilities (6-10 hrs/week:)**
 
 - Attend a weekly staff meeting to plan the week.
-- Solve this year's version of the assignments, which will differ a bit from those of previous years.
+- Review assignment solutions to prepare for helping students.
 - Hold office hours.
+- Help in precepts.
 - Help answer questions on Ed.
-- Help the grading team.
+- Occasionally prereview course materials.
 
 **Requirements:**
 
-- Must have taken the class and gotten B+ (by default),
-- Must pass an interview
+- Must have taken the class and received A- or higher grade.
+- Must be patient helping others / good communicator.
 
 
 
