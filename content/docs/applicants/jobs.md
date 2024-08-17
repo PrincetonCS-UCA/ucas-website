@@ -732,9 +732,9 @@ COS 426: Computer Graphics
 
 For description, see [course page](http://www.cs.princeton.edu/courses/archive/fall23/cos426).
 
-_Supervised by Prof. Adam Finkelstein (Fall 2024)_
+_Supervised by Prof. Adam Finkelstein (Fall 2024)._
 
-_Team communication: primarily through course-specific Slack workspace, supplemented by one weekly group meeting_
+_Team communication: primarily through course-specific Slack workspace, supplemented by one weekly group meeting._
 
 **Description:**
 In this course, UTAs help students complete their coursework.
@@ -751,7 +751,7 @@ In this course, UTAs help students complete their coursework.
 **Requirements:**
 
 - Must have taken the class and received A- or higher grade.
-- Must be patient helping others / good communicator.
+- Must be patient helping others / effective communicator.
 
 
 
