@@ -460,7 +460,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 _Supervised by Prof. Adji Bousso Dieng and Prof. Jia Deng (Fall 2024)_
 
-_Team communication: Slack 
+_Team communication: Slack_
 
 **Description:**
 
