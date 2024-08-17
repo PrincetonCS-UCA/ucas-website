@@ -418,6 +418,34 @@ This position grades assignments and exams.  In both cases, submissions will be 
 - Familiarity with the material
 
 
+<!--
+*********************************************
+COS 316: Principles of Computer System Design
+*********************************************
+-->
+
+
+## COS 316: Principles of Computer System Design
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1252015166).
+
+_Supervised by Prof. Wyatt A. Lloyd and Prof. Robert S. Fish (Fall 2024)_
+
+_Team communication: a course staff Slack channel_
+
+**Description:**
+As a LabTA for COS 316 you will provide students with support working on our challenging programming assignments. You will help students learn how to think about and approach their assignments so they can be successful in 316, upper level systems classes, and beyond!
+
+**Responsibilities (~5.25 hrs/week:)**
+
+- 4 hours of office hours per week, typically in 2 separate 2-hour chunks
+- course staff meeting to initially discuss responsibilities and later to discuss office hours for 1 hour roughly once a month
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default)
+
+
 
 
 <!--
