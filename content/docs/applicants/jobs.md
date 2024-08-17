@@ -458,9 +458,9 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Sanjeev Arora and Prof. Elad Hazan (Spring 2024)_
+_Supervised by Prof. Adji Bousso Dieng and Prof. Jia Deng (Fall 2024)_
 
-_Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#324-uca`)_
+_Team communication: Slack 
 
 **Description:**
 
@@ -472,7 +472,7 @@ For office hours, you will host a weekly 2-hour office hours (either in-person o
 
 **Responsibilities (~5-10 hrs/week, depending on whether you're assigned grading in a given week):**
 
-- Attend and actively participate in 1-hour staff meeting each week (Mon 4:30-5:30pm for Fall 2023, most weeks on Zoom, ~1/month in-person)
+- Attend and actively participate in 1-hour staff meeting each week (Mon 4:30-5:30pm for Fall 2024, most weeks on Zoom, ~1/month in-person)
 
 - Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
 
