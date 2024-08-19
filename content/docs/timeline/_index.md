@@ -13,7 +13,7 @@ Typically applications for jobs that require a synchroneous interview (in person
 -->
 ## Fall 2024 campaign
 
-- August 19: TigerUHR open for UCA applications
+- August 21: TigerUHR open for UCA applications
 - September 2: Deadline to apply for a COS UCA job
 - September 9-14: Decisions for UCA hiring 
 
