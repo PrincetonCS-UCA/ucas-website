@@ -1183,7 +1183,7 @@ Benjamin Eysenbach
 
 See [academic website](https://www.cs.princeton.edu/people/profile/eysenbach).
 
-_Team communication: Centralized Slack_
+_Team communication: Centralized Slack if available_
 
 **Description:**
 
@@ -1383,9 +1383,9 @@ Yuri Pritykin
 
 ## Prof. Yuri Pritykin
 
-See [academic website](https://www.cs.princeton.edu/people/profile/eysenbach).
+See [academic website](https://www.cs.princeton.edu/people/profile/pritykin).
 
-_Team communication: Centralized Slack_
+_Team communication: Centralized Slack if available_
 
 **Description:**
 
