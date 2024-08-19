@@ -43,7 +43,7 @@ These rules are intended to provide stability for the faculty and to ensure that
 
 ## When you are hired
 
-Once you **have been hired** for a position, you will receive an email from the faculty supervisor for that position around the beginnin of the second week of the semester.
+Once you **have been hired** for a position, you will receive an email from the faculty supervisor for that position around the beginning of the second week of the semester.
 (You can also log into TigerUHR to check the status of your application.)
 
 After that point, the responsibility will be to the faculty supervisor to follow up with you and get you on-boarded.
