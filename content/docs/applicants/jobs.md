@@ -1374,6 +1374,38 @@ The course infrastructure consists of virtual machines and services hosted by Am
 
  - familiarity with at least one cloud service
 
+
+<!--
+**********
+Yuri Pritykin
+**********
+-->
+
+## Prof. Yuri Pritykin
+
+See [academic website](https://www.cs.princeton.edu/people/profile/eysenbach).
+
+_Team communication: Centralized Slack_
+
+**Description:**
+
+The position requires assisting the IW seminar participants. The UCA should come to seminars, provide feedback for student presentations, assist students with various IW tasks and milestones during the semester. The UCA should become familiar with students' projects as they develop, and give specific and valuable feedback and advice, be wiling to help troubleshoot programming and data analysis tasks. The UCA should communicate with students and instructor via slack and email, hold office hours at convenient times for students.
+
+**Responsibilities ( 7hrs/week):**
+
+- Come to seminar (two seminar meetings a week, for different groups of students).
+- Hold office hours.
+- Provide feedback to students' presentations and progress in IW tasks during the semester.
+- Provide technical assistance with programming and data analysis during office hours and by slack or email.
+- Communicate with students and instructor.
+  
+**Requirements:**
+
+- Must be ECE or COS majors,
+- Must pass an interview,
+- Must have completed a COS IW project before
+
+
 <!--
 ***********
 Huacheng Yu
