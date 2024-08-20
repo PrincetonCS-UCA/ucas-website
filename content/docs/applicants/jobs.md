@@ -266,7 +266,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Pedro Paredes (Spring 2024)_
+_Supervised by Prof. Pedro Paredes (Fall 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -275,11 +275,11 @@ about once every two weeks. It involves reading complex code, with the
 need to understand errors in the running time or memory efficiency of
 the code.
 
-**Responsibilities (~4-6 hrs/assignment) :**
+**Responsibilities (~3-5 hrs/assignment) :**
 
-- Attend weekly grader meeting (2-3h/assignment) to review the rubric
-  and start grading synchronously.<!--As of Spring 2024, this meeting
-  is on Tuesdays 4:30-7pm.-->
+- Attend weekly grader meeting (1-2h/assignment) to review the rubric
+  and start grading synchronously. As of Fall 2024, this meeting
+  is on Tuesdays 4:30-6pm.
 
 - Grade late and remaining assignments asynchronously (~2-3h/assignment).
 
@@ -294,7 +294,7 @@ the code.
 
 ### Grading Manager position
 
-_Supervised by Prof. Pedro Paredes (Spring 2024)_
+_Supervised by Prof. Pedro Paredes (Fall 2024)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
