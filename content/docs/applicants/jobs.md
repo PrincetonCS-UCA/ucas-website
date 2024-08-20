@@ -634,7 +634,7 @@ COS 375: Computer Architecture and Organization
 
 ## COS 375: Computer Architecture and Organization
 
-For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=009084).
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=009084).
 
 _Supervised by Prof. Margaret R. Martonosi (Fall 2024)_
 
