@@ -401,7 +401,7 @@ COS 302: Mathematics for Numerical Computing and Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=015411).
 
-_Supervised by Prof. Ryan Adams (Fall 2023)_
+_Supervised by Prof. Ellen Zhong (Fall 2024)_
 
 _Team communication: a course staff Slack channel_
 
@@ -636,7 +636,7 @@ COS 375: Computer Architecture and Organization
 
 For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=009084).
 
-_Supervised by Prof. David August (Fall 2023)_
+_Supervised by Prof. Margaret R. Martonosi (Fall 2024)_
 
 _Team communication: a course Slack_
 
