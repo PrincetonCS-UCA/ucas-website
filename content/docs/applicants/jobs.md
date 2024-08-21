@@ -623,9 +623,13 @@ The primary responsibility of this position is to help grade (together with grad
 
 **Requirements:**
 
+- Must have taken the class and gotten B+ (by default).
+- Must be COS majors.
+- Must pass an interview. 
 - Interest in course material.
 - Prefer students with experience in ML and algorithms.
-- An A in COS 324, COS 350, COS 226.
+- An A in COS 324, COS 350, COS 226 is prefered
+  
 
 
 
