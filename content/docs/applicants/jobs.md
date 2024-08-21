@@ -598,6 +598,41 @@ UCAs who are interested in other tasks such as helping answer questions on Ed, h
 
 <!--
 *****************************************
+COS 350: Ethics of Computing
+*****************************************
+-->
+
+## COS 350: Ethics of Computing
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1252016869).
+
+_Supervised by Prof. Aleksandra Korolova (Fall 2024)_
+
+_Team communication: Centralized Slack, if available_
+
+**Description:**
+The primary responsibility of this position is to help grade (together with graduate TAs) homework assignments and the final exam.
+
+**Responsibilities (5~10 hrs/week:)**
+
+- Attend grading meeting (about once in two weeks) to review / agree on rubric.
+- Grade asynchronously about 5-10h every other week, while consistently meeting grading deadlines.
+- Handle re-grade requests.
+  
+  
+
+**Requirements:**
+
+- Interest in course material.
+- Prefer students with experience in ML and algorithms.
+- An A in COS 324, COS 350, COS 226.
+
+
+
+
+
+<!--
+*****************************************
 PSY/COS 360: Computational Models of Cognition
 *****************************************
 -->
