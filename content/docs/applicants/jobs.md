@@ -1443,6 +1443,43 @@ The position requires assisting the IW seminar participants. The UCA should come
 
 <!--
 ***********
+Jaswinder Pal Singh
+***********
+-->
+
+## Prof. Jaswinder Pal Singh
+
+See [academic website](https://www.cs.princeton.edu/people/profile/jps).
+
+_Team communication: Centralized Slack, if available_
+
+**Description:**
+
+Undergrad-staffed Office Hours, Grading, Helping students with tool recommendations or software for their projects, and with helping them use these. Optionally, helping refine their product ideas  
+
+**Responsibilities (6-8 hrs/week):**
+
+- Attend weekly seminar on Wed at 3 to 4:20 pm
+- Help students with their projects, especially in software and tools.
+- Help with infrequent milestone checkins
+- Grade some checkins, based on completion, and projects. 
+
+
+**Requirements:**
+
+- Must pass an interview,
+- Must be interested in the course subject matter: building software products and web services or startups.
+- Experience with blockchain a benefit, but not at all necessary.
+- Having taken COS 448 can be a big plus, but also not at all required. 
+- Good written communication and analysis skills, Good empathetic skills and desire to help students.
+- Any applicant will be interviewed by the course staff prior to hire and we would like to see a writing sample.
+
+
+
+
+
+<!--
+***********
 Huacheng Yu
 ***********
 -->
@@ -1471,6 +1508,10 @@ UCAs participate in in-class discussions, give quick feedbacks to the student pr
 
 - Must have taken a COS 4xx (and gotten an A- or better) or a 5xx-level theory course
 
+
+
+
+
 <!--
 
 <!--
@@ -1481,7 +1522,7 @@ COS
 
 ## COS
 
-_Supervised by Prof. Olga Russakovsky (Spring 2023)_
+_Supervised by Prof.  (Spring 2023)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#429-tas`)_
 
