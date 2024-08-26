@@ -1109,7 +1109,7 @@ _Team communication: email_
 Currently the course has a web site with a bibliography. This needs updating. I will provide the UCA with all the data needed to do that. Basic knowledge of html (and unix) useful. Students in the class are expected to work on projects and make presentations. The UCA will help me set up the schedule and will maintain it. No knowledge of the material needed.
 No grading. No office hours. No help sessions. No slack channel.
 
-**Responsibilities (-10 hrs/week, in the middle of the semester, it will be less than that):**
+**Responsibilities (-10 hrs/week):**
 
 - Manage schedule,
 - maintain bibliography,
