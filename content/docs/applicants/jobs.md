@@ -1089,6 +1089,41 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 - Strong oral communication and relational skills (for facilitating office hours)
 
+
+<!--
+**************************
+COS 597C: Advanced Topics in Computer Science: Theory of Natural Algorithms
+**************************
+--->
+
+## COS 597: Advanced Topics in Computer Science: Theory of Natural Algorithms
+
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1252002124)
+
+_Supervised by Prof. Bernard Chazelle (Fall 2024)_
+
+_Team communication: email_
+
+**Description:**
+
+Currently the course has a web site with a bibliography. This needs updating. I will provide the UCA with all the data needed to do that. Basic knowledge of html (and unix) useful. Students in the class are expected to work on projects and make presentations. The UCA will help me set up the schedule and will maintain it. No knowledge of the material needed.
+No grading. No office hours. No help sessions. No slack channel.
+
+**Responsibilities (-10 hrs/week, in the middle of the semester, it will be less than that):**
+
+- Manage schedule,
+- maintain bibliography,
+- help students with special needs
+
+  
+**Requirements:**
+
+- Basic knowledge of html
+- No specific requirement (except basic sense of duty and responsibility)
+
+
+
+
 # External Courses Jobs
 
 Occasionally, the Department of Computer Science will hire UCAs for courses outside of the COS department. These positions are listed below, and may not recruit every semester. Please check the TigerUHR application for confirmation.
