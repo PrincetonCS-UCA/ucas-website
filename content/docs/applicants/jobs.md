@@ -1096,7 +1096,7 @@ COS 597C: Advanced Topics in Computer Science: Theory of Natural Algorithms
 **************************
 --->
 
-## COS 597: Advanced Topics in Computer Science: Theory of Natural Algorithms
+## COS 597C: Advanced Topics in Computer Science: Theory of Natural Algorithms
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1252002124)
 
