@@ -901,7 +901,7 @@ COS 445: Economics and Computation
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234012095)
 
-_Supervised by Prof. Matt Weinberg and Dr. Marcel Dall'Agnol (Spring 2024)_
+_Supervised by Prof. Matt Weinberg and Prof. Mark Braverman (Spring 2025)_
 
 _Team communication: Email + a course Slack_
 
@@ -911,21 +911,21 @@ UCAs for COS 445 are primarily responsible for grading (PSets, midterm, and fina
 
 UCAs who are interested in other tasks (such as helping answer questions on Ed, providing advice on course policy, etc.) are definitely welcome to do so (and be paid to do so, and appreciated for doing so), but the primary need is grading.
 
-Additionally 1-3 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Marcel ([`dallagnol@cs.princeton.edu`](mailto:dallagnol@cs.princeton.edu)) to discuss.
+Additionally 1-3 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) to discuss.
 
 **Responsibilities (~3-4 hrs/week):**
 
-- Attend weekly in-person meeting Thursdays 4:30PM-5:30PM. These meetings will tee up grading for the most recently submitted assignment, and we will ask you to stay for the entire hour to grade assignments with other course staff in the room.
+- Attend weekly in-person meeting Fridays 2PM - 3PM. These meetings will tee up grading for the most recently submitted assignment, and we will ask you to stay for the entire hour to grade assignments with other course staff in the room.
 
   **Note:**
 
-  - We will always be as efficient as possible with these meetings (e.g. we won't force you to show up if you've already finished grading). However, we do ask that you think of in-person attendance every week as the default, and block this time off on your calendar.
+  - We will always be as efficient as possible with these meetings (e.g. we won't force you to show up if you've already finished grading). However, we do ask that you think of in-person attendance every week as "required", and block this time off on your calendar.
 
-  - Many weeks, Matt and/or Marcel will take a subset of interested staff out for bubble tea at 5:30PM.
+  - Many weeks, Matt and/or Mark will take a subset of interested staff out for bubble tea at 3PM.
 
-- Grade asynchronously ~6 hours every 2 weeks. PSets are due every other Monday. Grading tees off on Thursday, and is due 10 days later on Monday. Because the next cycle starts soon after, we do need to be sticklers about deadlines.
+- Grade asynchronously ~6 hours every 2 weeks. PSets are due every other Monday. Grading tees off on Friday, and is due 10 days later on Tuesday. Because the next cycle starts soon after, we do need to be sticklers about deadlines.
 
-- Be available for ~6-8 hours (total) of grading the final on May 16/17 (the two days right after the university take-home final deadline). If you're on-campus, we'll ask that you grade in-person (and provide food/bubble tea). If you're off-campus (which is completely fine), we'll ask that you grade remotely. If your travel plans prevent you from grading (even remotely) during this period, please let Matt/Marcel know this in advance (but you do not need to change your travel plans to be available).
+- Be available for ~6-8 hours (total) of grading the final during the two days after it's due (the university has not announced the deadline for each course yet, but we will let everyone know the deadline as as soon as we find out). If you're on-campus, we'll ask that you grade in-person (and provide food/bubble tea). If you're off-campus (which is completely fine), we'll ask that you grade remotely. If your travel plans prevent you from grading (even remotely) during this period, please let Matt know this in advance (but you do not need to change your travel plans to be available).
 
 - There will be no staff meeting during Spring Break, and it is entirely feasible to complete your responsibilities without working at all over Spring Break. However, some UCAs prefer to grade the midterm over Spring Break, and we will have an optional remote tee-off meeting for those who want to do so.
 
@@ -937,11 +937,11 @@ Additionally 1-3 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_
 
 **Requirements:**
 
-- Must have taken COS 445 and gotten an A- or better. (If you have taken COS 445 and are interested in being a UCA, but did not earn an A- or better, feel free to reach out to Matt and/or Marcel to discuss).
+- Must have taken COS 445 and gotten an A- or better. (If you have taken COS 445 and are interested in being a UCA, but did not earn an A- or better, feel free to reach out to Matt to discuss).
 
-- Must be available for a weekly 4:30PM-5:30PM staff meeting on Thursdays, in-person.
+- Must be available for a weekly 2-3PM staff meeting on Fridays, in-person.
 
-If you apply for this position, we will assume that you'll block off every Thursday 4:30PM-5:30PM for an in-person meeting. Exceptions are possible (and we understand there will be sporadic absences), but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) and Marcel ([`dallagnol@cs.princeton.edu`](mailto:dallagnol@cs.princeton.edu)) with your situation **before applying for this position**.
+If you apply for this position, we will assume that you'll block off every Friday 2-3PM for an in-person meeting. Exceptions are possible (and we understand there will be sporadic absences), but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) with your situation **before applying for this position**.
 
 
 
