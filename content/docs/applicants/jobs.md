@@ -1511,6 +1511,46 @@ Undergrad-staffed Office Hours, Grading, Helping students with tool recommendati
 
 
 
+<!--
+****************
+Olga Russakovsky
+****************
+-->
+
+## Prof. Olga Russakovsky
+
+See [academic website](https://www.cs.princeton.edu/~olgarus/).
+
+_Team communication: Centralized Slack, if available_
+
+**Description:**
+
+The two IW seminars on "Computer Vision for Social Good" will provide opportunities for students to either build or analyze a computer vision system (depending on the student's background). Some of these students will have plenty of experience working with computer vision software; others (most) will be experiencing it for the first time. The UCAs should be available to help support them in this process, e.g.,:
+-- help identify good open-source package(s) to build off of
+-- provide assistance with system-level or installation issues
+-- offer suggestions on code optimization, file management, or other roadblocks that may need to be addressed
+
+Highly experienced UCAs can also offer suggestions on scoping the project, recommend additional analysis, point to relevant datasets or relevant literature, etc. 
+
+Above all else, the goal is to ensure that students have a good time and feel empowered in what is likely to be their first research experience!
+
+**Responsibilities (~4 hrs/week):**
+
+- Hold ~4 office hours per week (some may be by appointment)
+- Be responsive on slack to requests from the professor (e.g., "please look up software code that can do task X for one of the student groups)
+- (Optionally) Be responsive on slack to direct requests from students -- can specify at the beginning of the semester whether you're open to that
+- Assist in giving feedback on the report drafts and on the final reports by providing written answers to a set of guiding questions
+- Note that attending class sessions is not required 
+
+**Requirements:**
+
+- Must Must pass an interview,
+- Taken COS429 (A- or better, including an excellent final project)
+- Completed at least one semester of IW (on any topic) with an A grade
+- Have strong coding and system-building skills in AIML
+- Committed to making sure students have a good time in what is (possibly) their first stab at research
+
+
 
 
 <!--
