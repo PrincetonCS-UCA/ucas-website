@@ -1526,9 +1526,9 @@ _Team communication: Centralized Slack, if available_
 **Description:**
 
 The two IW seminars on "Computer Vision for Social Good" will provide opportunities for students to either build or analyze a computer vision system (depending on the student's background). Some of these students will have plenty of experience working with computer vision software; others (most) will be experiencing it for the first time. The UCAs should be available to help support them in this process, e.g.,:
--- help identify good open-source package(s) to build off of
--- provide assistance with system-level or installation issues
--- offer suggestions on code optimization, file management, or other roadblocks that may need to be addressed
+- help identify good open-source package(s) to build off of
+- provide assistance with system-level or installation issues
+- offer suggestions on code optimization, file management, or other roadblocks that may need to be addressed
 
 Highly experienced UCAs can also offer suggestions on scoping the project, recommend additional analysis, point to relevant datasets or relevant literature, etc. 
 
