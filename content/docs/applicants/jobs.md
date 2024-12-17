@@ -458,7 +458,7 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Adji Bousso Dieng and Prof. Jia Deng (Fall 2024)_
+_Supervised by Prof. Ruth Fong and Prof. Lydia Liu (Spring 2025)_
 
 _Team communication: Slack_
 
@@ -468,17 +468,17 @@ This position is a joint grader and office hour position.
 
 For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-problem most weeks according to a rubric as well as handle regrade requests for your problem. Depending on the number of UCAs on the course, you may not be assigned grading every week (though you should be prepared to grade each week).
 
-For office hours, you will host a weekly 2-hour office hours (either in-person or virtual, we try to offer roughly 50%-50% options) primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final.
+For office hours, you will host a weekly 2-hour office hours primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final. Office hours will be in-person by default (virtual office hours will be approved on a case-by-case basis, primarily to help staff unpopular office hour times); you should be prepared to hold in-person office hours.
 
 **Responsibilities (~5-10 hrs/week, depending on whether you're assigned grading in a given week):**
 
-- Attend and actively participate in 1-hour staff meeting each week (Mon 4:30-5:30pm for Fall 2024, most weeks on Zoom, ~1/month in-person)
+- Attend and actively participate in 1-hour, in-person staff meeting each week (Mon 4:30-5:30pm for Spring 2025)
 
 - Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
 
 - Host 2-hour office hour block each week
 
-- Grade asynchronously one problem or sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Fall 2023)
+- Grade asynchronously one problem or sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2025)
 
 **Requirements:**
 
