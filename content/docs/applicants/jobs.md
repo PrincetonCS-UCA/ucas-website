@@ -1055,7 +1055,7 @@ COS 484: Natural Language Processing
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234015210).
 
-_Supervised by Prof. Karthik Narasimhan (Spring 2024)_
+_Supervised by Danqi Chen, Tri Dao and Vikram Ramaswamy (Spring 2025)_
 
 _Team communication: Course Slack_<!--Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#484-tas`)_-->
 
@@ -1069,7 +1069,7 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 **Responsibilities (~4-8 hrs/week, depending on whether there is grading in a given week):**
 
-- Attend and actively participate in 30-min staff meeting each week (Thursday 4:30-5pm in COS 401)
+- Attend and actively participate in 30-min staff meeting each week (time TBD)
 
 - Prep for hosting office hours each week (0.5~2 hours; this really depends on your familiarity of the course materials. For the weeks that have an assignment due, you are expected to do the assignment yourself and it will take longer)
 
