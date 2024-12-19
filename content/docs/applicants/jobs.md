@@ -503,27 +503,29 @@ COS 326: Functional Programming
 
 For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012069).
 
-_Supervised by Prof. Andrew Appel (Fall 2023)_
+_Supervised by Prof. David Walker (Spring 2025)_
 
-_Team communication: a course Slack_
+_Team communication: email_
 
 **Description:**
-The "COS 326 UCA" position includes grading homeworks, holding in-person office hours (typically focused on homeworks), and answering questions on Ed.
+The "COS 326 UCA" position includes developing grading infrastructure and assignments for COS 326.
 
-**Responsibilities (~6 hrs/week:)**
+**Responsibilities (~4-6 hrs/week:)**
 
-- You should regularly monitor the COS326 slack where the course staff (including UCAs) will communicate.  
+- The goal is to revamp the COS 326 grading infrastructure in consultation with Prof David Walker and Prof Andrew Appel.
 
-- Grading is asynchronous and on-line; there are 7 homeworks and for each one theres a 2-3 day window in which it ought to be graded.  Since you've taken the course, you have a pretty clear idea what those homeworks are.
+- Will involve writing OCaml code and scripts/Makefiles/Dune files to automate grading.
 
-- If you are assigned certain days/times to cover Ed, you should monitor Ed from time do time during those hours.  
+- A secondary goal is to develop new assignments
 
-- If you are assigned in-person office hours, you should be there and be helpful.
+- Responsibilities can be flexible as long as the end goal is achieved.  More work one week and none the next is acceptable, for instance.
+
+- If successful, may lead to summer internship developing new assignments
 
 
 **Requirements:**
 
-- Must have taken the class and gotten B+ (by default), Must pass an interview 
+- Must have taken COS 326 and gotten B+ (by default), Must pass an interview, Must be familiar with OCaml, git, Makefiles, likely some scripting language (ie: possibly Python)
 
 
 
