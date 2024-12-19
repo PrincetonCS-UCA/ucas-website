@@ -262,11 +262,11 @@ COS 226: Algorithms and Data Structures
 
 ## COS 226: Algorithms and Data Structures
 
-For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002054)
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1254002054)
 
 ### Grader position
 
-_Supervised by Prof. Pedro Paredes (Fall 2024)_
+_Supervised by Prof. Pedro Paredes (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -278,7 +278,7 @@ the code.
 **Responsibilities (~3-5 hrs/assignment) :**
 
 - Attend weekly grader meeting (1-2h/assignment) to review the rubric
-  and start grading synchronously. As of Fall 2024, this meeting
+  and start grading synchronously. As of Spring 2025, this meeting
   is on Tuesdays 4:30-6pm.
 
 - Grade late and remaining assignments asynchronously (~2-3h/assignment).
@@ -294,7 +294,7 @@ the code.
 
 ### Grading Manager position
 
-_Supervised by Prof. Pedro Paredes (Fall 2024)_
+_Supervised by Prof. Pedro Paredes (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -322,7 +322,7 @@ Grading managers will work closely with Prof. Paredes
 - For students interested in creating new material for the course,
   responsibilities might include revising assignment statements,
   revising precept handouts, beta testing new assignments, creating
-  supplemental material.
+  supplemental material (like quizzes).
 
 **Requirements:**
 
