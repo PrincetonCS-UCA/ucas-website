@@ -696,6 +696,35 @@ This position involves helping students with the course and grading the programm
 
 <!--
 *****************************************************************
+COS 417: Operating Systems
+*****************************************************************
+-->
+
+## COS 417 Operating Systems
+
+For description, see course page on [Princeton Courses](http://www.cs.princeton.edu/courses/archive/spring2025/cos417/).
+
+_Supervised by Supervised by Prof. Amit A. Levy and Prof. Mae Milano (Spring 2025)_
+
+_Team communication: matrix, with email digest_
+
+**Description:**
+As a TA for COS 417, you will provide students with hands-on support for the programming projects, and answer general student questions about material either digitally or via office hours.  You may be called upon to help grade.
+
+**Responsibilities (6.5 hrs/week:)**
+- 4 hours of office hours, scheduled in two-hour chunks
+- 1 hour of online question-answering
+occasional responsibilities
+- grading, scheduled in a 4-hour chunk based on TA availability
+
+**Requirements:**
+
+- Must have prior experience as a UCA (in any course),
+- Must be ECE or COS majors,
+- Must pass an interview
+
+<!--
+*****************************************************************
 COS 418: Distributed Systems
 *****************************************************************
 -->
