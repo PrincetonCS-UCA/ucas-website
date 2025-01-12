@@ -112,7 +112,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Alan Kaplan (Fall 2024)_
+_Supervised by Prof. Alan Kaplan (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
@@ -122,11 +122,21 @@ This position grades the programming assignments and programming exams, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
-**Responsibilities (~3-5 hrs/week):**
+**Responsibilities (~2-3 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously. Dinner is provided. Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week). <!--As of Spring 2024, this meeting is on Tuesdays 4:30-7pm.-->
-
-- Grade late and remaining assignments asynchronously as needed (max ~1h/week).
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
+- Food is provided.
+- Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week).
+  - Tuesday, February 4  - Hello, World
+  - Tuesday, February 11 - Conditionals and Loops
+  - Tuesday, February 18 - Arrays & IO
+  - Tuesday, February 25 - Functions
+  - Tuesday, March 4 - Recursion
+  - Tuesday, March 25 - OOP
+  - Tuesday, April 1 - Image Classifier
+  - Tuesday, April 8 - Guitar Hero
+  - Tuesday, April 15 - Chat126
+  - Tuesday, April 22 - Programming Exam
 
 **Requirements:**
 
@@ -140,7 +150,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 ### Precept Assistant position
 
-_Supervised by Prof. Ruth Fong (Fall 2024)_
+_Supervised by Prof. Alan Kaplan (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
