@@ -1138,6 +1138,33 @@ For office hours, you will host a weekly 1-hour office hours primarily for helpi
 
 <!--
 **************************
+COS 485: Neural Networks: Theory and Applications
+**************************
+--->
+
+## COS 485: Neural Networks: Theory and Applications
+
+For description, see course website (https://cos485.github.io/)
+
+_Supervised by Prof. Sebastian Seung (Spring 2025)_
+
+_Team communication: Course Slack_
+
+**Description:**
+
+This position is for grading weekly assignments, which include mathematical exercises and programming exercises. 
+
+**Responsibilities (5-10 hrs/week):**
+
+- attend weekly grader meeting 1h/week to review rubric and start grading synchronously
+- grade asynchronously 4-9h/week
+
+**Requirements:**
+
+- Must have taken the class and gotten B+ (by default)
+
+<!--
+**************************
 COS 597C: Advanced Topics in Computer Science: Theory of Natural Algorithms
 **************************
 --->
