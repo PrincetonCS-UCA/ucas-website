@@ -1443,6 +1443,36 @@ This position provides near-peer support for students in IW seminar, particularl
 
 <!--
 **********
+Aarti Gupta
+**********
+-->
+
+## Prof. Aarti Gupta
+
+See [academic website](https://www.cs.princeton.edu/people/profile/aartig).
+
+_Team communication: A course slack_
+
+**Description:**
+
+This position is to provide support for students taking the IW seminar. UCAs will be expected to attend some of the weekly class meetings, hold office hours, and provide support for students on Ed/Slack. The primary aim will be to offer guidance, conceptual help, and troubleshooting.
+
+**Responsibilities (4-5 hrs/week):**
+
+- Attend the weekly class meeting at a frequency jointly determined with the instructor.
+- Hold 2 hours of office hours a week, with extra before significant deadlines.
+- Be responsive on Ed/Slack to issues raised by students in the class.
+
+**Requirements:**
+
+- Passing an interview with Prof. Aarti Gupta
+- Must have taken COS 516
+
+
+
+
+<!--
+**********
 Xiaoyan Li
 **********
 -->
