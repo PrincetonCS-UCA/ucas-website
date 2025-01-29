@@ -1654,6 +1654,36 @@ Above all else, the goal is to ensure that students have a good time and feel em
 - Committed to making sure students have a good time in what is (possibly) their first stab at research
 
 
+<!--
+***********
+Mona Singh
+***********
+-->
+
+## Prof. Mona Singh
+
+See [academic website](https://www.cs.princeton.edu/people/profile/mona/).
+
+_Team communication: A course slack_
+
+**Description:**
+
+The position requires assisting the IW seminar participants. The UCA should come to seminars and  assist students with various IW tasks and milestones during the semester. The UCA should become familiar with students’ projects as they develop, and give specific and valuable feedback and advice, be willing to help troubleshoot programming and data analysis tasks. The UCA should communicate with students and instructor via slack and email,  and hold office hours at convenient times for students.
+
+**Responsibilities (~36hrs/week):**
+
+- Come to seminar (one 1.5h seminar meetings / week).
+- Hold office hours (1h / week).
+- Provide feedback to students’ presentations and progress in IW tasks during the semester.
+- Provide technical assistance with programming and data analysis during office hours and by slack or email.
+- Communicate with students and instructor.
+
+**Requirements:**
+
+- Must have done independent work.
+- Preference to students who have taken a machine learning course.
+
+
 
 
 <!--
