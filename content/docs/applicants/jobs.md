@@ -1469,6 +1469,31 @@ This position is to provide support for students taking the IW seminar. UCAs wil
 - Must have taken COS 516
 
 
+<!--
+**********
+Corey Sanders
+**********
+-->
+
+## Corey Sanders, COS IW 11
+
+_Team communication: Email_
+
+**Description:**
+This position provides near-peer support for students in IW seminar. The focus of this seminar is projects tied with Infrastructure as a Service and working to improve it. UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.
+
+
+**Responsibilities (Approximately 6-10 hours/week):**
+- Come to seminar
+- Have office hours at convenient times and be flexible about meeting students
+- Able to check a GitHub or similar repo
+- Willing to help with programming issues
+
+**Requirements:**
+- Must pass an interview,
+- Should have completed an IW project before
+- Preferably (but not required) have some experience with public cloud providers
+
 
 
 <!--
