@@ -1695,7 +1695,7 @@ _Team communication: A course slack_
 
 The position requires assisting the IW seminar participants. The UCA should come to seminars and  assist students with various IW tasks and milestones during the semester. The UCA should become familiar with students’ projects as they develop, and give specific and valuable feedback and advice, be willing to help troubleshoot programming and data analysis tasks. The UCA should communicate with students and instructor via slack and email,  and hold office hours at convenient times for students.
 
-**Responsibilities (~36hrs/week):**
+**Responsibilities (~6hrs/week):**
 
 - Come to seminar (one 1.5h seminar meetings / week).
 - Hold office hours (1h / week).
