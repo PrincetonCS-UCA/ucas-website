@@ -811,9 +811,9 @@ COS 426: Computer Graphics
 
 ## COS 426 Computer Graphics
 
-For description, see [course page](http://www.cs.princeton.edu/courses/archive/fall23/cos426).
+For description, see [course page](https://www.cs.princeton.edu/courses/archive/fall24/cos426/archive/).
 
-_Supervised by Prof. Adam Finkelstein (Fall 2024)._
+_Supervised by Prof. Adam Finkelstein (Fall 2025)._
 
 _Team communication: primarily through course-specific Slack workspace, supplemented by one weekly group meeting._
 
