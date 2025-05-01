@@ -112,31 +112,31 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Alan Kaplan (Spring 2025)_
+_Supervised by Prof. Alan Kaplan (Fall 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
 **Description:**
 
-This position grades the programming assignments and programming exams, in Java.
+This position grades the programming assignments and programming exam, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
 **Responsibilities (~2-3 hrs/week):**
 
 - Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
-- Food is provided.
+
 - Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week).
-  - Tuesday, February 4  
-  - Tuesday, February 11 
-  - Tuesday, February 18 
-  - Tuesday, February 25 
-  - Tuesday, March 4 
-  - Tuesday, March 25 
-  - Tuesday, April 1 
-  - Tuesday, April 8 
-  - Tuesday, April 15 
-  - Tuesday, April 22 
+  - Tuesday, September 9
+  - Tuesday, September 16
+  - Tuesday, September 23
+  - Tuesday, September 30
+  - Tuesday, October 7 (midterm week)
+  - Tuesday, October 28 
+  - Tuesday, November 4
+  - Tuesday, November 11 
+  - Tuesday, November 18
+  - Tuesday, December 2 
 
 **Requirements:**
 
@@ -144,7 +144,8 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 <!--- Score of 3 or higher on the supplemental application quiz (evaluated objectively using a rubric) -->
 
-- Strong empathetic skills
+
+- Strong coding and debugging skills - you should enjoy solving puzzles, figuring out how and why code works, etc.
 
 - Good written communication skills
 
