@@ -519,29 +519,23 @@ COS 326: Functional Programming
 
 For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012069).
 
-_Supervised by Prof. David Walker (Spring 2025)_
+_Supervised by Prof. David Walker (Fall 2025)_
 
 _Team communication: email_
 
 **Description:**
-The "COS 326 UCA" position includes developing grading infrastructure and assignments for COS 326.
+The "COS 326 UCA" position includes managing grading infrastructure and answering student questions for COS 326.
 
 **Responsibilities (~4-6 hrs/week:)**
 
-- The goal is to revamp the COS 326 grading infrastructure in consultation with Prof David Walker and Prof Andrew Appel.
+- Manage COS 326 grading infrastructure, including scripts for TigerFile and autograding of student assignments.  Organize and assist with grading.
 
-- Will involve writing OCaml code and scripts/Makefiles/Dune files to automate grading.
-
-- A secondary goal is to develop new assignments
-
-- Responsibilities can be flexible as long as the end goal is achieved.  More work one week and none the next is acceptable, for instance.
-
-- If successful, may lead to summer internship developing new assignments
+- Closely monitor and answer student questions on Ed about assignments.
 
 
 **Requirements:**
 
-- Must have taken COS 326 and gotten B+ (by default), Must pass an interview, Must be familiar with OCaml, git, Makefiles, likely some scripting language (ie: possibly Python)
+- Must have taken COS 326 and gotten A- (by default), Must pass an interview, Must be familiar with OCaml, git, Makefiles, likely some scripting language (ie: possibly Python)
 
 
 
