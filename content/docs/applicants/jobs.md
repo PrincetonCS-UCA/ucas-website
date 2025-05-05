@@ -681,14 +681,14 @@ COS 375: Computer Architecture and Organization
 
 ## COS 375: Computer Architecture and Organization
 
-For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=009084).
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=009084).
 
-_Supervised by Prof. Margaret R. Martonosi (Fall 2024)_
+_Supervised by Prof. David August and Margaret R. Martonosi (Fall 2025)_
 
 _Team communication: a course Slack_
 
 **Description:**
-This position involves helping students with the course and grading the programming assignments.
+This position involves helping students with the course assignments and projects, and grading the homework assignments and projects.
 
 **Responsibilities (Flexible 4~10 hrs/week:)**
 
