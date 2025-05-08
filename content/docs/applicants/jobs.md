@@ -474,9 +474,11 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
-_Supervised by Prof. Ruth Fong and Prof. Lydia Liu (Spring 2025)_
+_Supervised by Profs. Victoria Dean, Adji Bousso Dieng, and Ruth Fong (Fall 2025)_
 
 _Team communication: Slack_
+
+### Joint Grader + Lab TA position
 
 **Description:**
 
@@ -486,15 +488,15 @@ For grading, you will be part of the team that grades our weekly assignments, wh
 
 For office hours, you will host a weekly 2-hour office hours primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final. Office hours will be in-person by default (virtual office hours will be approved on a case-by-case basis, primarily to help staff unpopular office hour times). We aim to provide most of our office hours Friday to Tuesday, before the Wednesday assignment deadline.
 
-**Responsibilities (~5-10 hrs/week, depending on whether you're assigned grading in a given week):**
+**Responsibilities (~8-10 hrs/week):**
 
-- Attend and actively participate in 1-hour, in-person staff meeting each week (Mon 4:30-5:30pm for Spring 2025)
+- Attend and actively participate in 1-hour, in-person staff meeting each week (Mon 4:30-5:30pm for Fall 2025)
 
 - Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
 
 - Host 2-hour office hour block each week
 
-- Grade asynchronously one problem or sub-problem (~3-5 hours/most weeks) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2025)
+- Grade asynchronously one problem or sub-problem (~3-5 hours/week) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2025)
 
 **Requirements:**
 
@@ -508,6 +510,30 @@ For office hours, you will host a weekly 2-hour office hours primarily for helpi
 
 - Prior experience as a UCA (in any course)
 
+### Grading Manager position
+
+**Description:**
+
+This position is for students that are interested in contributing to improve the class and can involve multiple things depending on your interests (see responsibilities below for examples), some of which don’t necessarily involve grading (despite the title name). The position would may also include holding UCA office hours and/or attending staff meeting (see above description for Joint Grader + Lab TA position) in addition to specific responsibilities.
+
+Grading managers will work closely with Prof. Fong and/or Prof. Dean.
+
+**Responsibilities (8-10 hrs/week):**
+
+- Supervising COS 324 graders (e.g. managing grading assignments and deadlines, answering questions, grading tougher/late submissions)
+ 
+- Assisting instructors with various administrative tasks (e.g. scheduling UCA office hours, creating internal documents like Google forms and spreadsheets for tracking office hours attendance, etc.)
+
+- Taking point on responding to students' Ed questions (with access to past semesters' Ed forums).
+
+- Creating and/or improving material for the course (e.g. proofreading and/or beta-testing assignments, improving lecture slides, writing supplementary course notes, etc.)
+
+**Requirements:**
+- Previous experience as a UCA, with strong preference for prior experience as COS 324 UCA and/or as a grading manager in another course
+
+- A vision for what can be done to improve the COS 324 (both for course staff and for students)
+
+- Candidates will be asked a few questions about what they are interested in doing for the course as well as their past experience with the course
 
 <!--
 *****************************************
