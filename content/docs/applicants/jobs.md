@@ -869,7 +869,7 @@ COS 429: Computer Vision
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234009123)
 
-_Supervised by Prof. Olga Russakovsky and Prof. Vikram Ramaswamy_ (Fall 2024)
+_Supervised by Prof. Olga Russakovsky and Prof. Vikram Ramaswamy_ (Fall 2025)
 
 _Team communication: a course Slack_
 
