@@ -310,7 +310,7 @@ the code.
 
 ### Grading Manager position
 
-_Supervised by Prof. Marcel Dall'Agnol (Spring 2025)_
+_Supervised by Prof. Marcel Dall'Agnol (Fall 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
