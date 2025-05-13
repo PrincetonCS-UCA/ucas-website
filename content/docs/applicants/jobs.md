@@ -564,6 +564,34 @@ The "COS 326 UCA" position includes managing grading infrastructure and answerin
 - Must have taken COS 326 and gotten A- (by default), Must pass an interview, Must be familiar with OCaml, git, Makefiles, likely some scripting language (ie: possibly Python)
 
 
+<!--
+*****************************************************
+COS 330: Great Ideas in Theoretical Computer Science
+*****************************************************
+-->
+
+## COS 330: Great Ideas in Theoretical Computer Science
+
+For description, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=017830).
+
+_Supervised by Prof. Matthew Weinberg, Prof. Pravesh K. Kathari, and Dr. Pedro Paredes (Fall 2025)_
+
+_Team communication: Centralized Slack, if available_
+
+**Description:**
+The "COS 330 UCA" position includes...
+
+**Responsibilities (~ hrs/week)**
+
+- .
+
+- .
+
+
+**Requirements:**
+
+- Must have ...
+- .
 
 
 
