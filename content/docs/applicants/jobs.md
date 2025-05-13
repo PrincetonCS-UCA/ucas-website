@@ -1473,7 +1473,7 @@ See [academic website](https://www.cs.princeton.edu/courses/archive/spring25/cos
 _Team communication: Email_
 
 **Description:**
-This position provides near-peer support for students in the IW seminar, particularly for those who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.  For IW03 "Invention and Innovation ...", having taken COS 448 would be a plus, but it isn't necessary.   To help with deployment issues, having taken COS 333 would also be a plus, but experience in liwu of this would be fine too.
+This position provides near-peer support for students in one of my IW seminars, particularly to help students who have never done an IW before.  UCA should be available to come to the seminar and find out what projects the students are doing.  They should also have some office hours at convenient times to work with students to overcome barriers to success, particularly programming issues.  For IW03 "Invention and Innovation ...", having taken COS 448 would be a plus, but it isn't necessary.   To help with deployment issues, having taken COS 333 would also be a plus, but experience in lieu of this would be fine too.
 
 
 **Responsibilities (Approximately 6-10 hours/week):**
