@@ -1468,7 +1468,7 @@ Robert Fish
 
 ## Prof. Robert Fish
 
-See [academic website](https://www.cs.princeton.edu/courses/archive/fall23/cosIW04/ https://www.cs.princeton.edu/courses/archive/spring24/cosIW03).
+See [academic website](https://www.cs.princeton.edu/courses/archive/spring25/cosIW04/ https://www.cs.princeton.edu/courses/archive/spring24/cosIW03)
 
 _Team communication: Email_
 
