@@ -282,7 +282,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Pedro Paredes (Spring 2025)_
+_Supervised by Prof. Marcel Dall'Agnol (Fall 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -294,7 +294,7 @@ the code.
 **Responsibilities (~3-5 hrs/assignment) :**
 
 - Attend weekly grader meeting (1-2h/assignment) to review the rubric
-  and start grading synchronously. As of Spring 2025, this meeting
+  and start grading synchronously. As of Fall 2025, this meeting
   is on Tuesdays 4:30-6pm.
 
 - Grade late and remaining assignments asynchronously (~2-3h/assignment).
@@ -310,7 +310,7 @@ the code.
 
 ### Grading Manager position
 
-_Supervised by Prof. Pedro Paredes (Spring 2025)_
+_Supervised by Prof. Marcel Dall'Agnol (Spring 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -321,7 +321,7 @@ improve the class and can involve multiple things depending on your
 interests (see responsibilities below for examples), some of which
 don't necessarily involve grading (despite the title name).
 
-Grading managers will work closely with Prof. Paredes 
+Grading managers will work closely with Prof. Dall'Agnol. 
 
 **Responsibilities (time commitment variable):**
 
