@@ -122,11 +122,11 @@ This position grades the programming assignments and programming exam, in Java.
 
 Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
 
-**Responsibilities (~2-3 hrs/week):**
+**Responsibilities (~2 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
+- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-6:30pm** to review the rubric and complete all grading synchronously.
 
-- Must be able to commit to attend the grading meeting for the entire semester (~2.5 h/week).
+- Must be able to commit to attend the grading meeting for the entire semester (~2 h/week).
   - Tuesday, September 9
   - Tuesday, September 16
   - Tuesday, September 23
@@ -140,7 +140,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Requirements:**
 
-- Having taken COS 126 (B+ or better typically)
+- Having taken (not placed out of) COS 126 (B+ or better typically). 
 
 <!--- Score of 3 or higher on the supplemental application quiz (evaluated objectively using a rubric) -->
 
@@ -149,6 +149,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 - Good written communication skills
 
+<!--
 ### Precept Assistant position
 
 _Supervised by Prof. Alan Kaplan (Spring 2025)_
@@ -185,6 +186,7 @@ A PA may also be hired as a grader or as a COS Lab TA.
 **Schedules (updated for Spring 2025):**
 
 Before applying to this position, please confirm you are available for at least one of the scheduled precepts for COS 126, which you can find [here](https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=002051).
+-->
  
 <!--
 | Section         | Days/Time                      |
