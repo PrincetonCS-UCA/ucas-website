@@ -150,7 +150,7 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 - Must have good written communication skills and provide valuable feedback to COS 126 students.
 
-- Must committe to the grading schedule (see above).
+- Must commit to the entire grading schedule (see above).
 
 <!--
 ### Precept Assistant position
