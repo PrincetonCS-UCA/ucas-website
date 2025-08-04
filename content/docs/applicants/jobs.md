@@ -124,9 +124,11 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Responsibilities (~2 hrs/week):**
 
+- Help grade COS 126 programming assignments and the programming exam. 
+
 - Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-6:30pm** to review the rubric and complete all grading synchronously.
 
-- Must be able to commit to attend the grading meeting for the entire semester (~2 h/week).
+- Must be able to commit to attend the grading meeting for the entire semester.
   - Tuesday, September 9
   - Tuesday, September 16
   - Tuesday, September 23
@@ -140,14 +142,15 @@ Graders work through [codePost](https://codepost.io) to provide high-quality and
 
 **Requirements:**
 
-- Having taken (not placed out of) COS 126 (B+ or better typically). 
+- Must have successfully completed COS 126 with a grade of B+ or higher. Placing out of COS 126 does not fulfill this requirement.
 
 <!--- Score of 3 or higher on the supplemental application quiz (evaluated objectively using a rubric) -->
 
+- Must have strong coding and debugging skills - you should enjoy solving puzzles, figuring out how and why code works (or does not work!), etc.
 
-- Strong coding and debugging skills - you should enjoy solving puzzles, figuring out how and why code works, etc.
+- Must have good written communication skills and provide valuable feedback to COS 126 students.
 
-- Good written communication skills
+- Must committe to the grading schedule (see above).
 
 <!--
 ### Precept Assistant position
