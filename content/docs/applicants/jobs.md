@@ -479,47 +479,64 @@ COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
 
+**Note:** This semester, we will be hiring for two main kinds of UCA positions (Grader and Lab TA). If you're interested in both, please apply for both positions.
+
 _Supervised by Profs. Victoria Dean, Adji Bousso Dieng, and Ruth Fong (Fall 2025)_
 
 _Team communication: Slack_
 
-### Joint Grader + Lab TA position
+### Grader position
 
 **Description:**
 
-This position is a joint grader and office hour position.
+You will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-program most weeks according to a rubric as well as handle regrade requests for your problem.
 
-For grading, you will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-problem most weeks according to a rubric as well as handle regrade requests for your problem. Depending on the number of UCAs on the course, you may not be assigned grading every week (though you should be prepared to grade each week).
+**Responsibilities (~6 hrs/week):**
 
-For office hours, you will host a weekly 2-hour office hours primarily for helping students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final. Office hours will be in-person by default (virtual office hours will be approved on a case-by-case basis, primarily to help staff unpopular office hour times). We aim to provide most of our office hours Friday to Tuesday, before the Wednesday assignment deadline.
+- Attend and actively participate in 1-hour grading meeting each week (time TBD for Fall 2025)
 
-**Responsibilities (~8-10 hrs/week):**
-
-- Attend and actively participate in 1-hour, in-person staff meeting each week (Mon 4:30-5:30pm for Fall 2025)
-
-- Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
-
-- Host 2-hour office hour block each week
-
-- Grade asynchronously one problem or sub-problem (~3-5 hours/week) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Spring 2025)
+- Grade asynchronously one problem or sub-problem (~5 hours/week) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Fall 2025)
 
 **Requirements:**
 
 - Having taken COS 324 and received a B+ or better
 
-- Strong written communication skills (for grading)
-
-- Strong oral communication and relational skills (for facilitating office hours)
+- Strong written communication skills
 
 **Preferred:**
 
-- Prior experience as a UCA (in any course)
+- Prior experience as a UCA (in any course), preferably as a grader
+
+### Lab TA position
+
+**Description:**
+
+For office hours, you will host a weekly 2-hour office hour slot (with the option to host more) to help students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final. Office hours will be in-person by default (virtual office hours will be approved on a case-by-case basis, primarily to help staff unpopular office hour times). We aim to provide most of our office hours Saturday to Tuesday, before the Wednesday assignment deadline.
+
+**Responsibilities (~5-7 hrs/week):**
+
+- Attend and actively participate in 1-hour, in-person staff meeting each week (Mon 4:30-5:30pm for Fall 2025)
+
+- Prep for hosting office hours each week (i.e. do assignment yourself, ~2 hours/week)
+
+- Host a 2-hour office hour block each week (can host up to 4 hours of weekly office hours).
+
+**Requirements:**
+
+- Having taken COS 324 and received a B+ or better
+
+- Strong oral communication and relational skills for facilitating office hours
+
+**Preferred:**
+
+- Prior experience as a UCA (in any course), preferably as a Lab TA
+
 
 ### Grading Manager position
 
 **Description:**
 
-This position is for students that are interested in contributing to improve the class and can involve multiple things depending on your interests (see responsibilities below for examples), some of which don’t necessarily involve grading (despite the title name). The position would may also include holding UCA office hours and/or attending staff meeting (see above description for Joint Grader + Lab TA position) in addition to specific responsibilities.
+This position is for students that are interested in contributing to improve the class and can involve multiple things depending on your interests (see responsibilities below for examples), some of which don’t necessarily involve grading (despite the title name). The position would may also include holding UCA office hours and/or attending staff meeting (see above description for Lab TA position) in addition to specific responsibilities.
 
 Grading managers will work closely with Prof. Fong and/or Prof. Dean.
 
