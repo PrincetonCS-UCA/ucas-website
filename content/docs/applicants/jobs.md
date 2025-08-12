@@ -1583,9 +1583,9 @@ _Team communication: Email_
 
 This position holds office hours to help answer students' questions on using ML packages or coding with Python. The UCAs are also expected to help organize students' project presentation in class and check their weekly progress.
 
-**Responsibilities (~7 hrs/week):**
+**Responsibilities (~5 hrs/week):**
 
-- Attend weekly class meeting ~1.5h/week or 3h/week (Fall 2024: Wednesdays 11AM-12:20PM or 3:00PM-4:20PM)
+- Attend weekly class meeting ~1.5h/week or 3h/week (Fall 2025: Wednesdays 10:45am-12:00pm or 2:55pm-4:15pm)
 
 - Hold office hours 1h or 2h/week
 
