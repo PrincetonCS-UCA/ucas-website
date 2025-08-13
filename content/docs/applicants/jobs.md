@@ -257,7 +257,7 @@ COS 217: Introduction to Programming Systems
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1254002053)
 
-_Supervised by Prof. Christopher Moretti (Spring 2025)_
+_Supervised by Prof. Christopher Moretti (Fall 2025)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#217-grading`)_
 
@@ -265,11 +265,11 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 The COS 217 grader evaluates COS 217 assignment transcripts and code to grade and provide high-quality, supportive feedback on students' submissions. Grading is done via codePost using primarily pre-defined rubric notes and deductions.
 
-**Responsibilities (~6-10 hours/week):**
+**Responsibilities (~4-7 hours/week):**
 
-- Attend weekly grader meeting ~1 hour per week (Spring 2025: likely to be Thursdays 5:00-~6:00pm). During weeks an assignment is due, this meeting will refresh your memory of that assignment, describe common errors, and review the rubric and codePost items to prepare for grading. During weeks between assignment due dates, this meeting will serve as a grading session to do some synchronous grading and get questions answered.
+- Attend weekly grader meeting ~1 hour per week (Fall 2025: likely to be Thursdays 5:00-~6:00pm). During weeks an assignment is due, this meeting will refresh your memory of that assignment, describe common errors, and review the rubric and codePost items to prepare for grading. During weeks between assignment due dates, this meeting will serve as a grading session to do some synchronous grading and get questions answered.
 
-- Grade 8-15 submissions asynchronously. Typically this accounts for 4-8 hours per week, though some assignments may grade faster or slower than others.
+- Grade 6-12 submissions asynchronously. Typically this accounts for 3-6 hours per week, though some assignments may grade faster or slower than others.
 
 **Requirements:**
 
