@@ -627,7 +627,7 @@ COS 333: Advanced Programming Techniques
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002065)
 
-_Supervised by Prof. Bob Dondero (Spring 2023)_
+_Supervised by Prof. Bob Dondero (Fall 2025)_
 
 _Team communication: Email, and staff mailing list [cos333instructors@lists.cs.princeton.edu](mailto:cos333instructors@lists.cs.princeton.edu)_
 
