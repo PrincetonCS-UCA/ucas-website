@@ -530,7 +530,7 @@ You will be part of the team that grades our weekly assignments, which typically
 
 - Attend and actively participate in 1-hour grading meeting each week (Thu 4:30-5:30pm for Fall 2025)
 
-- Grade asynchronously one problem or sub-problem (~5 hours/week) for the entire class (weekly grading period starts Saturday and is due Tuesdays EOD for Fall 2025)
+- Grade asynchronously one problem or sub-problem (~5 hours/week) for the entire class (weekly grading period starts Thursday 4:30pm and is due Tuesdays EOD for Fall 2025)
 
 **Requirements:**
 
