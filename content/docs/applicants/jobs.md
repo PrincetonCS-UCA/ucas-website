@@ -572,7 +572,7 @@ This position is for students that are interested in contributing to improve the
 
 Grading managers will work closely with Prof. Fong and/or Prof. Dean.
 
-**Note:** For Fall 2025, we have a strong preference for hiring student(s) to this position who will help us "run the ship" throughout the semester (e.g. less "future course development" and more "help make the course run smoothly this semester").
+**Note:** For Fall 2025, we have a strong preference for hiring student(s) to this position who will help us "run the ship" throughout the semester in a "head UCA" capacity (e.g. less "future course development" and more "help make the course run smoothly this semester").
 
 **Application:** Make sure to fill out our supplementary Google form (https://forms.gle/MpCZHShVhAHeu6wy7) as well as the regular UCA application form.
 
