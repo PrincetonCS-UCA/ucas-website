@@ -503,13 +503,6 @@ As a LabTA for COS 316 you will provide students with support working on our cha
 
 
 
-
-<!--
-*****************************************
-COS 324: Introduction to Machine Learning
-*****************************************
--->
-
 ## COS 324: Introduction to Machine Learning
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014294).
@@ -525,6 +518,8 @@ _Team communication: Slack_
 **Description:**
 
 You will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-program most weeks according to a rubric as well as handle regrade requests for your problem.
+
+**Application:** Make sure to fill out our supplementary Google form (https://forms.gle/rJdjtuB4w9vAMmLm6) as well as the regular UCA application form.
 
 **Responsibilities (~6 hrs/week):**
 
@@ -547,6 +542,8 @@ You will be part of the team that grades our weekly assignments, which typically
 **Description:**
 
 For office hours, you will host a weekly 2-hour office hour slot (with the option to host more) to help students get unstuck on our weekly assignments. Office hours will also provide prep support before our midterm and final. Office hours will be in-person by default (virtual office hours will be approved on a case-by-case basis, primarily to help staff unpopular office hour times). We aim to provide most of our office hours Saturday to Tuesday, before the Wednesday assignment deadline.
+
+**Application:** Make sure to fill out our supplementary Google form (https://forms.gle/rJdjtuB4w9vAMmLm6) as well as the regular UCA application form.
 
 **Responsibilities (~5-7 hrs/week):**
 
@@ -575,6 +572,10 @@ This position is for students that are interested in contributing to improve the
 
 Grading managers will work closely with Prof. Fong and/or Prof. Dean.
 
+**Note:** For Fall 2025, we have a strong preference for hiring student(s) to this position who will help us "run the ship" throughout the semester (e.g. less "future course development" and more "help make the course run smoothly this semester").
+
+**Application:** Make sure to fill out our supplementary Google form (https://forms.gle/MpCZHShVhAHeu6wy7) as well as the regular UCA application form.
+
 **Responsibilities (8-10 hrs/week):**
 
 - Supervising COS 324 graders (e.g. managing grading assignments and deadlines, answering questions, grading tougher/late submissions)
@@ -586,11 +587,20 @@ Grading managers will work closely with Prof. Fong and/or Prof. Dean.
 - Creating and/or improving material for the course (e.g. proofreading and/or beta-testing assignments, improving lecture slides, writing supplementary course notes, etc.)
 
 **Requirements:**
+- Have taken COS 324 and earned at least a B+.
+
+- Highly self-motivated and strong communication skills on Slack.
+
+- Available to meet weekly and in-person Mondays 4-5:30pm for senior staff meeting and staff meetings.
+
+**Preferred:**
+- Available to meet weekly and in-person Thursdays 4:30-5:30pm for our grading meetings.
+
 - Previous experience as a UCA, with strong preference for prior experience as COS 324 UCA and/or as a grading manager in another course
 
 - A vision for what can be done to improve the COS 324 (both for course staff and for students)
 
-- Candidates will be asked a few questions about what they are interested in doing for the course as well as their past experience with the course
+- Candidates will be asked a few questions about what they are interested in doing for the course as well as their past experience with the course.
 
 <!--
 *****************************************
