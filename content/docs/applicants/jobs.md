@@ -641,25 +641,35 @@ COS 330: Great Ideas in Theoretical Computer Science
 
 For description, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=017830).
 
-_Supervised by Prof. Matthew Weinberg, Prof. Pravesh K. Kathari, and Dr. Pedro Paredes (Fall 2025)_
+_Supervised by Prof. Matt Weinberg, Prof. Pravesh Kothari, and Prof. Pedro Paredes (Fall 2025)_
 
-_Team communication: Centralized Slack, if available_
+_Team communication: Centralized Slack_
 
 **Description:**
-The "COS 330 UCA" position includes...
 
-**Responsibilities (~ hrs/week)**
+The COS330 grader will grade and provide feedback on 9 student
+assignments using a live grading format. Instead of traditional
+asynchronous grading, the grader will meet with each student for
+30-minute sessions to read their assignment, provide feedback, and
+assign grades in real time.
 
-- .
+Each grader will be assigned 9 students and will meet with each
+student once per assignment throughout the semester.
 
-- .
+Given that this is a novel grading format, questions can be directed
+to Pedro (`pparedes@cs.princeton.edu`) via email.
 
+**Responsibilities**
+
+- Attend a meeting on grading expectations and guidelines (~1 hour, once at the start of the semester)
+- Prepare for grading by reading assignment, solutions, and grading guidelines (~1 hour per assignment)
+- Hold 30-minute grading meetings with assigned students (~4.5 hours per assignment, 9 students total)
 
 **Requirements:**
 
-- Must have ...
-- .
-
+- Must be comfortable with CS theory and mathematically rigorous proofs. Strong performance in proof-based math courses is generally sufficient and necessary.
+- Must be comfortable interacting with students in a supportive and professional manner, as this position involves significant direct student contact.
+- Prior grading or lab TA experience with theory or algorithms courses (such as COS226, COS240, or any 400 or 500 level theory course) is preferred but not required.
 
 
 <!--
