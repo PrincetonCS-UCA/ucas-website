@@ -692,17 +692,17 @@ A COS 333 UCA works with a graduate student TA to grade some semester-long proje
 
 **Responsibilities:**
 
-_These responsibilities refer to "Reading Period" and "Dean's Date" as defined in the [Registrar's Office's academic calendar](https://registrar.princeton.edu/academic-calendar-and-deadlines)._
+_These responsibilities refer to "Reading Period" as defined in the [Registrar's Office's academic calendar](https://registrar.princeton.edu/academic-calendar-and-deadlines)._
 
 - Each UCA will participate in a ~2 hour Zoom pre-grading meeting with the lead instructor and graduate student TAs. During that meeting they will discuss the project grading rubrics. That meeting will occur sometime shortly before or during the Reading Period.
 
-- The Registrar's Office decides the date/time when the projects are due. After that date/time each UCA will grade 4-to-6 projects, approximately one per day. During Fall semesters some slippage of that schedule will be fine. During Spring semesters the grading schedule is much shorter, and so slippage of that schedule will be not be reasonable. The grading will be mostly asynchronous, but could involve some synchronous interaction with the members of the teams whose projects are being graded. An UCA will devote ~5 hours to grading each project.
+- The Registrar's Office decides the date/time when the projects are due. After that date/time each UCA will grade 4-to-6 projects, approximately one per day. During Fall semesters some slippage of that schedule will be fine. During Spring semesters the grading schedule is much shorter, and so slippage of that schedule will be not be reasonable. The grading will be mostly asynchronous, but could involve some synchronous interaction with the members of the teams whose projects are being graded. An UCA will devote ~4 hours to grading each project.
 
 - Finally, each UCA will participate in a ~4 hour Zoom meeting with the lead instructor and graduate student TAs. During that meeting they will finalize the project grades. That meeting will occur shortly before the day when course letter grades are due at the Registrar's Office.
 
 **Requirements:**
 
-- Having taken COS 333 and gotten an A- or better
+- Having taken COS 333 and earned an A- or better grade
 
 <!--
 *********************************************
