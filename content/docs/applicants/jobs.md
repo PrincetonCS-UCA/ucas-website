@@ -635,7 +635,6 @@ The "COS 326 UCA" position includes managing grading infrastructure and answerin
 *****************************************************
 COS 330: Great Ideas in Theoretical Computer Science
 *****************************************************
--->
 
 ## COS 330: Great Ideas in Theoretical Computer Science
 
@@ -670,7 +669,7 @@ to Pedro (`pparedes@cs.princeton.edu`) via email.
 - Must be comfortable with CS theory and mathematically rigorous proofs. Strong performance in proof-based math courses is generally sufficient and necessary.
 - Must be comfortable interacting with students in a supportive and professional manner, as this position involves significant direct student contact.
 - Prior grading or lab TA experience with theory or algorithms courses (such as COS226, COS240, or any 400 or 500 level theory course) is preferred but not required.
-
+-->
 
 <!--
 ****************************************
@@ -1071,49 +1070,46 @@ COS 445: Economics and Computation
 
 ## COS 445: Economics and Computation
 
-For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234012095)
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1264012095)
 
-_Supervised by Prof. Matt Weinberg and Prof. Mark Braverman (Spring 2025)_
+_Supervised by Prof. Marcel Dall'Agnol and Prof. Mark Braverman (Spring 2026)_
 
 _Team communication: Email + a course Slack_
 
 **Description:**
 
-UCAs for COS 445 are primarily responsible for grading (PSets, midterm, and final). That is, every UCA must grade assignments, and it is common for most UCAs to only grade assignments.
+The COS445 grader will provide feedback on student assignments using a live 1on1
+grading format. Instead of traditional asynchronous grading, the grader will meet with each student for 30-minute sessions to review their assignment solutions, provide feedback, and help students develop a deeper understanding of the material.
 
-UCAs who are interested in other tasks (such as helping answer questions on Ed, providing advice on course policy, etc.) are definitely welcome to do so (and be paid to do so, and appreciated for doing so), but the primary need is grading.
+Each grader will be assigned less than 10 students and will meet with each
+student once per week throughout the semester.
 
-Additionally 1-3 UCAs can instead volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars do not grade assignments, but are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to grading, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) to discuss.
+Given that this is a novel grading format, questions can be directed
+to Marcel (`dallagnol@cs.princeton.edu`) via email.
 
-**Responsibilities (~3-4 hrs/week):**
+Additionally, 1-3 UCAs can volunteer to be the "_Strategy Design Czar(s)_". The Strategy Design Czars are responsible for maintaining the codebase for strategy design assignments. This role requires significant independence in comparison to the 1on1 role, but would be fun for students who enjoyed the strategy designs more than the PSets. If you are interested in this, you should email Marcel (`dallagnol@princeton.edu`) to discuss.
 
-- Attend weekly in-person meeting Fridays 2PM - 3PM. These meetings will tee up grading for the most recently submitted assignment, and we will ask you to stay for the entire hour to grade assignments with other course staff in the room.
+**Responsibilities:**
 
-  **Note:**
+- Attend a meeting on 1on1 expectations and guidelines (~1 hour, once at the start of the semester)
+- Prepare for 1on1s by reading assignment and solutions (~1 hour per assignment)
+- Hold 30-minute grading meetings with assigned students (<5 hours per assignment, <10 students total)
 
-  - We will always be as efficient as possible with these meetings (e.g. we won't force you to show up if you've already finished grading). However, we do ask that you think of in-person attendance every week as "required", and block this time off on your calendar.
-
-  - Many weeks, Matt and/or Mark will take a subset of interested staff out for bubble tea at 3PM.
-
-- Grade asynchronously ~6 hours every 2 weeks. PSets are due every other Monday. Grading tees off on Friday, and is due 10 days later on Tuesday. Because the next cycle starts soon after, we do need to be sticklers about deadlines.
-
-- Be available for ~6-8 hours (total) of grading the final during the two days after it's due (the university has not announced the deadline for each course yet, but we will let everyone know the deadline as as soon as we find out). If you're on-campus, we'll ask that you grade in-person (and provide food/bubble tea). If you're off-campus (which is completely fine), we'll ask that you grade remotely. If your travel plans prevent you from grading (even remotely) during this period, please let Matt know this in advance (but you do not need to change your travel plans to be available).
-
-- There will be no staff meeting during Spring Break, and it is entirely feasible to complete your responsibilities without working at all over Spring Break. However, some UCAs prefer to grade the midterm over Spring Break, and we will have an optional remote tee-off meeting for those who want to do so.
-
-- Be prepared to give actual feedback on written PSet submissions to help students improve. We will try our best to make this as efficient as possible, but you should be prepared that any assignment that doesn't receive full credit does typically require you to write something specific to that submission (copy/pasting comments across solutions historically leads to confusion by the students and results in appeals that we have to resolve anyway).
-
-- _[For Strategy Design Czars only]_ There is a codebase for strategy designs on github that, afaik, is complete, bug-free, etc. However, every SD still requires an initialization (TigerFile submission needs to be set up for every SD, sample files need to be uploaded for students, files need to be downloaded from TigerFile), and a run (some submissions have bugs and will crash the execution, you'll need to figure out which ones and edit/remove them, etc.). You will also be responsible for answering any questions about the coding portion of the SDs (because Matt/Marcel may not know the answer). This requires more independence than a typical UCA role, because this has always been designed/maintained by UCAs (there is a detailed SD czar onboarding document, and previous years' czars are often happy to answer quick questions).
+- _[For Strategy Design Czars only]_ There is a codebase for strategy designs on github that, afaik, is complete, bug-free, etc. However, every SD still requires an initialization (TigerFile submission needs to be set up for every SD, sample files need to be uploaded for students, files need to be downloaded from TigerFile), and a run (some submissions have bugs and will crash the execution, you'll need to figure out which ones and edit/remove them, etc.). You will also be responsible for answering any questions about the coding portion of the SDs (because Marcel may not know the answer). This requires more independence than a typical UCA role, because this has always been designed/maintained by UCAs (there is a detailed SD czar onboarding document, and previous years' czars are often happy to answer quick questions).
 
 - _[For Strategy Design Czars only]_ You are free to do more interesting things with the SD codebase, if that interests you. For example, you are free to add more 'check submitted files' test cases so that there's fewer buggy submissions, write more efficient code, write new 'staff solutions', or develop any new infrastructure that you think would be beneficial. But this is entirely optional--your 'responsibility' is just to make sure that SD files are uploaded in a timely fashion, and grades are computed in a timely fashion as well.
 
 **Requirements:**
 
-- Must have taken COS 445 and gotten an A- or better. (If you have taken COS 445 and are interested in being a UCA, but did not earn an A- or better, feel free to reach out to Matt to discuss).
+- Must be comfortable with CS theory and mathematically rigorous proofs. Strong performance in proof-based math courses is generally sufficient and necessary.
+- Must be comfortable interacting with students in a supportive and professional manner, as this position involves significant direct student contact.
+- Prior grading or lab TA experience with theory or algorithms courses (such as COS226, COS240, COS330, or any 400 or 500 level theory course) is preferred but not required.
 
-- Must be available for a weekly 2-3PM staff meeting on Fridays, in-person.
+<!-- - Must have taken COS 445 and gotten an A- or better. (If you have taken COS 445 and are interested in being a UCA, but did not earn an A- or better, feel free to reach out to Marcel to discuss). -->
 
-If you apply for this position, we will assume that you'll block off every Friday 2-3PM for an in-person meeting. Exceptions are possible (and we understand there will be sporadic absences), but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) with your situation **before applying for this position**.
+<!-- - Must be available for a weekly 2-3PM staff meeting on Fridays, in-person. -->
+
+<!-- If you apply for this position, we will assume that you'll block off every Friday 2-3PM for an in-person meeting. Exceptions are possible (and we understand there will be sporadic absences), but you should email Matt ([`smweinberg@princeton.edu`](mailto:smweinberg@princeton.edu)) with your situation **before applying for this position**. -->
 
 
 
