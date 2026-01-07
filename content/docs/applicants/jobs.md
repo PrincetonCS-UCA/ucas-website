@@ -112,33 +112,35 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Alan Kaplan (Fall 2025)_
+_Supervised by Prof. Alan Kaplan (Spring 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
 **Description:**
 
-This position grades the programming assignments and programming exam, in Java.
+This position has changed slightly for Spring 2026:  It will involve a combination of (a) grading some assignments and (b) leading code reviews with students for other submissions.
 
-Graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.
+For the first few assignment, graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.  These grading sessions are in-person. See the schedule below. 
 
-**Responsibilities (~2 hrs/week):**
+In addition, graders will schedule 10-minute code review sessions with students. This will provide an opportunity for students to ask questions and get real-time feedback about their submissions. These sessions are scheduled asynchronously, most likely by Zoom.  (We are still working out the details.)
 
-- Help grade COS 126 programming assignments and the programming exam. 
+**Responsibilities (~2-3 hrs/week):**
 
-- Attend weekly grader meeting (in-person only) on **Tuesdays 4:30-6:30pm** to review the rubric and complete all grading synchronously.
+- Help grade COS 126 programming assignments and the programming exam.
 
-- Must be able to commit to attend the grading meeting for the entire semester.
-  - Tuesday, September 9
-  - Tuesday, September 16
-  - Tuesday, September 23
-  - Tuesday, September 30
-  - Tuesday, October 7 (midterm week)
-  - Tuesday, October 28 
-  - Tuesday, November 4
-  - Tuesday, November 11 
-  - Tuesday, November 18
-  - Tuesday, December 2 
+- Perform code reviews with students. 
+
+- Attend  grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
+
+- Must be able to commit to attending these specific sessions.  **No exceptions**. Please check your calendars for availability.
+  - Tuesday, Feburary 3
+  - Tuesday, Feburary 10
+  - Tuesday, Feburary 17
+  - Tuesday, April 27 (READING WEEK)
+
+- We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
+
+- We will provide a scheduling service that allows students to sign up to meet with you to discuss their solutions. These code reviews will be scheduled asynchronously. You will typically schedule up to twelve (12) 10-minute review sessions per week (approximately two hours total).  A student code review sessions is a peer-feedback session where you help students improve their code by offering constructive feedback, suggesting improvements, and sharing COS 126 best practices to improve logic, clarity, efficiency, and overall design.
 
 **Requirements:**
 
@@ -217,7 +219,7 @@ Before applying to this position, please confirm you are available for at least 
 
 ### Raspberry Pi Precept Assistant position
 
-_Supervised by Prof. Alan Kaplan (Fall 2025)_
+_Supervised by Prof. Alan Kaplan (Spring 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
@@ -248,7 +250,7 @@ A PA may also be hired as a grader or as a COS Lab TA.
 - Must be able to effectively assist and communicate with a diverse group of students
 
 
-Before applying to this position, please confirm you are available for Tuesday/Thursday 9:00am-10:20am precept.
+Before applying to this position, please confirm you are available for Tuesday/Thursday 10:40am-12:00pm precept.
 
 <!--
 From (Ruth Fong): https://bit.ly/126AssistantsS22
