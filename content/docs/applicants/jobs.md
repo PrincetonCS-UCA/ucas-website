@@ -130,17 +130,15 @@ In addition, graders will schedule 10-minute code review sessions with students.
 
 - Perform code reviews with students. 
 
-- Attend  grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.
-
-- Must be able to commit to attending these specific sessions.  **No exceptions**. Please check your calendars for availability.
+- Attend  the following grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.  Must be able to commit to attending these specific sessions.  **No exceptions**. Please check your calendars for availability.
   - Tuesday, Feburary 3
   - Tuesday, Feburary 10
   - Tuesday, Feburary 17
   - Tuesday, April 27 (READING WEEK)
 
-- We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
+- NOTE: We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
 
-- We will provide a scheduling service that allows students to sign up to meet with you to discuss their solutions. These code reviews will be scheduled asynchronously. You will typically schedule up to twelve (12) 10-minute review sessions per week (approximately two hours total).  A student code review sessions is a peer-feedback session where you help students improve their code by offering constructive feedback, suggesting improvements, and sharing COS 126 best practices to improve logic, clarity, efficiency, and overall design.
+- After the second or third assignment, we will transition to **code reviews**. We will provide a scheduling service that allows students to sign up to meet with you to discuss their solutions. These code reviews will be scheduled asynchronously. You will typically schedule up to twelve (12) 10-minute review sessions per week (approximately two hours total).  A student code review sessions is a peer-feedback session where you help students improve their code by offering constructive feedback, suggesting improvements, and sharing COS 126 best practices to improve logic, clarity, efficiency, and overall design.
 
 **Requirements:**
 
