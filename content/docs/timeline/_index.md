@@ -11,11 +11,11 @@ This page contain details about the timeline. (**Subject to change**)
 Typically applications for jobs that require a synchroneous interview (in person or over Zoom) close earlier to allow for interviews to be scheduled.
 
 -->
-## Fall 2025 campaign
+## Spring 2026 campaign
 
-- August 20: TigerUHR open for UCA applications
-- September 2: Deadline to apply for a COS UCA job
-- September 8-12: Decisions for UCA hiring 
+- January 12: TigerUHR open for UCA applications (you will receive an email from COS department) 
+- January 27: Deadline to apply for a COS UCA job
+- January 30 - Feburary 6: Decisions for UCA hiring 
 
 
 
