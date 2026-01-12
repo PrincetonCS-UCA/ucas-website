@@ -318,67 +318,53 @@ COS 226: Algorithms and Data Structures
 
 ## COS 226: Algorithms and Data Structures
 
-For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1254002054)
+For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1264002054)
 
-### Grader position
+### UCA position (aka Grader)
 
-_Supervised by Prof. Marcel Dall'Agnol (Fall 2025)_
+_Supervised by Prof. Maryam Hedayati (Spring 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
-This position grades the programming assignments in Java, which happen
-about once every two weeks. It involves reading complex code, with the
-need to understand errors in the running time or memory efficiency of
-the code.
+This position will help with holding office hours and running oral exams on the programming assignments. You will be asked to hold office hours before some of the programming assignments, which happen about once every two weeks. You will also be asked to help with oral exams about the programming assignments (which will mostly be asking students about the assignments to make sure they understand the code they wrote). The oral exams will happen twice in the semester, once after every four assignments.
 
-**Responsibilities (~3-5 hrs/assignment) :**
+Please note that this UCA position is different from previous iterations of the course due to our introduction of oral exams -- we ask for your flexibility and feedback with responsibilities as they may evolve throughout the semester.
 
-- Attend weekly grader meeting (1-2h/assignment) to review the rubric
-  and start grading synchronously. As of Fall 2025, this meeting
-  is on Tuesdays 4:30-6pm.
+**Responsibilities :**
 
-- Grade late and remaining assignments asynchronously (~2-3h/assignment).
+- Dedicate 4 hours twice in the semester to preparing for and running oral exams.
+
+- Hold office hours before some programming assignments (8 office hours throughout the semester)
+
 
 **Requirements:**
 
 - For Freshman/Sophomores: Having taken COS 226 (B+ or better typically)
 
-- For Juniors: Grading experience in any course (or being a lab TA)
+- For Juniors: UCA experience in any course (or being a lab TA)
 
 - For Seniors: Grading experience in COS 226
 
 
-### Grading Manager position
+### UCA Manager position (aka Grading Manager)
 
-_Supervised by Prof. Marcel Dall'Agnol (Fall 2025)_
+_Supervised by Prof. Maryam Hedayati (Spring 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
 **Description:**
 
-This position is for students that are interested in contributing to
-improve the class and can involve multiple things depending on your
-interests (see responsibilities below for examples), some of which
-don't necessarily involve grading (despite the title name).
+This position is for students that are interested in contributing to improve the class and can involve multiple things depending on your interests (see responsibilities below for examples).
 
-Grading managers will work closely with Prof. Dall'Agnol. 
+Grading managers will work closely with Prof. Hedayati and Prof. Pedro Paredes.
 
-**Responsibilities (time commitment variable):**
+**Example Responsibilities (time commitment variable):**
 
-- For students interested in grading it can be any of the following:
-  - Supervising the COS 226 graders (e.g. answering their questions, grading tougher submissions).
-  - Creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
-  - Audit a subset of submissions to ensure quality of grading.
+- For students interested in grading, responsibilities might include creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
+  
+- For students interested in interacting with other students, responsibilities might include holding office hours, assisting in precepts and attending staff meetings with the course instructors and graduate preceptors.
 
-- For students interested in interacting with other students,
-  responsibilities might include holding office hours, assisting in
-  precepts and attending staff meetings with the course instructors
-  and graduate preceptors.
-
-- For students interested in creating new material for the course,
-  responsibilities might include revising assignment statements,
-  revising precept handouts, beta testing new assignments, creating
-  supplemental material (like quizzes).
+- For students interested in creating new material for the course, responsibilities might include revising assignment statements, revising precept handouts, beta testing new assignments, creating supplemental material (like quizzes).
 
 **Requirements:**
 
