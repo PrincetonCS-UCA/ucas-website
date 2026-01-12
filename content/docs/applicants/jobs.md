@@ -339,11 +339,12 @@ Please note that this UCA position is different from previous iterations of the 
 
 **Requirements:**
 
-- For Freshman/Sophomores: Having taken COS 226 (B+ or better typically)
+- Having taken COS 226 (B+ or better typically)
 
-- For Juniors: UCA experience in any course (or being a lab TA)
+- Must be comfortable interacting with students in a supportive and professional
+  manner, as this position involves significant direct student contact.
 
-- For Seniors: Grading experience in COS 226
+- Prior grading or lab TA experience is preferred but not required.
 
 
 ### UCA Manager position (aka Grading Manager)
@@ -359,8 +360,6 @@ This position is for students that are interested in contributing to improve the
 Grading managers will work closely with Prof. Hedayati and Prof. Pedro Paredes.
 
 **Example Responsibilities (time commitment variable):**
-
-- For students interested in grading, responsibilities might include creating new materials to support the grading mission (such as the style guide, automation scripts, preparing grading briefs).
   
 - For students interested in interacting with other students, responsibilities might include holding office hours, assisting in precepts and attending staff meetings with the course instructors and graduate preceptors.
 
