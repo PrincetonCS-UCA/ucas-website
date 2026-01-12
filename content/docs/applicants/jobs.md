@@ -320,7 +320,7 @@ COS 226: Algorithms and Data Structures
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1264002054)
 
-### UCA position (aka Grader)
+### UCA position
 
 _Supervised by Prof. Maryam Hedayati (Spring 2026)_
 
@@ -347,7 +347,7 @@ Please note that this UCA position is different from previous iterations of the 
 - Prior grading or lab TA experience is preferred but not required.
 
 
-### UCA Manager position (aka Grading Manager)
+### UCA Manager position
 
 _Supervised by Prof. Maryam Hedayati (Spring 2026)_
 
