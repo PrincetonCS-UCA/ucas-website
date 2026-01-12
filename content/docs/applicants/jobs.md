@@ -660,7 +660,7 @@ COS 343: Algorithms for Computational Biology
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234014445)
 
-_Supervised by Prof. Ben Raphael (Spring 2025)_
+_Supervised by Prof. Ben Raphael (Spring 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#343-grading`)_
 
