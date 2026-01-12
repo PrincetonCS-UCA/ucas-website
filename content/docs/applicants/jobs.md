@@ -7,7 +7,7 @@ This page provides a general description of the responsibilities of all the jobs
 
 # General Job Categories
 
-The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $18.5/hr):
+The department employs undergraduates to assist with many COS courses. The jobs are divided into three categories (most paid $18.92/hr):
 
 - **Lab TAs** who help students in undergraduate-staffed office hours
 - **Graders** who grade assignments and (in some courses) exams
@@ -15,7 +15,7 @@ The department employs undergraduates to assist with many COS courses. The jobs 
 
 Some [Independent Work (IW) seminars](#iw-seminar-jobs) also hires 1-2 UCAs to do a combination of all three jobs (assisting in class to provide feedback to student presenting their projects, grading projects, and providing office hours for students to get help with their projects).
 
-Finally, some courses also hire a higher-level position (paid $21.5/hr):
+Finally, some courses also hire a higher-level position (paid $21.92/hr):
 
 - **Managers** who coordinate and supervise the work of other UCAs (typically managers have already worked in the course in a previous semester)
 
