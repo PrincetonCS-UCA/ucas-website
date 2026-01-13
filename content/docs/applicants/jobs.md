@@ -131,9 +131,9 @@ In addition, graders will schedule 10-minute code review sessions with students.
 - Perform code reviews with students. 
 
 - Attend  the following grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.  Must be able to commit to attending these specific sessions.  **No exceptions**. Please check your calendars for availability.
-  - Tuesday, Feburary 3
-  - Tuesday, Feburary 10
-  - Tuesday, Feburary 17
+  - Tuesday, February 3
+  - Tuesday, February 10
+  - Tuesday, February 17
   - Tuesday, April 27 (READING WEEK)
 
 - NOTE: We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
