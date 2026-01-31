@@ -134,7 +134,7 @@ In addition, graders will schedule 10-minute code review sessions with students.
   - Tuesday, February 3
   - Tuesday, February 10
   - Tuesday, February 17
-  - Tuesday, April 27 (READING WEEK)
+  - Tuesday, April 28 (READING WEEK)
 
 - NOTE: We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
 
