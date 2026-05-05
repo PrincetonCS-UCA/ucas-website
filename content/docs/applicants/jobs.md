@@ -212,13 +212,13 @@ Before applying to this position, please confirm you are available for at least 
 
 ### Raspberry Pi Precept Assistant position
 
-_Supervised by Prof. Alan Kaplan (Spring 2026)_
+_Supervised by Prof. Alan Kaplan (Fall 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-precept-assistants`)_
 
 **Description:**
 
-The precept assistant (PA) works under the direction of a COS 126 preceptor in the Raspberry Pi precept.  The PA is an undergraduate student who has taken COS126 and the Raspberry Pi precept previously and is excited to help current COS 126 students learn the precept material. During precept, students will spend much of their time working on various exercises, typically in pairs, wiring, debugging and programming a Raspberry Pi (including various sensors and devices). Your primary role as a PA is to support students as they work on these exercises. You'll visit with each group of students, sit with them for at least a few minutes, answer their questions,  and help them understand the exercises.
+The precept assistant (PA) works under the direction of a COS 126 preceptor in the Raspberry Pi precept.  The PA is an undergraduate student who has taken COS 126 and the Raspberry Pi precept previously and is excited to help current COS 126 students learn the precept material. During precept, students will spend much of their time working on various exercises, typically in pairs, wiring, debugging and programming a Raspberry Pi (including various sensors and devices). Your primary role as a PA is to support students as they work on these exercises. You'll visit with each group of students, sit with them for at least a few minutes, answer their questions,  and help them understand the exercises.
 
 You must have a solid foundation of programming/configuring/wiring/using a Raspberry Pi, specifically in the context of the COS 126 Raspberry Pi precept.
 
@@ -241,9 +241,8 @@ A PA may also be hired as a grader or as a COS Lab TA.
 - Must have previously taken COS 126 andthe Raspberry Pi precept
 
 - Must be able to effectively assist and communicate with a diverse group of students
-
-
-Before applying to this position, please confirm you are available for Tuesday/Thursday 10:40am-12:00pm precept.
+  
+- Before applying to this position, please confirm you are available for Tuesday/Thursday 10:40am-12:00pm precept.
 
 <!--
 From (Ruth Fong): https://bit.ly/126AssistantsS22
