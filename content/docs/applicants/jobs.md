@@ -417,7 +417,7 @@ _Supervised by Prof. Iasonas Petras (Fall 2026)_
 
 **Description:**
 
-The COS 240 Lab TA holds office hours where COS 240 students can ask questions on and discuss the course material and the course's assignments. "
+The COS 240 Lab TA holds office hours where COS 240 students can ask questions on and discuss the course material and the course's assignments.
 
 **Responsibilities:**
 
