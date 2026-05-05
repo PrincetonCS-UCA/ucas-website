@@ -387,7 +387,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### Grader position
 
-_Supervised by Prof. Iasonas Petras (Spring 2026)_
+_Supervised by Prof. Iasonas Petras (Fall 2026)_
 
 _Team communication: Email_
 
@@ -397,7 +397,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 
 **Responsibilities:**
 
-- Grade (asynchronously) students' work and provide feedback for ~6-8 hours a week (on weeks when grading takes place, which is more or less every 2 weeks).
+- Grade (asynchronously) students' work and provide feedback for ~6-8 hours a week (omly on weeks when grading takes place, which is more or less every 2 weeks).
 
 - Attend (and actively participate in) grading consistency meetings (most likely online) taking place on Thursdays 4:30PM-5:30PM
 
@@ -413,7 +413,7 @@ The COS 240 grader grades COS 240 students' work and provides feedback.
 
 ### Lab TA position
 
-_Supervised by Prof. Iasonas Petras (Spring 2026)_
+_Supervised by Prof. Iasonas Petras (Fall 2026)_
 
 **Description:**
 
@@ -421,7 +421,7 @@ The COS 240 Lab TA holds office hours where COS 240 students can ask questions o
 
 **Responsibilities:**
 
-- Hold 4 hours of office hours per week (on the weeks where assignments are due, there may be need to hold more hours of office hours, and on weeks were assignments are not due, less hours of office hours can be held).
+- Hold 4 hours of office hours per week (on the weeks where assignments are due, there may be a need to hold more hours of office hours, and on weeks were assignments are not due, less hours of office hours can be held).
 
 - Attend (and actively participate in) weekly status meetings (most likely online) taking place on Fridays 3:30PM-5:00PM
 
