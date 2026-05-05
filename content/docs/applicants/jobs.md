@@ -110,35 +110,31 @@ COS 126: Computer Science: An Interdisciplinary Approach
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234002051)
 
-### Grader position
+### UCA position
 
-_Supervised by Prof. Alan Kaplan (Spring 2026)_
+_Supervised by Prof. TBD (Fall 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
 **Description:**
 
-This position has changed slightly for Spring 2026:  It will involve a combination of (a) grading some assignments and (b) leading code reviews with students for other submissions.
+This position involves leading code review sessions with students on their assignment submissions. Teaching Assistants will schedule 20-minute one-on-one meetings, 
+giving students the opportunity to ask questions and receive real-time feedback on their work.
 
-For the first few assignment, graders work through [codePost](https://codepost.io) to provide high-quality and supportive feedback to introductory CS students. A detailed rubric is included. The work consists of reading and understanding the student's code, and providing feedback on the code's correctness, efficiency and clarity.  These grading sessions are in-person. See the schedule below. 
+Sessions are scheduled asynchronously and may take place either in person or over Zoom. A centralized scheduling system will allow students to sign up for available 
+time slots. TAs can expect to hold approximately six to eight review sessions per week, totaling about two to three hours.
 
-In addition, graders will schedule 10-minute code review sessions with students. This will provide an opportunity for students to ask questions and get real-time feedback about their submissions. These sessions are scheduled asynchronously, most likely by Zoom.  (We are still working out the details.)
+Each code review session is a collaborative, peer-feedback experience. In these meetings, you will help students strengthen their code by providing constructive 
+feedback, suggesting improvements, and reinforcing course best practices. The goal is to enhance code quality in terms of logic, clarity, efficiency, and overall 
+design.
 
 **Responsibilities (~2-3 hrs/week):**
 
-- Help grade COS 126 programming assignments and the programming exam.
+- Lead code reviews with students. 
 
-- Perform code reviews with students. 
+- Attend  the following UCA orientation meeting (in-person only) on **Tuesday Sep 8 4:30-6:00pm** .  **No exceptions**. Please check your calendars for availability.
 
-- Attend  the following grader meeting (in-person only) on **Tuesdays 4:30-7:00pm** to review the rubric and complete all grading synchronously.  Must be able to commit to attending these specific sessions.  **No exceptions**. Please check your calendars for availability.
-  - Tuesday, February 3
-  - Tuesday, February 10
-  - Tuesday, February 17
-  - Tuesday, April 28 (READING WEEK)
-
-- NOTE: We will also schedule some group meetings after these dates to discuss code reviews. So your Tuesdays from 4:30-7:00 should generally be free.
-
-- After the second or third assignment, we will transition to **code reviews**. We will provide a scheduling service that allows students to sign up to meet with you to discuss their solutions. These code reviews will be scheduled asynchronously. You will typically schedule up to twelve (12) 10-minute review sessions per week (approximately two hours total).  A student code review sessions is a peer-feedback session where you help students improve their code by offering constructive feedback, suggesting improvements, and sharing COS 126 best practices to improve logic, clarity, efficiency, and overall design.
+- Attend other group meetings to discuss code reviews. So your Tuesdays from 4:30-6:00 should generally be free.
 
 **Requirements:**
 
@@ -148,9 +144,8 @@ In addition, graders will schedule 10-minute code review sessions with students.
 
 - Must have strong coding and debugging skills - you should enjoy solving puzzles, figuring out how and why code works (or does not work!), etc.
 
-- Must have good written communication skills and provide valuable feedback to COS 126 students.
+- Must have good written communication skills and be able to provide valuable feedback to COS 126 students.
 
-- Must commit to the entire grading schedule (see above).
 
 <!--
 ### Precept Assistant position
