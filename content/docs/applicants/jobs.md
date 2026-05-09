@@ -112,7 +112,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### UCA position
 
-_Supervised by Prof. TBD (Fall 2026)_
+_Supervised by Prof. Maryam Hedayati (Fall 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#126-grading`)_
 
