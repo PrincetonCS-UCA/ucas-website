@@ -316,19 +316,19 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 ### UCA position
 
-_Supervised by Prof. Maryam Hedayati (Spring 2026)_
+_Supervised by Prof. Marcel Dall'Agnol (Fall 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
-This position will help with holding office hours and running oral exams on the programming assignments. You will be asked to hold office hours before some of the programming assignments, which happen about once every two weeks. You will also be asked to help with oral exams about the programming assignments (which will mostly be asking students about the assignments to make sure they understand the code they wrote). The oral exams will happen twice in the semester, once after every four assignments.
+This position will help with holding office hours and running code reviews on the programming assignments. You will be asked to hold office hours before some of the programming assignments, which happen about once every two weeks. You will also be asked to help with code reviews on some of the assignments (which will mostly be asking students about the assignments to make sure they understand the code they wrote).
 
-Please note that this UCA position is different from previous iterations of the course due to our introduction of oral exams -- we ask for your flexibility and feedback with responsibilities as they may evolve throughout the semester.
+Please note that this UCA position is different from pre-Spring'26 iterations of the course due to our introduction of code reviews -- we ask for your flexibility and feedback with responsibilities as they may evolve throughout the semester.
 
 **Responsibilities :**
 
-- Dedicate 4 hours twice in the semester to preparing for and running oral exams.
+- Dedicate 4 hours throughout the semester to prepare for and run oral exams.
 
-- Hold office hours before some programming assignments (8 office hours throughout the semester)
+- Hold 8 office hours throughout the semester, before some programming assignments.
 
 
 **Requirements:**
@@ -343,7 +343,7 @@ Please note that this UCA position is different from previous iterations of the 
 
 ### UCA Manager position
 
-_Supervised by Prof. Maryam Hedayati (Spring 2026)_
+_Supervised by Prof. Marcel Dall'Agnol (Fall 2026)_
 
 _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/slack" >}}): `#226-grading`)_
 
@@ -351,13 +351,13 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 This position is for students that are interested in contributing to improve the class and can involve multiple things depending on your interests (see responsibilities below for examples).
 
-Grading managers will work closely with Prof. Hedayati and Prof. Pedro Paredes.
+Grading managers will work closely with Prof. Dall'Agnol and Prof. Wayne.
 
 **Example Responsibilities (time commitment variable):**
   
 - For students interested in interacting with other students, responsibilities might include holding office hours, assisting in precepts and attending staff meetings with the course instructors and graduate preceptors.
 
-- For students interested in creating new material for the course, responsibilities might include revising assignment statements, revising precept handouts, beta testing new assignments, creating supplemental material (like quizzes).
+- For students interested in creating new material for the course, responsibilities might include revising precept handouts, beta-testing new assignments or creating supplemental material (e.g., developing quiz questions on PrairieLearn).
 
 **Requirements:**
 
