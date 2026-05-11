@@ -324,12 +324,6 @@ This position will help with holding office hours and running code reviews on th
 
 Please note that this UCA position is different from pre-Spring'26 iterations of the course due to our introduction of code reviews -- we ask for your flexibility and feedback with responsibilities as they may evolve throughout the semester.
 
-**Responsibilities :**
-
-- Dedicate 4 hours throughout the semester to prepare for and run oral exams.
-
-- Hold 8 office hours throughout the semester, before some programming assignments.
-
 
 **Requirements:**
 
