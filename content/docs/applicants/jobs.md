@@ -482,7 +482,7 @@ For description and past ratings, see course page on [Princeton Courses](https:/
 
 **Note:** This semester, we will be hiring for two main kinds of UCA positions (Grader and Lab TA). If you're interested in both, please apply for both positions.
 
-_Supervised by Profs. Zhaung Liu and Vikram Ramaswamy (Spring 2026)_
+_Supervised by Prof. Vikram Ramaswamy (Fall 2026)_
 
 _Team communication: Slack_
 
@@ -492,13 +492,11 @@ _Team communication: Slack_
 
 You will be part of the team that grades our weekly assignments, which typically alternate between a written homework (_i.e._ pen-and-paper pset) and a programming assignment (_i.e._ IPython notebook). Typically, you will grade one problem or sub-program most weeks according to a rubric as well as handle regrade requests for your problem.
 
-**Application:** Make sure to fill out our supplementary Google form ([https://forms.gle/rJdjtuB4w9vAMmLm6](https://forms.gle/gn6r8tL36ztgR1xN9)) as well as the regular UCA application form.
+**Application:** Make sure to fill out our supplementary Google form (https://forms.gle/4DzjvT6aBSK45PCe8) as well as the regular UCA application form.
 
 **Responsibilities (~6 hrs/week):**
 
-- Attend and actively participate in 1-hour grading meeting each week (Thu 4:30-5:30pm for Fall 2025)
-
-- Grade asynchronously one problem or sub-problem (~5 hours/week) for the entire class (weekly grading period starts Thursday 4:30pm and is due Tuesdays EOD for Fall 2025)
+- Grade asynchronously one problem or sub-problem (~5 hours/week) for the entire class (weekly grading period starts Thursday 6:30pm and is due Tuesdays EOD for Fall 2026)
 
 **Requirements:**
 
@@ -516,7 +514,7 @@ You will be part of the team that grades our weekly assignments, which typically
 
 You will host a weekly 2-hour problem solving session (with the option to host more) to help students get unstuck on our weekly assignments, and potentially offering feedback on previous assignments. These will be in-person by default (virtual sessions will be approved on a case-by-case basis, primarily to help staff unpopular times). We aim to provide most of our problem solving sessions Saturday to Tuesday, before the Wednesday assignment deadline.
 
-**Application:** Make sure to fill out our supplementary Google form ([https://forms.gle/rJdjtuB4w9vAMmLm6](https://forms.gle/gn6r8tL36ztgR1xN9)) as well as the regular UCA application form.
+**Application:** Make sure to fill out our supplementary Google form (https://forms.gle/4DzjvT6aBSK45PCe8) as well as the regular UCA application form.
 
 **Responsibilities (~5-7 hrs/week):**
 
