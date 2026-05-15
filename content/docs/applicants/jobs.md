@@ -534,6 +534,30 @@ You will host a weekly 2-hour problem solving session (with the option to host m
 
 - Prior experience as a UCA (in any course), preferably as a Lab TA
 
+### Course Development TA position
+
+_Supervised by Prof. Ruth Fong (Fall 2026)_
+
+_Team communication: Slack_
+
+**Description:**
+
+You will work closely with Prof. Fong and other COS 324 instructors to help revamp the COS 324 curriculum. 
+
+**Application:** Make sure to fill out our supplementary Google form (TODO) as well as the regular UCA application form.
+
+**Responsibilities (~10 hrs/week):**
+
+- Weekly meeting with Prof. Fong (to be scheduled)
+
+**Requirements:**
+
+- Took COS 324 and received a B+ or better
+
+**Preferred:**
+
+- Prior experience as a COS 324 UCA (or UCA of any course) strongly preferred
+
 
 <!--
 *****************************************
