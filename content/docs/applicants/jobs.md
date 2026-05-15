@@ -930,7 +930,7 @@ COS 429: Computer Vision
 
 For description and past ratings, see course page on [Princeton Courses](https://www.princetoncourses.com/course/1234009123)
 
-_Supervised by Prof. Olga Russakovsky and Prof. Vikram Ramaswamy_ (Fall 2025)
+_Supervised by Prof. Olga Russakovsky_ (Fall 2026)
 
 _Team communication: a course Slack_
 
@@ -954,7 +954,7 @@ Beyond that, we would welcome help with:
 
 **Responsibilities (~5-10 hrs/week, depending on whether there is grading in a given week):**
 
-There are 4 assignments and 2 exams. These will be due approximately every 2 weeks and need to be _graded within a week_. UCAs will be expected to be available to turn the grading around within about 5 days, and to work closely with the grad TA responsible for each assignment.
+There are 4 assignments and 2 exams. These will be due approximately every 2 weeks and need to be _graded within a week_. UCAs will be expected to be available to turn the grading around within 3-5 days, and to work closely with the grad TA responsible for each assignment.
 
 **Requirements:**
 
