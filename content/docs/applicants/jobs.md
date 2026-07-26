@@ -592,6 +592,7 @@ The "COS 326 UCA" position includes managing grading infrastructure and answerin
 *****************************************************
 COS 330: Great Ideas in Theoretical Computer Science
 *****************************************************
+-->
 
 ## COS 330: Great Ideas in Theoretical Computer Science
 
@@ -626,7 +627,7 @@ to Pedro (`pparedes@cs.princeton.edu`) via email.
 - Must be comfortable with CS theory and mathematically rigorous proofs. Strong performance in proof-based math courses is generally sufficient and necessary.
 - Must be comfortable interacting with students in a supportive and professional manner, as this position involves significant direct student contact.
 - Prior grading or lab TA experience with theory or algorithms courses (such as COS226, COS240, or any 400 or 500 level theory course) is preferred but not required.
--->
+
 
 <!--
 ****************************************
