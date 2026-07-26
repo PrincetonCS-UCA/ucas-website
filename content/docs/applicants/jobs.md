@@ -1616,7 +1616,7 @@ Lydia Liu
 **********
 -->
 
-## Prof. Lydia Liu
+## Prof. Lydia Liu - COS IW 06: Rethinking Human-AI Collaboration through Design
 
 See [academic website](https://www.cs.princeton.edu/people/profile/ltliu).
 
