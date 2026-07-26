@@ -1612,6 +1612,36 @@ This position holds office hours to help answer students' questions on using ML 
 
 <!--
 **********
+Lydia Liu
+**********
+-->
+
+## Prof. Lydia Liu
+
+See [academic website](https://www.cs.princeton.edu/people/profile/ltliu).
+
+_Team communication: A course Slack_
+
+**Description:**
+
+This position is to provide support for students taking the IW seminar. UCAs will be expected to attend all or some of the weekly class meetings, hold office hours, and provide support for students on, e.g., Slack. The primary aim will be to offer guidance, conceptual help, and debugging/troubleshooting.
+
+**Responsibilities (~5-6 hrs/week):**
+
+- Attend the weekly class meeting (1.5 hr / week) at discussed frequency.
+- Hold 2-4 hours of office hours a week.
+- Be responsive on course platform (e.g. slack) to issues raised by students in the class.
+- Follow course readings and facilitate student comments and discussions on course blog.
+  
+**Requirements:**
+
+- Must pass an interview,
+- Must have experience with web app development,
+- and/or generative AI APIs or tools,
+- Empathy, Interest in Design and/or Art
+
+<!--
+**********
 Mae Milano
 **********
 -->
