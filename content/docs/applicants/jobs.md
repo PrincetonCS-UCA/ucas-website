@@ -897,7 +897,7 @@ _Supervised by Prof. Xiaoyan Li (Fall 2026)_
 _Team communication: TBA_
 
 **Description:**
-UCAs will help hold office hours, review materials in some precepts, answer questions on Ed, and grad homeworks.
+UCAs will help hold office hours, review materials in some precepts, answer questions on Ed, and grade homeworks.
 
 
 **Responsibilities (5 hrs/week:)**
