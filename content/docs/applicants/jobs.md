@@ -881,6 +881,39 @@ In this course, UTAs help students complete their coursework. They hold office h
 - Must have taken the class and gotten B+ (by default),
 - Must pass an interview
 
+<!--
+*****************************************************************
+COS 424: Reasoning with Data
+*****************************************************************
+-->
+
+## COS 424 Reasoning with Data
+
+For description and past ratings, see course page on [Princeton Courses]
+(https://registrar.princeton.edu/course-offerings/course-details?term=1272&courseid=010279).
+
+_Supervised by Prof. Xiaoyan Li (Fall 2026)_
+
+_Team communication: TBA_
+
+**Description:**
+UCAs will help hold office hours, review materials in some precepts, answer questions on Ed, and grad homeworks.
+
+
+**Responsibilities (5 hrs/week:)**
+
+- Attend some precepts to help review materials.
+- Hold office hours.
+- Help answer questions on Ed.
+- Grade homeworks
+
+
+**Requirements:**
+
+- Must have taken COS324 and gotten A- or above
+- Must pass an interview
+- Familar with Python libraies, such as Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn, etc.
+
 
 
 
