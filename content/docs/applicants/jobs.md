@@ -118,23 +118,22 @@ _Team communication: Slack ([central COS UCA Slack]({{< ref "/docs/employees/sla
 
 **Description:**
 
-This position involves leading code review sessions with students on their assignment submissions. Teaching Assistants will schedule 20-minute one-on-one meetings, 
+This position involves leading code review sessions with students on their assignment submissions. UCAs will schedule 30-minute one-on-one meetings, 
 giving students the opportunity to ask questions and receive real-time feedback on their work.
 
-Sessions are scheduled asynchronously and may take place either in person or over Zoom. A centralized scheduling system will allow students to sign up for available 
-time slots. TAs can expect to hold approximately six to eight review sessions per week, totaling about two to three hours.
+Sessions are scheduled asynchronously and may take place either in person or over Zoom. TAs can expect to hold approximately six to eight review sessions per week, totaling about three to four hours.
 
 Each code review session is a collaborative, peer-feedback experience. In these meetings, you will help students strengthen their code by providing constructive 
 feedback, suggesting improvements, and reinforcing course best practices. The goal is to enhance code quality in terms of logic, clarity, efficiency, and overall 
 design.
 
-**Responsibilities (~2-3 hrs/week):**
+**Responsibilities (~3-4 hrs/week):**
 
 - Lead code reviews with students. 
 
 - Attend  the following UCA orientation meeting (in-person only) on **Tuesday Sep 8 4:30-6:00pm** .  **No exceptions**. Please check your calendars for availability.
 
-- Attend other group meetings to discuss code reviews. So your Tuesdays from 4:30-6:00 should generally be free.
+- Attend other group meetings to discuss code reviews on Tuesday Sep 29 4:30-5:30pm and Tuesday November 3 4:30-5:30pm.
 
 **Requirements:**
 
@@ -144,7 +143,7 @@ design.
 
 - Must have strong coding and debugging skills - you should enjoy solving puzzles, figuring out how and why code works (or does not work!), etc.
 
-- Must have good written communication skills and be able to provide valuable feedback to COS 126 students.
+- Must have good communication skills and be able to provide valuable feedback to COS 126 students.
 
 
 <!--
