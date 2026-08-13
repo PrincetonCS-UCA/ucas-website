@@ -828,9 +828,9 @@ COS 418: Distributed Systems
 
 ## COS 418 Distributed Systems
 
-For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013749).
+For description and past ratings, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1272&courseid=013749).
 
-_Supervised by Supervised by Prof. Michael J. Freedman and Jialin Ding (Fall 2025)_
+_Supervised by Supervised by Prof. Michael J. Freedman and Jialin Ding (Fall 2026)_
 
 _Team communication: a course Slack_
 
