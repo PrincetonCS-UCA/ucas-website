@@ -595,22 +595,24 @@ COS 330: Great Ideas in Theoretical Computer Science
 
 ## COS 330: Great Ideas in Theoretical Computer Science
 
-For description, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=017830).
+For description, see course page on [Princeton Courses](https://registrar.princeton.edu/course-offerings/course-details?term=1272&courseid=017830).
 
-_Supervised by Prof. Matt Weinberg, Prof. Pravesh Kothari, and Prof. Pedro Paredes (Fall 2025)_
+_Supervised by Prof. Pedro Paredes (Fall 2026)_
 
 _Team communication: Centralized Slack_
 
 **Description:**
 
-The COS330 grader will grade and provide feedback on 9 student
-assignments using a live grading format. Instead of traditional
-asynchronous grading, the grader will meet with each student for
-30-minute sessions to read their assignment, provide feedback, and
-assign grades in real time.
+The COS330 "grader" will provide feedback on student assignments using a live 1on1
+grading format. Instead of traditional asynchronous grading, the grader will
+meet with each student for 30-minute sessions to review their assignment
+solutions, provide feedback, and help students develop a deeper understanding of
+the material.
 
-Each grader will be assigned 9 students and will meet with each
-student once per assignment throughout the semester.
+In COS330 the job of the "grader" is closer to a "coach" than a grader. For more
+information, see the [coaching information
+file](https://www.cs.princeton.edu/courses/archive/fall25/cos330/files/info/Coaching.pdf)
+from the last iteration of the course.
 
 Given that this is a novel grading format, questions can be directed
 to Pedro (`pparedes@cs.princeton.edu`) via email.
@@ -618,8 +620,9 @@ to Pedro (`pparedes@cs.princeton.edu`) via email.
 **Responsibilities**
 
 - Attend a meeting on grading expectations and guidelines (~1 hour, once at the start of the semester)
-- Prepare for grading by reading assignment, solutions, and grading guidelines (~1 hour per assignment)
-- Hold 30-minute grading meetings with assigned students (~4.5 hours per assignment, 9 students total)
+- Prepare for grading by reading class content, assignments, and solutions (~1 hour per week)
+- Hold 30-minute grading meetings with assigned students (<5 hours per week, <5 students total)
+- UCAs are expected to run 10 sessions, over the 12 weeks of classes
 
 **Requirements:**
 
