@@ -622,7 +622,7 @@ to Pedro (`pparedes@cs.princeton.edu`) via email.
 - Attend a meeting on grading expectations and guidelines (~1 hour, once at the start of the semester)
 - Prepare for grading by reading class content, assignments, and solutions (~1 hour per week)
 - Hold 30-minute grading meetings with assigned students (<5 hours per week, <5 students total)
-- UCAs are expected to run 10 sessions, over the 12 weeks of classes
+- UCAs are expected to run 10 sessions per student, over the 12 weeks of classes
 
 **Requirements:**
 
