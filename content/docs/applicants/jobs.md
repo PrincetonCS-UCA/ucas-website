@@ -237,11 +237,11 @@ A PA may also be hired as a grader or as a COS Lab TA.
 
 **Requirements:**
 
-- Must have previously taken COS 126 andthe Raspberry Pi precept
+- Must have previously taken COS 126 and the Raspberry Pi precept
 
 - Must be able to effectively assist and communicate with a diverse group of students
   
-- Before applying to this position, please confirm you are available for Tuesday/Thursday 10:40am-12:00pm precept.
+- Before applying to this position, please confirm you are available for Tuesday/Thursday 1:20-2:40pm (P13) precept.
 
 <!--
 From (Ruth Fong): https://bit.ly/126AssistantsS22
